@@ -8,6 +8,13 @@
 - [開啟香氣圖譜網頁][project-site]
 - [GitHub 原始碼與說明文件][project-repository]
 
+## 作業文件
+
+- [四頁 Word 作業文件](docs/HW1-415085047-YEN-TING-YA.docx)
+- [同內容的 Markdown 文件](docs/assignment-report.md)
+
+文件包含專案截圖、GitHub 與網站連結、資料整理與 D3 設計、操作示範、圖表觀察及資料限制。
+
 ## 執行方式
 
 本專案使用 HTML、CSS、JavaScript 與 D3.js 7.9.0，不需要安裝 npm 套件。
