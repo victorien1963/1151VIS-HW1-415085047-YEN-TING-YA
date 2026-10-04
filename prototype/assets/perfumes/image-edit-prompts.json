@@ -1,0 +1,212 @@
+[
+  {
+    "perfume_id": "diptyque-orpheon",
+    "tool": "built-in image_gen",
+    "file": "cutouts/diptyque-orpheon.png",
+    "prompt": "Use case: background-extraction. Edit target: supplied official diptyque-orpheon perfume photograph. Isolate exactly this bottle on actual transparent alpha by removing the gray/white outside background and cast shadow only. Keep the exact original black cap, glass shape, perfume color, reflections, all detailed label illustration and original letter placement fully unchanged. Do not redraw, rearrange or invent label text or line art. Full original bottle, preserve original front-view proportions, narrow transparent margin. No floor, box, added shadow or background."
+  },
+  {
+    "perfume_id": "diptyque-fleur-de-peau",
+    "tool": "built-in image_gen",
+    "file": "cutouts/diptyque-fleur-de-peau.png",
+    "prompt": "Use case: background-extraction. Edit target: supplied official diptyque-fleur-de-peau perfume photograph. Isolate exactly this bottle on actual transparent alpha by removing the gray/white outside background and cast shadow only. Keep the exact original black cap, glass shape, perfume color, reflections, all detailed label illustration and original letter placement fully unchanged. Do not redraw, rearrange or invent label text or line art. Full original bottle, preserve original front-view proportions, narrow transparent margin. No floor, box, added shadow or background."
+  },
+  {
+    "perfume_id": "diptyque-eau-rose",
+    "tool": "built-in image_gen",
+    "file": "cutouts/diptyque-eau-rose.png",
+    "prompt": "Use case: background-extraction. Edit target: supplied official diptyque-eau-rose perfume photograph. Isolate exactly this bottle on actual transparent alpha by removing the gray/white outside background and cast shadow only. Keep the exact original black cap, glass shape, perfume color, reflections, all detailed label illustration and original letter placement fully unchanged. Do not redraw, rearrange or invent label text or line art. Full original bottle, preserve original front-view proportions, narrow transparent margin. No floor, box, added shadow or background."
+  },
+  {
+    "perfume_id": "diptyque-eau-de-minthe",
+    "tool": "built-in image_gen",
+    "file": "cutouts/diptyque-eau-de-minthe.png",
+    "prompt": "Use case: background-extraction. Edit target: supplied official diptyque-eau-de-minthe perfume photograph. Isolate exactly this bottle on actual transparent alpha by removing the gray/white outside background and cast shadow only. Keep the exact original black cap, glass shape, perfume color, reflections, all detailed label illustration and original letter placement fully unchanged. Do not redraw, rearrange or invent label text or line art. Full original bottle, preserve original front-view proportions, narrow transparent margin. No floor, box, added shadow or background."
+  },
+  {
+    "perfume_id": "diptyque-lilyphea",
+    "tool": "built-in image_gen",
+    "file": "cutouts/diptyque-lilyphea.png",
+    "prompt": "Use case: background-extraction. Edit target: supplied official diptyque-lilyphea perfume photograph. Isolate exactly this bottle on actual transparent alpha by removing the gray/white outside background and cast shadow only. Keep the exact original black cap, glass shape, perfume color, reflections, all detailed label illustration and original letter placement fully unchanged. Do not redraw, rearrange or invent label text or line art. Full original bottle, preserve original front-view proportions, narrow transparent margin. No floor, box, added shadow or background."
+  },
+  {
+    "perfume_id": "hermes-rose-ikebana",
+    "tool": "built-in image_gen",
+    "file": "cutouts/hermes-rose-ikebana.png",
+    "prompt": "Use case: background-extraction. Input edit target is the supplied official hermes-rose-ikebana bottle photograph. Remove only the studio backdrop and cast floor shadow into actual alpha transparency. Preserve the exact real photographed bottle with all original label lettering, illustrations, cap, reflections, color, liquid level, proportions and attached accessories; no redesign and no invented text. Keep its original front-facing pose. A single complete bottle with a narrow transparent margin, no floor or added shadow, useful for a small product catalog thumbnail. Do not reinterpret brand typography or illustration."
+  },
+  {
+    "perfume_id": "hermes-musc-pallida",
+    "tool": "built-in image_gen",
+    "file": "cutouts/hermes-musc-pallida.png",
+    "prompt": "Use case: background-extraction. Input edit target is the supplied official hermes-musc-pallida bottle photograph. Remove only the studio backdrop and cast floor shadow into actual alpha transparency. Preserve the exact real photographed bottle with all original label lettering, illustrations, cap, reflections, color, liquid level, proportions and attached accessories; no redesign and no invented text. Keep its original front-facing pose. A single complete bottle with a narrow transparent margin, no floor or added shadow, useful for a small product catalog thumbnail. Do not reinterpret brand typography or illustration."
+  },
+  {
+    "perfume_id": "hermes-cabriole",
+    "tool": "built-in image_gen",
+    "file": "cutouts/hermes-cabriole.png",
+    "prompt": "Use case: background-extraction. Input edit target is the supplied official hermes-cabriole bottle photograph. Remove only the studio backdrop and cast floor shadow into actual alpha transparency. Preserve the exact real photographed bottle with all original label lettering, illustrations, cap, reflections, color, liquid level, proportions and attached accessories; no redesign and no invented text. Keep its original front-facing pose. A single complete bottle with a narrow transparent margin, no floor or added shadow, useful for a small product catalog thumbnail. Do not reinterpret brand typography or illustration."
+  },
+  {
+    "perfume_id": "hermes-twilly-eau-ginger",
+    "tool": "built-in image_gen",
+    "file": "cutouts/hermes-twilly-eau-ginger.png",
+    "prompt": "Use case: background-extraction. Input edit target is the supplied official hermes-twilly-eau-ginger bottle photograph. Remove only the studio backdrop and cast floor shadow into actual alpha transparency. Preserve the exact real photographed bottle with all original label lettering, illustrations, cap, reflections, color, liquid level, proportions and attached accessories; no redesign and no invented text. Keep its original front-facing pose. A single complete bottle with a narrow transparent margin, no floor or added shadow, useful for a small product catalog thumbnail. Do not reinterpret brand typography or illustration."
+  },
+  {
+    "perfume_id": "elizabeth-arden-green-tea",
+    "tool": "built-in image_gen",
+    "file": "cutouts/elizabeth-arden-green-tea.png",
+    "prompt": "Use case: background-extraction. Edit target is supplied official elizabeth-arden-green-tea bottle photograph. Make a clean transparent PNG cutout: remove only white backdrop and the mirrored floor reflection beneath bottle. All pixels outside bottle must be transparent, without glow or shadow. Preserve exact bottle outline, original camera angle and proportions, cap and dispenser, glass reflections, perfume color, all printed original text and artwork. No redraw or styling changes. Complete single bottle centered with small transparent margins."
+  },
+  {
+    "perfume_id": "elizabeth-arden-sunflowers",
+    "tool": "built-in image_gen",
+    "file": "cutouts/elizabeth-arden-sunflowers.png",
+    "prompt": "Use case: background-extraction. Edit target is supplied official elizabeth-arden-sunflowers bottle photograph. Make a clean transparent PNG cutout: remove only white backdrop and the mirrored floor reflection beneath bottle. All pixels outside bottle must be transparent, without glow or shadow. Preserve exact bottle outline, original camera angle and proportions, cap and dispenser, glass reflections, perfume color, all printed original text and artwork. No redraw or styling changes. Complete single bottle centered with small transparent margins."
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "tool": "built-in image_gen",
+    "file": "cutouts/elizabeth-arden-5th-avenue.png",
+    "prompt": "Use case: background-extraction. Edit target is supplied official elizabeth-arden-5th-avenue bottle photograph. Make a clean transparent PNG cutout: remove only white backdrop and the mirrored floor reflection beneath bottle. All pixels outside bottle must be transparent, without glow or shadow. Preserve exact bottle outline, original camera angle and proportions, cap and dispenser, glass reflections, perfume color, all printed original text and artwork. No redraw or styling changes. Complete single bottle centered with small transparent margins."
+  },
+  {
+    "perfume_id": "elizabeth-arden-arden-beauty",
+    "tool": "built-in image_gen",
+    "file": "cutouts/elizabeth-arden-arden-beauty.png",
+    "prompt": "Use case: background-extraction. Edit target is supplied official elizabeth-arden-arden-beauty bottle photograph. Make a clean transparent PNG cutout: remove only white backdrop and the mirrored floor reflection beneath bottle. All pixels outside bottle must be transparent, without glow or shadow. Preserve exact bottle outline, original camera angle and proportions, cap and dispenser, glass reflections, perfume color, all printed original text and artwork. No redraw or styling changes. Complete single bottle centered with small transparent margins."
+  },
+  {
+    "perfume_id": "elizabeth-arden-provocative-woman",
+    "tool": "built-in image_gen",
+    "file": "cutouts/elizabeth-arden-provocative-woman.png",
+    "prompt": "Use case: background-extraction. Edit target is supplied official elizabeth-arden-provocative-woman bottle photograph. Make a clean transparent PNG cutout: remove only white backdrop and the mirrored floor reflection beneath bottle. All pixels outside bottle must be transparent, without glow or shadow. Preserve exact bottle outline, original camera angle and proportions, cap and dispenser, glass reflections, perfume color, all printed original text and artwork. No redraw or styling changes. Complete single bottle centered with small transparent margins."
+  },
+  {
+    "perfume_id": "byredo-rose-of-no-mans-land",
+    "tool": "built-in image_gen",
+    "file": "cutouts/byredo-rose-of-no-mans-land.png",
+    "prompt": "Use case: background-extraction. Edit target: supplied official byredo-rose-of-no-mans-land product photograph. Remove ALL backdrop and floor pixels outside the exact bottle silhouette to 100% transparent alpha. NO halo, glow, surrounding haze, gradient, cast shadow, drop shadow or reflected bottle beneath it. Keep just the whole original perfume bottle with original label spelling and typography, cap, glass, liquid color, original camera view and proportions. Change only the exterior background; don't stylize or redesign anything on the bottle. Remove any external headline below the bottle. Small transparent margin around full bottle. This PNG must overlay cleanly on a cream webpage without a rectangular background or glow."
+  },
+  {
+    "perfume_id": "byredo-blanche",
+    "tool": "built-in image_gen",
+    "file": "cutouts/byredo-blanche.png",
+    "prompt": "Use case: background-extraction. Edit target: supplied official byredo-blanche product photograph. Remove ALL backdrop and floor pixels outside the exact bottle silhouette to 100% transparent alpha. NO halo, glow, surrounding haze, gradient, cast shadow, drop shadow or reflected bottle beneath it. Keep just the whole original perfume bottle with original label spelling and typography, cap, glass, liquid color, original camera view and proportions. Change only the exterior background; don't stylize or redesign anything on the bottle. Remove any external headline below the bottle. Small transparent margin around full bottle. This PNG must overlay cleanly on a cream webpage without a rectangular background or glow."
+  },
+  {
+    "perfume_id": "byredo-gypsy-water",
+    "tool": "built-in image_gen",
+    "file": "cutouts/byredo-gypsy-water.png",
+    "prompt": "Use case: background-extraction. Edit target: supplied official byredo-gypsy-water product photograph. Remove ALL backdrop and floor pixels outside the exact bottle silhouette to 100% transparent alpha. NO halo, glow, surrounding haze, gradient, cast shadow, drop shadow or reflected bottle beneath it. Keep just the whole original perfume bottle with original label spelling and typography, cap, glass, liquid color, original camera view and proportions. Change only the exterior background; don't stylize or redesign anything on the bottle. Remove any external headline below the bottle. Small transparent margin around full bottle. This PNG must overlay cleanly on a cream webpage without a rectangular background or glow."
+  },
+  {
+    "perfume_id": "byredo-mojave-ghost",
+    "tool": "built-in image_gen",
+    "file": "cutouts/byredo-mojave-ghost.png",
+    "prompt": "Use case: background-extraction. Edit target: supplied official byredo-mojave-ghost product photograph. Remove ALL backdrop and floor pixels outside the exact bottle silhouette to 100% transparent alpha. NO halo, glow, surrounding haze, gradient, cast shadow, drop shadow or reflected bottle beneath it. Keep just the whole original perfume bottle with original label spelling and typography, cap, glass, liquid color, original camera view and proportions. Change only the exterior background; don't stylize or redesign anything on the bottle. Remove any external headline below the bottle. Small transparent margin around full bottle. This PNG must overlay cleanly on a cream webpage without a rectangular background or glow."
+  },
+  {
+    "perfume_id": "byredo-bal-dafrique",
+    "tool": "built-in image_gen",
+    "file": "cutouts/byredo-bal-dafrique.png",
+    "prompt": "Use case: background-extraction. Edit target: supplied official byredo-bal-dafrique product photograph. Remove ALL backdrop and floor pixels outside the exact bottle silhouette to 100% transparent alpha. NO halo, glow, surrounding haze, gradient, cast shadow, drop shadow or reflected bottle beneath it. Keep just the whole original perfume bottle with original label spelling and typography, cap, glass, liquid color, original camera view and proportions. Change only the exterior background; don't stylize or redesign anything on the bottle. Remove any external headline below the bottle. Small transparent margin around full bottle. This PNG must overlay cleanly on a cream webpage without a rectangular background or glow."
+  },
+  {
+    "perfume_id": "coach-floral",
+    "tool": "built-in image_gen",
+    "file": "cutouts/coach-floral.png",
+    "prompt": "Use case: background-extraction. Input edit target: supplied official coach-floral fragrance photo. Remove only the gray studio background, cast shadow and any caption outside the bottle, to actual alpha transparency. Preserve original bottle silhouette and proportions exactly, including cap/nozzle, original view angle, attached tags or ornaments, all label lettering, logos, engraving, liquid color and lighting. Do not redraw label artwork or restyle bottle. One whole bottle with narrow transparent margins, no floor or added shadows. Keep text printed on bottle, remove external headline outside it. Output a clean product cutout."
+  },
+  {
+    "perfume_id": "coach-dreams-sunset",
+    "tool": "built-in image_gen",
+    "file": "cutouts/coach-dreams-sunset.png",
+    "prompt": "Use case: background-extraction. Input edit target: supplied official coach-dreams-sunset fragrance photo. Remove only the gray studio background, cast shadow and any caption outside the bottle, to actual alpha transparency. Preserve original bottle silhouette and proportions exactly, including cap/nozzle, original view angle, attached tags or ornaments, all label lettering, logos, engraving, liquid color and lighting. Do not redraw label artwork or restyle bottle. One whole bottle with narrow transparent margins, no floor or added shadows. Keep text printed on bottle, remove external headline outside it. Output a clean product cutout."
+  },
+  {
+    "perfume_id": "coach-for-men",
+    "tool": "built-in image_gen",
+    "file": "cutouts/coach-for-men.png",
+    "prompt": "Use case: background-extraction. Input edit target: supplied official coach-for-men fragrance photo. Remove only the gray studio background, cast shadow and any caption outside the bottle, to actual alpha transparency. Preserve original bottle silhouette and proportions exactly, including cap/nozzle, original view angle, attached tags or ornaments, all label lettering, logos, engraving, liquid color and lighting. Do not redraw label artwork or restyle bottle. One whole bottle with narrow transparent margins, no floor or added shadows. Keep text printed on bottle, remove external headline outside it. Output a clean product cutout."
+  },
+  {
+    "perfume_id": "coach-open-road",
+    "tool": "built-in image_gen",
+    "file": "cutouts/coach-open-road.png",
+    "prompt": "Use case: background-extraction. Edit target: supplied official coach-open-road product photograph. Remove ALL backdrop and floor pixels outside the exact bottle silhouette to 100% transparent alpha. NO halo, glow, surrounding haze, gradient, cast shadow, drop shadow or reflected bottle beneath it. Keep just the whole original perfume bottle with original label spelling and typography, cap, glass, liquid color, original camera view and proportions. Change only the exterior background; don't stylize or redesign anything on the bottle. Remove any external headline below the bottle. Small transparent margin around full bottle. This PNG must overlay cleanly on a cream webpage without a rectangular background or glow."
+  },
+  {
+    "perfume_id": "coach-dreams",
+    "tool": "built-in image_gen",
+    "file": "cutouts/coach-dreams.png",
+    "prompt": "Use case: background-extraction. Input edit target: supplied official coach-dreams fragrance photo. Remove only the gray studio background, cast shadow and any caption outside the bottle, to actual alpha transparency. Preserve original bottle silhouette and proportions exactly, including cap/nozzle, original view angle, attached tags or ornaments, all label lettering, logos, engraving, liquid color and lighting. Do not redraw label artwork or restyle bottle. One whole bottle with narrow transparent margins, no floor or added shadows. Keep text printed on bottle, remove external headline outside it. Output a clean product cutout."
+  },
+  {
+    "perfume_id": "dior-miss-dior-blooming-bouquet",
+    "tool": "built-in image_gen",
+    "file": "cutouts/dior-miss-dior-blooming-bouquet.png",
+    "prompt": "Use case: background-extraction. Edit target: the supplied official dior-miss-dior-blooming-bouquet fragrance photograph. Isolate the exact original full bottle, transparent alpha background. Remove ALL exterior studio backdrop and cast shadows. No halo, glow, gradient, floor or shadow around the bottle. Keep the original bottle shape, proportions, glass facets, cap, any ribbon, original label text, logo, liquid color and lighting fully faithful to input. Do not restyle, invent or add text. Small clear margin, complete bottle, same original camera angle. This cutout will be placed on a cream catalog webpage."
+  },
+  {
+    "perfume_id": "dior-sauvage",
+    "tool": "built-in image_gen",
+    "file": "cutouts/dior-sauvage.png",
+    "prompt": "Use case: background-extraction. Edit target: the supplied official dior-sauvage fragrance photograph. Isolate the exact original full bottle, transparent alpha background. Remove ALL exterior studio backdrop and cast shadows. No halo, glow, gradient, floor or shadow around the bottle. Keep the original bottle shape, proportions, glass facets, cap, any ribbon, original label text, logo, liquid color and lighting fully faithful to input. Do not restyle, invent or add text. Small clear margin, complete bottle, same original camera angle. This cutout will be placed on a cream catalog webpage."
+  },
+  {
+    "perfume_id": "dior-jadore",
+    "tool": "built-in image_gen",
+    "file": "cutouts/dior-jadore.png",
+    "prompt": "Use case: background-extraction. Edit target: the supplied official dior-jadore fragrance photograph. Isolate the exact original full bottle, transparent alpha background. Remove ALL exterior studio backdrop and cast shadows. No halo, glow, gradient, floor or shadow around the bottle. Keep the original bottle shape, proportions, glass facets, cap, any ribbon, original label text, logo, liquid color and lighting fully faithful to input. Do not restyle, invent or add text. Small clear margin, complete bottle, same original camera angle. This cutout will be placed on a cream catalog webpage."
+  },
+  {
+    "perfume_id": "dior-gris-dior",
+    "tool": "built-in image_gen",
+    "file": "cutouts/dior-gris-dior.png",
+    "prompt": "Use case: background-extraction. Edit target: the supplied official dior-gris-dior fragrance photograph. Isolate the exact original full bottle, transparent alpha background. Remove ALL exterior studio backdrop and cast shadows. No halo, glow, gradient, floor or shadow around the bottle. Keep the original bottle shape, proportions, glass facets, cap, any ribbon, original label text, logo, liquid color and lighting fully faithful to input. Do not restyle, invent or add text. Small clear margin, complete bottle, same original camera angle. This cutout will be placed on a cream catalog webpage."
+  },
+  {
+    "perfume_id": "dior-lucky",
+    "tool": "built-in image_gen",
+    "file": "cutouts/dior-lucky.png",
+    "prompt": "Use case: background-extraction. Edit target: the supplied official dior-lucky fragrance photograph. Isolate the exact original full bottle, transparent alpha background. Remove ALL exterior studio backdrop and cast shadows. No halo, glow, gradient, floor or shadow around the bottle. Keep the original bottle shape, proportions, glass facets, cap, any ribbon, original label text, logo, liquid color and lighting fully faithful to input. Do not restyle, invent or add text. Small clear margin, complete bottle, same original camera angle. This cutout will be placed on a cream catalog webpage."
+  },
+  {
+    "perfume_id": "le-labo-another-13",
+    "tool": "built-in image_gen",
+    "file": "cutouts/le-labo-another-13.png",
+    "prompt": "Use case: background-extraction. Input edit target is the supplied official le-labo-another-13 bottle photograph. Remove only the studio backdrop and cast floor shadow into actual alpha transparency. Preserve the exact real photographed bottle with all original label lettering, illustrations, cap, reflections, color, liquid level, proportions and attached accessories; no redesign and no invented text. Keep its original front-facing pose. A single complete bottle with a narrow transparent margin, no floor or added shadow, useful for a small product catalog thumbnail. Do not reinterpret brand typography or illustration."
+  },
+  {
+    "perfume_id": "le-labo-santal-33",
+    "tool": "built-in image_gen",
+    "file": "cutouts/le-labo-santal-33.png",
+    "prompt": "Use case: background-extraction. Input edit target is the supplied official le-labo-santal-33 bottle photograph. Remove only the studio backdrop and cast floor shadow into actual alpha transparency. Preserve the exact real photographed bottle with all original label lettering, illustrations, cap, reflections, color, liquid level, proportions and attached accessories; no redesign and no invented text. Keep its original front-facing pose. A single complete bottle with a narrow transparent margin, no floor or added shadow, useful for a small product catalog thumbnail. Do not reinterpret brand typography or illustration."
+  },
+  {
+    "perfume_id": "le-labo-lys-41",
+    "tool": "built-in image_gen",
+    "file": "cutouts/le-labo-lys-41.png",
+    "prompt": "Use case: background-extraction. Input edit target: supplied official le-labo-lys-41 fragrance photo. Remove only the gray studio background, cast shadow and any caption outside the bottle, to actual alpha transparency. Preserve original bottle silhouette and proportions exactly, including cap/nozzle, original view angle, attached tags or ornaments, all label lettering, logos, engraving, liquid color and lighting. Do not redraw label artwork or restyle bottle. One whole bottle with narrow transparent margins, no floor or added shadows. Keep text printed on bottle, remove external headline outside it. Output a clean product cutout."
+  },
+  {
+    "perfume_id": "le-labo-the-matcha-26",
+    "tool": "built-in image_gen",
+    "file": "cutouts/le-labo-the-matcha-26.png",
+    "prompt": "Use case: background-extraction. Input edit target: supplied official le-labo-the-matcha-26 fragrance photo. Remove only the gray studio background, cast shadow and any caption outside the bottle, to actual alpha transparency. Preserve original bottle silhouette and proportions exactly, including cap/nozzle, original view angle, attached tags or ornaments, all label lettering, logos, engraving, liquid color and lighting. Do not redraw label artwork or restyle bottle. One whole bottle with narrow transparent margins, no floor or added shadows. Keep text printed on bottle, remove external headline outside it. Output a clean product cutout."
+  },
+  {
+    "perfume_id": "le-labo-the-noir-29",
+    "tool": "built-in image_gen",
+    "file": "cutouts/le-labo-the-noir-29.png",
+    "prompt": "Use case: background-extraction. Input edit target: supplied official le-labo-the-noir-29 fragrance photo. Remove only the gray studio background, cast shadow and any caption outside the bottle, to actual alpha transparency. Preserve original bottle silhouette and proportions exactly, including cap/nozzle, original view angle, attached tags or ornaments, all label lettering, logos, engraving, liquid color and lighting. Do not redraw label artwork or restyle bottle. One whole bottle with narrow transparent margins, no floor or added shadows. Keep text printed on bottle, remove external headline outside it. Output a clean product cutout."
+  },
+  {
+    "perfume_id": "hermes-le-jardin-de-monsieur-li",
+    "tool": "built-in image_gen",
+    "file": "cutouts/hermes-le-jardin-de-monsieur-li.png",
+    "prompt": "Use case: background-extraction. Edit target: the supplied official Hermès Le Jardin de Monsieur Li bottle photo. Remove only the studio background and cast floor shadow, yielding actual alpha transparency. Keep the exact real bottle unchanged: rounded clear glass cap with silver core, silver neck, yellow-green perfume, proportions, position, highlights and all original printed lettering. Preserve label text and brand exactly, do not redraw or invent typography. One complete upright bottle, no added objects, no box, no floor, no colored background. Tight useful framing with a small transparent margin around all edges, high fidelity product cutout for a small catalog thumbnail."
+  }
+]
