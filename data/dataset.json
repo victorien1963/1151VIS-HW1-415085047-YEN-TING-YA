@@ -1,0 +1,43 @@
+{
+  "schema_version": "0.2.0",
+  "project": "2026公開推薦香水香調關係",
+  "snapshot_date": "2026-10-03",
+  "status": "official_notes_collected_for_all_50_selected_perfumes",
+  "brand_count": 10,
+  "perfume_count": 50,
+  "source_count": 62,
+  "selection_method": "以 B01 選取十個品牌；各品牌從 2026 推薦文章選五款。Le Labo 依推薦總表前五款，Elizabeth Arden 依文章前五款。COACH 採 R07 第 1、2、4、5 款與 R08 的 Dreams EDP。",
+  "year_definition": "2026 指推薦文章發布、更新或榜單製作年份，不是上市年份或完整年度銷售期間。",
+  "allowed_source_regions": "台灣、香港及海外媒體和零售商。",
+  "unit_of_analysis": "香水款式與明確濃度版本；同款不同容量不重複計數。",
+  "completeness": {
+    "recommendation_confirmed": 50,
+    "official_product_references": 50,
+    "concentration_or_product_type_checked": 50,
+    "official_notes_collected": 50,
+    "published_three_stage_pyramids": 25,
+    "unlayered_official_note_lists": 25,
+    "official_fragrance_family_labels": 28,
+    "fragrance_family_not_disclosed_in_selected_section": 22,
+    "project_note_categories_assigned": 50,
+    "taiwan_availability_checked": 0
+  },
+  "limitations": [
+    "目的性選樣，不代表市場銷量、熱門程度或所有品牌產品。",
+    "2026 是推薦文章年份；香氣來源採查閱時可取得的官方頁，並非每篇推薦文章發布當日的歷史配方。",
+    "含導購與零售商推薦來源，不將文章宣稱的熱賣次序當作可比銷售數字。",
+    "香氣描述不是完整配方、INCI 成分表、原料比例或實際氣味強度，亦不能據此判定天然或合成來源。",
+    "各品牌公開清單長短不同，未提及不等於不含。頻率與相似度只比較描述中的提及情況。",
+    "25 款未在採用來源公布完整三層，不自行補推前中後調；null 須搭配相應 status 解讀。",
+    "官方整體香調與專案香氣項目分類分開保存；部分來源未提供整體分類，不自行猜補。",
+    "使用不同地區官方網站，少數原版仍見於地區頁。未保證 50 款均在台灣販售。",
+    "品牌可能更新文案、改名或改版；保留採用版本與區段，未宣稱新舊版本配方一致。",
+    "保存結構化摘要、原始香氣用詞及書目資訊，未保存完整網頁離線快照。"
+  ],
+  "official_source_count": 50,
+  "canonical_note_count": 130,
+  "raw_note_term_count": 185,
+  "perfume_note_link_count": 297,
+  "note_collection_method": "逐款採用同濃度、同版本官方商品頁或指定系列頁。優先明確 Notes / Tasting Notes / Main raw materials；未完整分層者保留未分層清單。額外具名香氣標為 additional_description。",
+  "note_frequency_definition": "某 note_id 被多少款樣本香水的指定官方區段提及；每款每個 note_id 最多計一次。"
+}

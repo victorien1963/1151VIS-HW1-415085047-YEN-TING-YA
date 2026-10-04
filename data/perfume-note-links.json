@@ -1,0 +1,5058 @@
+[
+  {
+    "perfume_id": "jo-malone-english-pear-freesia",
+    "note_id": "pear",
+    "source_ids": [
+      "O09"
+    ],
+    "raw_names": [
+      "William Pear"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-english-pear-freesia",
+    "note_id": "freesia",
+    "source_ids": [
+      "O09"
+    ],
+    "raw_names": [
+      "Freesia"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-english-pear-freesia",
+    "note_id": "patchouli",
+    "source_ids": [
+      "O09"
+    ],
+    "raw_names": [
+      "Patchouli"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-english-pear-freesia",
+    "note_id": "rose",
+    "source_ids": [
+      "O09"
+    ],
+    "raw_names": [
+      "Rose"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "additional_description"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-wood-sage-sea-salt",
+    "note_id": "ambrette",
+    "source_ids": [
+      "O10"
+    ],
+    "raw_names": [
+      "Ambrette Seeds"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-wood-sage-sea-salt",
+    "note_id": "sea_salt",
+    "source_ids": [
+      "O10"
+    ],
+    "raw_names": [
+      "Sea Salt"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-wood-sage-sea-salt",
+    "note_id": "sage",
+    "source_ids": [
+      "O10"
+    ],
+    "raw_names": [
+      "Sage"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-poppy-barley",
+    "note_id": "blackcurrant",
+    "source_ids": [
+      "O11"
+    ],
+    "raw_names": [
+      "Blackcurrant"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-poppy-barley",
+    "note_id": "poppy",
+    "source_ids": [
+      "O11"
+    ],
+    "raw_names": [
+      "Poppy"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-poppy-barley",
+    "note_id": "barley",
+    "source_ids": [
+      "O11"
+    ],
+    "raw_names": [
+      "Barley"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-poppy-barley",
+    "note_id": "rose",
+    "source_ids": [
+      "O11"
+    ],
+    "raw_names": [
+      "Rose"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "additional_description"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-poppy-barley",
+    "note_id": "violet",
+    "source_ids": [
+      "O11"
+    ],
+    "raw_names": [
+      "Violet"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "additional_description"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-poppy-barley",
+    "note_id": "bran",
+    "source_ids": [
+      "O11"
+    ],
+    "raw_names": [
+      "Bran"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "additional_description"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-english-pear-sweet-pea",
+    "note_id": "pear",
+    "source_ids": [
+      "O12"
+    ],
+    "raw_names": [
+      "Williams Pear"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-english-pear-sweet-pea",
+    "note_id": "sweet_pea",
+    "source_ids": [
+      "O12"
+    ],
+    "raw_names": [
+      "Sweet Pea"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-english-pear-sweet-pea",
+    "note_id": "white_musk",
+    "source_ids": [
+      "O12"
+    ],
+    "raw_names": [
+      "White Musk"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-english-oak-hazelnut",
+    "note_id": "hazelnut",
+    "source_ids": [
+      "O13"
+    ],
+    "raw_names": [
+      "Green Hazelnut"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-english-oak-hazelnut",
+    "note_id": "cedar",
+    "source_ids": [
+      "O13"
+    ],
+    "raw_names": [
+      "Cedarwood"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-english-oak-hazelnut",
+    "note_id": "roasted_oak",
+    "source_ids": [
+      "O13"
+    ],
+    "raw_names": [
+      "Roasted Oak"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "jo-malone-english-oak-hazelnut",
+    "note_id": "vetiver",
+    "source_ids": [
+      "O13"
+    ],
+    "raw_names": [
+      "Vetiver"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "additional_description"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-orpheon",
+    "note_id": "juniper_berry",
+    "source_ids": [
+      "O14"
+    ],
+    "raw_names": [
+      "Juniper berry"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-orpheon",
+    "note_id": "cedar",
+    "source_ids": [
+      "O14"
+    ],
+    "raw_names": [
+      "Cedar"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-orpheon",
+    "note_id": "tonka_bean",
+    "source_ids": [
+      "O14"
+    ],
+    "raw_names": [
+      "Tonka bean"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-orpheon",
+    "note_id": "jasmine",
+    "source_ids": [
+      "O14"
+    ],
+    "raw_names": [
+      "Jasmine"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-fleur-de-peau",
+    "note_id": "musk",
+    "source_ids": [
+      "O15"
+    ],
+    "raw_names": [
+      "Musk"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-fleur-de-peau",
+    "note_id": "iris",
+    "source_ids": [
+      "O15"
+    ],
+    "raw_names": [
+      "Iris"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-fleur-de-peau",
+    "note_id": "ambrette",
+    "source_ids": [
+      "O15"
+    ],
+    "raw_names": [
+      "Ambrette"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-fleur-de-peau",
+    "note_id": "pink_pepper",
+    "source_ids": [
+      "O15"
+    ],
+    "raw_names": [
+      "Pink peppercorn"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-eau-rose",
+    "note_id": "damask_rose",
+    "source_ids": [
+      "O16"
+    ],
+    "raw_names": [
+      "Damascena rose"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-eau-rose",
+    "note_id": "centifolia_rose",
+    "source_ids": [
+      "O16"
+    ],
+    "raw_names": [
+      "Centifolia rose"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-eau-rose",
+    "note_id": "chamomile",
+    "source_ids": [
+      "O16"
+    ],
+    "raw_names": [
+      "Chamomile"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-eau-rose",
+    "note_id": "lychee",
+    "source_ids": [
+      "O16"
+    ],
+    "raw_names": [
+      "Litchi"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-eau-rose",
+    "note_id": "artichoke",
+    "source_ids": [
+      "O16"
+    ],
+    "raw_names": [
+      "Artichoke"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-eau-de-minthe",
+    "note_id": "patchouli",
+    "source_ids": [
+      "O17"
+    ],
+    "raw_names": [
+      "Patchouli"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-eau-de-minthe",
+    "note_id": "geranium",
+    "source_ids": [
+      "O17"
+    ],
+    "raw_names": [
+      "Geranium"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-eau-de-minthe",
+    "note_id": "mint",
+    "source_ids": [
+      "O17"
+    ],
+    "raw_names": [
+      "Mint"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-eau-de-minthe",
+    "note_id": "rose_oxide",
+    "source_ids": [
+      "O17"
+    ],
+    "raw_names": [
+      "Rose oxide"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-lilyphea",
+    "note_id": "cardamom",
+    "source_ids": [
+      "O18"
+    ],
+    "raw_names": [
+      "Cardamom"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-lilyphea",
+    "note_id": "violet_leaf",
+    "source_ids": [
+      "O18"
+    ],
+    "raw_names": [
+      "Violet leaves"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "diptyque-lilyphea",
+    "note_id": "vanilla",
+    "source_ids": [
+      "O18"
+    ],
+    "raw_names": [
+      "Vanilla"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "hermes-rose-ikebana",
+    "note_id": "rose",
+    "source_ids": [
+      "O19"
+    ],
+    "raw_names": [
+      "Rose"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "hermes-rose-ikebana",
+    "note_id": "rhubarb",
+    "source_ids": [
+      "O19"
+    ],
+    "raw_names": [
+      "Rhubarb"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "hermes-musc-pallida",
+    "note_id": "iris",
+    "source_ids": [
+      "O05"
+    ],
+    "raw_names": [
+      "Powdery iris"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "hermes-musc-pallida",
+    "note_id": "musk",
+    "source_ids": [
+      "O05"
+    ],
+    "raw_names": [
+      "Caressing musk"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "hermes-cabriole",
+    "note_id": "osmanthus",
+    "source_ids": [
+      "O20"
+    ],
+    "raw_names": [
+      "Osmanthus"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "hermes-cabriole",
+    "note_id": "honeysuckle",
+    "source_ids": [
+      "O20"
+    ],
+    "raw_names": [
+      "Honeysuckle"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "hermes-cabriole",
+    "note_id": "sandalwood",
+    "source_ids": [
+      "O20"
+    ],
+    "raw_names": [
+      "Sandalwood"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "hermes-twilly-eau-ginger",
+    "note_id": "candied_ginger",
+    "source_ids": [
+      "O21"
+    ],
+    "raw_names": [
+      "Candied ginger"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "hermes-twilly-eau-ginger",
+    "note_id": "peony",
+    "source_ids": [
+      "O21"
+    ],
+    "raw_names": [
+      "Peony"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "hermes-twilly-eau-ginger",
+    "note_id": "cedar",
+    "source_ids": [
+      "O21"
+    ],
+    "raw_names": [
+      "Cedar"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "hermes-le-jardin-de-monsieur-li",
+    "note_id": "jasmine_sambac",
+    "source_ids": [
+      "O22"
+    ],
+    "raw_names": [
+      "Sambac Jasmine"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "hermes-le-jardin-de-monsieur-li",
+    "note_id": "kumquat",
+    "source_ids": [
+      "O22"
+    ],
+    "raw_names": [
+      "Kumquat"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "hermes-le-jardin-de-monsieur-li",
+    "note_id": "bergamot",
+    "source_ids": [
+      "O22"
+    ],
+    "raw_names": [
+      "Bergamot"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-duchess-rose",
+    "note_id": "mandarin",
+    "source_ids": [
+      "O23"
+    ],
+    "raw_names": [
+      "Mandarin"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-duchess-rose",
+    "note_id": "centifolia_rose",
+    "source_ids": [
+      "O23"
+    ],
+    "raw_names": [
+      "Rose centifolia"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-duchess-rose",
+    "note_id": "vanilla",
+    "source_ids": [
+      "O23"
+    ],
+    "raw_names": [
+      "Vanilla"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-duchess-rose",
+    "note_id": "musk",
+    "source_ids": [
+      "O23"
+    ],
+    "raw_names": [
+      "Musk"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "additional_description"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-duchess-rose",
+    "note_id": "woods",
+    "source_ids": [
+      "O23"
+    ],
+    "raw_names": [
+      "Woods"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "additional_description"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-duke",
+    "note_id": "pink_pepper",
+    "source_ids": [
+      "O24"
+    ],
+    "raw_names": [
+      "Pink pepper"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-duke",
+    "note_id": "gin",
+    "source_ids": [
+      "O24"
+    ],
+    "raw_names": [
+      "Gin"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-duke",
+    "note_id": "vetiver",
+    "source_ids": [
+      "O24"
+    ],
+    "raw_names": [
+      "Vetiver"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-duke",
+    "note_id": "rose",
+    "source_ids": [
+      "O24"
+    ],
+    "raw_names": [
+      "Rose"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "additional_description"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-duke",
+    "note_id": "leather",
+    "source_ids": [
+      "O24"
+    ],
+    "raw_names": [
+      "Leather"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "additional_description"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-lord-george",
+    "note_id": "ambrox",
+    "source_ids": [
+      "O25"
+    ],
+    "raw_names": [
+      "Ambrox"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-lord-george",
+    "note_id": "rum",
+    "source_ids": [
+      "O25"
+    ],
+    "raw_names": [
+      "Rum"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-lord-george",
+    "note_id": "tonka_bean",
+    "source_ids": [
+      "O25"
+    ],
+    "raw_names": [
+      "Tonka bean"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-lord-george",
+    "note_id": "shaving_soap",
+    "source_ids": [
+      "O25"
+    ],
+    "raw_names": [
+      "Shaving soap"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "additional_description"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-luna",
+    "note_id": "jasmine",
+    "source_ids": [
+      "O26"
+    ],
+    "raw_names": [
+      "Jasmine"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-luna",
+    "note_id": "fir_balsam",
+    "source_ids": [
+      "O26"
+    ],
+    "raw_names": [
+      "Fir balsam"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-luna",
+    "note_id": "bergamot",
+    "source_ids": [
+      "O26"
+    ],
+    "raw_names": [
+      "Bergamot"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-luna",
+    "note_id": "orange",
+    "source_ids": [
+      "O26"
+    ],
+    "raw_names": [
+      "Orange"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "additional_description"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-luna",
+    "note_id": "rose",
+    "source_ids": [
+      "O26"
+    ],
+    "raw_names": [
+      "Rose"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "additional_description"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-empressa",
+    "note_id": "patchouli",
+    "source_ids": [
+      "O27"
+    ],
+    "raw_names": [
+      "Patchouli"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-empressa",
+    "note_id": "bergamot",
+    "source_ids": [
+      "O27"
+    ],
+    "raw_names": [
+      "Bergamot"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-empressa",
+    "note_id": "peach",
+    "source_ids": [
+      "O27"
+    ],
+    "raw_names": [
+      "Peach"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-empressa",
+    "note_id": "vanilla",
+    "source_ids": [
+      "O27"
+    ],
+    "raw_names": [
+      "Vanilla"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "additional_description"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "penhaligons-empressa",
+    "note_id": "blood_orange",
+    "source_ids": [
+      "O27"
+    ],
+    "raw_names": [
+      "Blood orange"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "additional_description"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-green-tea",
+    "note_id": "bergamot",
+    "source_ids": [
+      "O06"
+    ],
+    "raw_names": [
+      "Bergamot"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-green-tea",
+    "note_id": "lemon",
+    "source_ids": [
+      "O06"
+    ],
+    "raw_names": [
+      "Lemon"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-green-tea",
+    "note_id": "green_tea",
+    "source_ids": [
+      "O06"
+    ],
+    "raw_names": [
+      "Green Tea Accord"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-green-tea",
+    "note_id": "jasmine",
+    "source_ids": [
+      "O06"
+    ],
+    "raw_names": [
+      "Jasmine Accord"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-green-tea",
+    "note_id": "celery_seed",
+    "source_ids": [
+      "O06"
+    ],
+    "raw_names": [
+      "Celery Seeds"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-green-tea",
+    "note_id": "amber",
+    "source_ids": [
+      "O06"
+    ],
+    "raw_names": [
+      "Amber"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-green-tea",
+    "note_id": "oakmoss",
+    "source_ids": [
+      "O06"
+    ],
+    "raw_names": [
+      "Oakmoss"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-green-tea",
+    "note_id": "musk",
+    "source_ids": [
+      "O06"
+    ],
+    "raw_names": [
+      "Musk"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-sunflowers",
+    "note_id": "bergamot",
+    "source_ids": [
+      "O03"
+    ],
+    "raw_names": [
+      "Bergamot"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-sunflowers",
+    "note_id": "melon",
+    "source_ids": [
+      "O03"
+    ],
+    "raw_names": [
+      "Melon"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-sunflowers",
+    "note_id": "peach",
+    "source_ids": [
+      "O03"
+    ],
+    "raw_names": [
+      "Peach"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-sunflowers",
+    "note_id": "osmanthus",
+    "source_ids": [
+      "O03"
+    ],
+    "raw_names": [
+      "Osmanthus"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-sunflowers",
+    "note_id": "jasmine",
+    "source_ids": [
+      "O03"
+    ],
+    "raw_names": [
+      "Jasmine"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-sunflowers",
+    "note_id": "cyclamen",
+    "source_ids": [
+      "O03"
+    ],
+    "raw_names": [
+      "Cyclamen"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-sunflowers",
+    "note_id": "rose",
+    "source_ids": [
+      "O03"
+    ],
+    "raw_names": [
+      "Rose"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-sunflowers",
+    "note_id": "sandalwood",
+    "source_ids": [
+      "O03"
+    ],
+    "raw_names": [
+      "Sandalwood"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-sunflowers",
+    "note_id": "moss",
+    "source_ids": [
+      "O03"
+    ],
+    "raw_names": [
+      "Moss"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-sunflowers",
+    "note_id": "musk",
+    "source_ids": [
+      "O03"
+    ],
+    "raw_names": [
+      "Musks"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "magnolia",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Dewy Magnolia"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "lilac",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Lilac"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "linden_blossom",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Linden Blossom"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "lily_of_valley",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Muguet"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "mandarin",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Exotic Mandarin"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "bergamot",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Bergamot"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "violet",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Violet"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "rose",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Rare Rose Bulgarian"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "ylang_ylang",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Ylang-Yang"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "jasmine",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Jasmine"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "tuberose",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Indian Turberose"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "peach",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Peach"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "clove",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Clove"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "nutmeg",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Nutmeg"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "amber",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Amber"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "musk",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Tibetan Musk"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "sandalwood",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Sandalwood"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "iris",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Iris"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-5th-avenue",
+    "note_id": "vanilla",
+    "source_ids": [
+      "O07"
+    ],
+    "raw_names": [
+      "Vanilla"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-arden-beauty",
+    "note_id": "bergamot",
+    "source_ids": [
+      "O02"
+    ],
+    "raw_names": [
+      "Italian Bergamot"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-arden-beauty",
+    "note_id": "rice_flower",
+    "source_ids": [
+      "O02"
+    ],
+    "raw_names": [
+      "Living Rice Flower"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-arden-beauty",
+    "note_id": "green_leaves",
+    "source_ids": [
+      "O02"
+    ],
+    "raw_names": [
+      "Dewy Green Accord"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-arden-beauty",
+    "note_id": "blue_lotus",
+    "source_ids": [
+      "O02"
+    ],
+    "raw_names": [
+      "Blue Lotus Flower"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-arden-beauty",
+    "note_id": "ginger_lily",
+    "source_ids": [
+      "O02"
+    ],
+    "raw_names": [
+      "Living Gingerlily"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-arden-beauty",
+    "note_id": "lily",
+    "source_ids": [
+      "O02"
+    ],
+    "raw_names": [
+      "Rubrum Lily"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-arden-beauty",
+    "note_id": "orchid",
+    "source_ids": [
+      "O02"
+    ],
+    "raw_names": [
+      "Golden Sunset Orchid"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-arden-beauty",
+    "note_id": "sandalwood",
+    "source_ids": [
+      "O02"
+    ],
+    "raw_names": [
+      "Indian Sandalwood"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-arden-beauty",
+    "note_id": "white_amber",
+    "source_ids": [
+      "O02"
+    ],
+    "raw_names": [
+      "White Amber"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-arden-beauty",
+    "note_id": "musk",
+    "source_ids": [
+      "O02"
+    ],
+    "raw_names": [
+      "Skin Sensual Musk"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-provocative-woman",
+    "note_id": "ginger_lily",
+    "source_ids": [
+      "O04"
+    ],
+    "raw_names": [
+      "Ginger Lily"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-provocative-woman",
+    "note_id": "quince",
+    "source_ids": [
+      "O04"
+    ],
+    "raw_names": [
+      "Chilled Quince"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-provocative-woman",
+    "note_id": "water_lotus",
+    "source_ids": [
+      "O04"
+    ],
+    "raw_names": [
+      "Water Lotus"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-provocative-woman",
+    "note_id": "freesia",
+    "source_ids": [
+      "O04"
+    ],
+    "raw_names": [
+      "Pink Freesia"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-provocative-woman",
+    "note_id": "orchid",
+    "source_ids": [
+      "O04"
+    ],
+    "raw_names": [
+      "Midnight Orchid"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-provocative-woman",
+    "note_id": "papaya_blossom",
+    "source_ids": [
+      "O04"
+    ],
+    "raw_names": [
+      "Papaya Blossom"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-provocative-woman",
+    "note_id": "amber",
+    "source_ids": [
+      "O04"
+    ],
+    "raw_names": [
+      "Red Amber"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-provocative-woman",
+    "note_id": "white_sand",
+    "source_ids": [
+      "O04"
+    ],
+    "raw_names": [
+      "White Sand Accord"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "elizabeth-arden-provocative-woman",
+    "note_id": "hinoki",
+    "source_ids": [
+      "O04"
+    ],
+    "raw_names": [
+      "Hinoki Wood"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-rose-of-no-mans-land",
+    "note_id": "pink_pepper",
+    "source_ids": [
+      "O28"
+    ],
+    "raw_names": [
+      "Pink Pepper"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-rose-of-no-mans-land",
+    "note_id": "rose",
+    "source_ids": [
+      "O28"
+    ],
+    "raw_names": [
+      "Turkish Rose Petals",
+      "Turkish Rose Absolute"
+    ],
+    "stages": [
+      "top",
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-rose-of-no-mans-land",
+    "note_id": "raspberry_blossom",
+    "source_ids": [
+      "O28"
+    ],
+    "raw_names": [
+      "Raspberry Blossom"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-rose-of-no-mans-land",
+    "note_id": "amber",
+    "source_ids": [
+      "O28"
+    ],
+    "raw_names": [
+      "Amber"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-rose-of-no-mans-land",
+    "note_id": "papyrus",
+    "source_ids": [
+      "O28"
+    ],
+    "raw_names": [
+      "Papyrus"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-blanche",
+    "note_id": "aldehyde",
+    "source_ids": [
+      "O29"
+    ],
+    "raw_names": [
+      "Aldehyde"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-blanche",
+    "note_id": "centifolia_rose",
+    "source_ids": [
+      "O29"
+    ],
+    "raw_names": [
+      "Rose Centifolia"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-blanche",
+    "note_id": "peony",
+    "source_ids": [
+      "O29"
+    ],
+    "raw_names": [
+      "Peony"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-blanche",
+    "note_id": "violet",
+    "source_ids": [
+      "O29"
+    ],
+    "raw_names": [
+      "Violet"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-blanche",
+    "note_id": "musk",
+    "source_ids": [
+      "O29"
+    ],
+    "raw_names": [
+      "Musks"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-blanche",
+    "note_id": "sandalwood",
+    "source_ids": [
+      "O29"
+    ],
+    "raw_names": [
+      "Sandalwood"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-gypsy-water",
+    "note_id": "bergamot",
+    "source_ids": [
+      "O30"
+    ],
+    "raw_names": [
+      "Bergamot"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-gypsy-water",
+    "note_id": "juniper_berry",
+    "source_ids": [
+      "O30"
+    ],
+    "raw_names": [
+      "Juniper Berries"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-gypsy-water",
+    "note_id": "lemon",
+    "source_ids": [
+      "O30"
+    ],
+    "raw_names": [
+      "Lemon"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-gypsy-water",
+    "note_id": "pepper",
+    "source_ids": [
+      "O30"
+    ],
+    "raw_names": [
+      "Pepper"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-gypsy-water",
+    "note_id": "incense",
+    "source_ids": [
+      "O30"
+    ],
+    "raw_names": [
+      "Incense"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-gypsy-water",
+    "note_id": "orris",
+    "source_ids": [
+      "O30"
+    ],
+    "raw_names": [
+      "Orris"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-gypsy-water",
+    "note_id": "pine_needle",
+    "source_ids": [
+      "O30"
+    ],
+    "raw_names": [
+      "Pine Needle"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-gypsy-water",
+    "note_id": "amber",
+    "source_ids": [
+      "O30"
+    ],
+    "raw_names": [
+      "Amber"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-gypsy-water",
+    "note_id": "sandalwood",
+    "source_ids": [
+      "O30"
+    ],
+    "raw_names": [
+      "Sandalwood"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-gypsy-water",
+    "note_id": "vanilla",
+    "source_ids": [
+      "O30"
+    ],
+    "raw_names": [
+      "Vanilla"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-mojave-ghost",
+    "note_id": "ambrette",
+    "source_ids": [
+      "O31"
+    ],
+    "raw_names": [
+      "Ambrette"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-mojave-ghost",
+    "note_id": "naseberry",
+    "source_ids": [
+      "O31"
+    ],
+    "raw_names": [
+      "Naseberry"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-mojave-ghost",
+    "note_id": "magnolia",
+    "source_ids": [
+      "O31"
+    ],
+    "raw_names": [
+      "Magnolia"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-mojave-ghost",
+    "note_id": "sandalwood",
+    "source_ids": [
+      "O31"
+    ],
+    "raw_names": [
+      "Sandalwood"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-mojave-ghost",
+    "note_id": "violet",
+    "source_ids": [
+      "O31"
+    ],
+    "raw_names": [
+      "Violet"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-mojave-ghost",
+    "note_id": "cedar",
+    "source_ids": [
+      "O31"
+    ],
+    "raw_names": [
+      "Cedarwood"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-mojave-ghost",
+    "note_id": "musk",
+    "source_ids": [
+      "O31"
+    ],
+    "raw_names": [
+      "Musks"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-mojave-ghost",
+    "note_id": "vetiver",
+    "source_ids": [
+      "O31"
+    ],
+    "raw_names": [
+      "Vetiver"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-bal-dafrique",
+    "note_id": "buchu",
+    "source_ids": [
+      "O32"
+    ],
+    "raw_names": [
+      "Buchu"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-bal-dafrique",
+    "note_id": "african_marigold",
+    "source_ids": [
+      "O32"
+    ],
+    "raw_names": [
+      "African Marigold"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-bal-dafrique",
+    "note_id": "bergamot",
+    "source_ids": [
+      "O32"
+    ],
+    "raw_names": [
+      "Bergamot"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-bal-dafrique",
+    "note_id": "blackcurrant",
+    "source_ids": [
+      "O32"
+    ],
+    "raw_names": [
+      "Blackcurrant"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-bal-dafrique",
+    "note_id": "cyclamen",
+    "source_ids": [
+      "O32"
+    ],
+    "raw_names": [
+      "Cyclamen"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-bal-dafrique",
+    "note_id": "jasmine",
+    "source_ids": [
+      "O32"
+    ],
+    "raw_names": [
+      "Jasmine Petals"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-bal-dafrique",
+    "note_id": "violet",
+    "source_ids": [
+      "O32"
+    ],
+    "raw_names": [
+      "Violet"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-bal-dafrique",
+    "note_id": "tonka_bean",
+    "source_ids": [
+      "O32"
+    ],
+    "raw_names": [
+      "Tonka Bean Absolue"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-bal-dafrique",
+    "note_id": "cedar",
+    "source_ids": [
+      "O32"
+    ],
+    "raw_names": [
+      "Cedarwood"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-bal-dafrique",
+    "note_id": "musk",
+    "source_ids": [
+      "O32"
+    ],
+    "raw_names": [
+      "Musks"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "byredo-bal-dafrique",
+    "note_id": "vetiver",
+    "source_ids": [
+      "O32"
+    ],
+    "raw_names": [
+      "Vetiver"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-floral",
+    "note_id": "citrus",
+    "source_ids": [
+      "O33"
+    ],
+    "raw_names": [
+      "Citrus coeur"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-floral",
+    "note_id": "pink_pepper",
+    "source_ids": [
+      "O33"
+    ],
+    "raw_names": [
+      "Pink peppercorn"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-floral",
+    "note_id": "pineapple_sorbet",
+    "source_ids": [
+      "O33"
+    ],
+    "raw_names": [
+      "Pineapple sorbet"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-floral",
+    "note_id": "tea_rose",
+    "source_ids": [
+      "O33"
+    ],
+    "raw_names": [
+      "Rose tea"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-floral",
+    "note_id": "jasmine_sambac",
+    "source_ids": [
+      "O33"
+    ],
+    "raw_names": [
+      "Jasmine sambac"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-floral",
+    "note_id": "gardenia",
+    "source_ids": [
+      "O33"
+    ],
+    "raw_names": [
+      "Gardenia"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-floral",
+    "note_id": "woods",
+    "source_ids": [
+      "O33"
+    ],
+    "raw_names": [
+      "Creamy wood"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-floral",
+    "note_id": "patchouli",
+    "source_ids": [
+      "O33"
+    ],
+    "raw_names": [
+      "Patchouli"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-floral",
+    "note_id": "musk",
+    "source_ids": [
+      "O33"
+    ],
+    "raw_names": [
+      "Musky notes"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-dreams-sunset",
+    "note_id": "pear",
+    "source_ids": [
+      "O34"
+    ],
+    "raw_names": [
+      "Pear"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-dreams-sunset",
+    "note_id": "bergamot",
+    "source_ids": [
+      "O34"
+    ],
+    "raw_names": [
+      "Bergamot"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-dreams-sunset",
+    "note_id": "jasmine",
+    "source_ids": [
+      "O34"
+    ],
+    "raw_names": [
+      "Jasmine flowers"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-dreams-sunset",
+    "note_id": "tonka_bean",
+    "source_ids": [
+      "O34"
+    ],
+    "raw_names": [
+      "Tonka bean"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-dreams-sunset",
+    "note_id": "vanilla",
+    "source_ids": [
+      "O34"
+    ],
+    "raw_names": [
+      "Vanilla"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-for-men",
+    "note_id": "citrus",
+    "source_ids": [
+      "O35"
+    ],
+    "raw_names": [
+      "Citrus"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-for-men",
+    "note_id": "pear",
+    "source_ids": [
+      "O35"
+    ],
+    "raw_names": [
+      "Pear"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-for-men",
+    "note_id": "cardamom",
+    "source_ids": [
+      "O35"
+    ],
+    "raw_names": [
+      "Cardamom"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-for-men",
+    "note_id": "coriander",
+    "source_ids": [
+      "O35"
+    ],
+    "raw_names": [
+      "Coriander"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-for-men",
+    "note_id": "vetiver",
+    "source_ids": [
+      "O35"
+    ],
+    "raw_names": [
+      "Vetiver"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-for-men",
+    "note_id": "suede",
+    "source_ids": [
+      "O35"
+    ],
+    "raw_names": [
+      "Suede"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-for-men",
+    "note_id": "ambergris",
+    "source_ids": [
+      "O35"
+    ],
+    "raw_names": [
+      "Ambergris"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-open-road",
+    "note_id": "red_apple",
+    "source_ids": [
+      "O36"
+    ],
+    "raw_names": [
+      "Red apple"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-open-road",
+    "note_id": "lemon",
+    "source_ids": [
+      "O36"
+    ],
+    "raw_names": [
+      "Lemon"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-open-road",
+    "note_id": "sichuan_pepper",
+    "source_ids": [
+      "O36"
+    ],
+    "raw_names": [
+      "Sichuan pepper"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-open-road",
+    "note_id": "lavender",
+    "source_ids": [
+      "O36"
+    ],
+    "raw_names": [
+      "Lavender"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-open-road",
+    "note_id": "sage",
+    "source_ids": [
+      "O36"
+    ],
+    "raw_names": [
+      "Sage"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-open-road",
+    "note_id": "vetiver",
+    "source_ids": [
+      "O36"
+    ],
+    "raw_names": [
+      "Vetiver"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-open-road",
+    "note_id": "patchouli",
+    "source_ids": [
+      "O36"
+    ],
+    "raw_names": [
+      "Patchouli"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-open-road",
+    "note_id": "cedar",
+    "source_ids": [
+      "O36"
+    ],
+    "raw_names": [
+      "Cedarwood"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-dreams",
+    "note_id": "bitter_orange",
+    "source_ids": [
+      "O01"
+    ],
+    "raw_names": [
+      "Bitter orange"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-dreams",
+    "note_id": "pear",
+    "source_ids": [
+      "O01"
+    ],
+    "raw_names": [
+      "Pear"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-dreams",
+    "note_id": "gardenia",
+    "source_ids": [
+      "O01"
+    ],
+    "raw_names": [
+      "Gardenia"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-dreams",
+    "note_id": "cactus_flower",
+    "source_ids": [
+      "O01"
+    ],
+    "raw_names": [
+      "Cactus flower"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-dreams",
+    "note_id": "joshua_tree",
+    "source_ids": [
+      "O01"
+    ],
+    "raw_names": [
+      "Joshua Tree"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "coach-dreams",
+    "note_id": "ambroxan",
+    "source_ids": [
+      "O01"
+    ],
+    "raw_names": [
+      "Ambroxan musk"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-miss-dior-blooming-bouquet",
+    "note_id": "peony",
+    "source_ids": [
+      "O37"
+    ],
+    "raw_names": [
+      "Peony"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-miss-dior-blooming-bouquet",
+    "note_id": "damask_rose",
+    "source_ids": [
+      "O37"
+    ],
+    "raw_names": [
+      "Damascus rose"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-miss-dior-blooming-bouquet",
+    "note_id": "white_musk",
+    "source_ids": [
+      "O37"
+    ],
+    "raw_names": [
+      "White musk"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-sauvage",
+    "note_id": "bergamot",
+    "source_ids": [
+      "O38"
+    ],
+    "raw_names": [
+      "Calabrian bergamot"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-sauvage",
+    "note_id": "ambroxan",
+    "source_ids": [
+      "O38"
+    ],
+    "raw_names": [
+      "Ambroxan"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-sauvage",
+    "note_id": "elemi",
+    "source_ids": [
+      "O38"
+    ],
+    "raw_names": [
+      "Elemi"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-sauvage",
+    "note_id": "woods",
+    "source_ids": [
+      "O38"
+    ],
+    "raw_names": [
+      "Woods"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-jadore",
+    "note_id": "ylang_ylang",
+    "source_ids": [
+      "O39"
+    ],
+    "raw_names": [
+      "Ylang-ylang"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-jadore",
+    "note_id": "damask_rose",
+    "source_ids": [
+      "O39"
+    ],
+    "raw_names": [
+      "Damascus rose"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-jadore",
+    "note_id": "jasmine_grandiflorum",
+    "source_ids": [
+      "O39"
+    ],
+    "raw_names": [
+      "Jasmine grandiflorum"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-jadore",
+    "note_id": "jasmine_sambac",
+    "source_ids": [
+      "O39"
+    ],
+    "raw_names": [
+      "Jasmine sambac"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-gris-dior",
+    "note_id": "citrus",
+    "source_ids": [
+      "O40"
+    ],
+    "raw_names": [
+      "Citrus"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-gris-dior",
+    "note_id": "rose",
+    "source_ids": [
+      "O40"
+    ],
+    "raw_names": [
+      "Rose"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-gris-dior",
+    "note_id": "violet",
+    "source_ids": [
+      "O40"
+    ],
+    "raw_names": [
+      "Violet"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-gris-dior",
+    "note_id": "oakmoss",
+    "source_ids": [
+      "O40"
+    ],
+    "raw_names": [
+      "Oak moss"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-lucky",
+    "note_id": "lily_of_valley",
+    "source_ids": [
+      "O41"
+    ],
+    "raw_names": [
+      "Lily-of-the-valley"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-lucky",
+    "note_id": "white_flowers",
+    "source_ids": [
+      "O41"
+    ],
+    "raw_names": [
+      "White flowers"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "dior-lucky",
+    "note_id": "green_leaves",
+    "source_ids": [
+      "O41"
+    ],
+    "raw_names": [
+      "Fresh leaves"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-eidesis",
+    "note_id": "petitgrain",
+    "source_ids": [
+      "O42"
+    ],
+    "raw_names": [
+      "Petitgrain"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-eidesis",
+    "note_id": "pepper",
+    "source_ids": [
+      "O42"
+    ],
+    "raw_names": [
+      "Black Pepper"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-eidesis",
+    "note_id": "frankincense",
+    "source_ids": [
+      "O42"
+    ],
+    "raw_names": [
+      "Frankincense"
+    ],
+    "stages": [
+      "top",
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-eidesis",
+    "note_id": "cumin",
+    "source_ids": [
+      "O42"
+    ],
+    "raw_names": [
+      "Cumin"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-eidesis",
+    "note_id": "cedar",
+    "source_ids": [
+      "O42"
+    ],
+    "raw_names": [
+      "Cedar"
+    ],
+    "stages": [
+      "middle",
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-eidesis",
+    "note_id": "sandalwood",
+    "source_ids": [
+      "O42"
+    ],
+    "raw_names": [
+      "Sandalwood"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-eidesis",
+    "note_id": "vetiver",
+    "source_ids": [
+      "O42"
+    ],
+    "raw_names": [
+      "Vetiver"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-virere",
+    "note_id": "bergamot",
+    "source_ids": [
+      "O43"
+    ],
+    "raw_names": [
+      "Bergamot"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-virere",
+    "note_id": "galbanum",
+    "source_ids": [
+      "O43"
+    ],
+    "raw_names": [
+      "Galbanum"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-virere",
+    "note_id": "petitgrain",
+    "source_ids": [
+      "O43"
+    ],
+    "raw_names": [
+      "Petitgrain"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-virere",
+    "note_id": "green_tea",
+    "source_ids": [
+      "O43"
+    ],
+    "raw_names": [
+      "Green Tea"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-virere",
+    "note_id": "mastic",
+    "source_ids": [
+      "O43"
+    ],
+    "raw_names": [
+      "Mastic"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-virere",
+    "note_id": "pink_pepper",
+    "source_ids": [
+      "O43"
+    ],
+    "raw_names": [
+      "Pink Pepper"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-virere",
+    "note_id": "cedar",
+    "source_ids": [
+      "O43"
+    ],
+    "raw_names": [
+      "Cedar"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-virere",
+    "note_id": "green_mate",
+    "source_ids": [
+      "O43"
+    ],
+    "raw_names": [
+      "Green Maté"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-virere",
+    "note_id": "hay",
+    "source_ids": [
+      "O43"
+    ],
+    "raw_names": [
+      "Hay"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-virere",
+    "note_id": "fig",
+    "source_ids": [
+      "O43"
+    ],
+    "raw_names": [
+      "Fig"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "additional_description"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-above-us-steorra",
+    "note_id": "cardamom",
+    "source_ids": [
+      "O44"
+    ],
+    "raw_names": [
+      "Cardamom"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-above-us-steorra",
+    "note_id": "bergamot",
+    "source_ids": [
+      "O44"
+    ],
+    "raw_names": [
+      "Bergamot"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-above-us-steorra",
+    "note_id": "elemi",
+    "source_ids": [
+      "O44"
+    ],
+    "raw_names": [
+      "Elemi"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-above-us-steorra",
+    "note_id": "frankincense",
+    "source_ids": [
+      "O44"
+    ],
+    "raw_names": [
+      "Frankincense"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-above-us-steorra",
+    "note_id": "labdanum",
+    "source_ids": [
+      "O44"
+    ],
+    "raw_names": [
+      "Labdanum"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-above-us-steorra",
+    "note_id": "cypriol",
+    "source_ids": [
+      "O44"
+    ],
+    "raw_names": [
+      "Cypriol Heart"
+    ],
+    "stages": [
+      "middle",
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-above-us-steorra",
+    "note_id": "vanilla",
+    "source_ids": [
+      "O44"
+    ],
+    "raw_names": [
+      "Vanilla Bean"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-above-us-steorra",
+    "note_id": "cinnamon",
+    "source_ids": [
+      "O44"
+    ],
+    "raw_names": [
+      "Cinnamon"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-above-us-steorra",
+    "note_id": "amber",
+    "source_ids": [
+      "O44"
+    ],
+    "raw_names": [
+      "Amber accord"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "additional_description"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-aurner",
+    "note_id": "chamomile",
+    "source_ids": [
+      "O08"
+    ],
+    "raw_names": [
+      "Roman Chamomile"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-aurner",
+    "note_id": "cardamom",
+    "source_ids": [
+      "O08"
+    ],
+    "raw_names": [
+      "Cardamom"
+    ],
+    "stages": [
+      "top",
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-aurner",
+    "note_id": "pink_pepper",
+    "source_ids": [
+      "O08"
+    ],
+    "raw_names": [
+      "Pink Pepper"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-aurner",
+    "note_id": "magnolia_leaf",
+    "source_ids": [
+      "O08"
+    ],
+    "raw_names": [
+      "Magnolia Leaf"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-aurner",
+    "note_id": "geranium",
+    "source_ids": [
+      "O08"
+    ],
+    "raw_names": [
+      "Geranium"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-aurner",
+    "note_id": "sandalwood",
+    "source_ids": [
+      "O08"
+    ],
+    "raw_names": [
+      "Sandalwood"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-aurner",
+    "note_id": "cedar",
+    "source_ids": [
+      "O08"
+    ],
+    "raw_names": [
+      "Cedar Heart"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-aurner",
+    "note_id": "cypriol",
+    "source_ids": [
+      "O08"
+    ],
+    "raw_names": [
+      "Cypriol Heart"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-rozu",
+    "note_id": "rose",
+    "source_ids": [
+      "O45"
+    ],
+    "raw_names": [
+      "Rose"
+    ],
+    "stages": [
+      "top",
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-rozu",
+    "note_id": "pink_pepper",
+    "source_ids": [
+      "O45"
+    ],
+    "raw_names": [
+      "Pink Pepper"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-rozu",
+    "note_id": "shiso",
+    "source_ids": [
+      "O45"
+    ],
+    "raw_names": [
+      "Shiso"
+    ],
+    "stages": [
+      "top"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-rozu",
+    "note_id": "guaiacwood",
+    "source_ids": [
+      "O45"
+    ],
+    "raw_names": [
+      "Guaiacwood"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-rozu",
+    "note_id": "jasmine",
+    "source_ids": [
+      "O45"
+    ],
+    "raw_names": [
+      "Jasmine"
+    ],
+    "stages": [
+      "middle"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-rozu",
+    "note_id": "vetiver",
+    "source_ids": [
+      "O45"
+    ],
+    "raw_names": [
+      "Vetiver"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-rozu",
+    "note_id": "patchouli",
+    "source_ids": [
+      "O45"
+    ],
+    "raw_names": [
+      "Patchouli"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "aesop-rozu",
+    "note_id": "myrrh",
+    "source_ids": [
+      "O45"
+    ],
+    "raw_names": [
+      "Myrrh"
+    ],
+    "stages": [
+      "base"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-another-13",
+    "note_id": "ambroxyde",
+    "source_ids": [
+      "O46"
+    ],
+    "raw_names": [
+      "Ambroxyde"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-another-13",
+    "note_id": "jasmine",
+    "source_ids": [
+      "O46"
+    ],
+    "raw_names": [
+      "Jasmine"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-another-13",
+    "note_id": "moss",
+    "source_ids": [
+      "O46"
+    ],
+    "raw_names": [
+      "Moss"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-santal-33",
+    "note_id": "cardamom",
+    "source_ids": [
+      "O47"
+    ],
+    "raw_names": [
+      "Cardamome"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-santal-33",
+    "note_id": "iris",
+    "source_ids": [
+      "O47"
+    ],
+    "raw_names": [
+      "Iris"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-santal-33",
+    "note_id": "violet",
+    "source_ids": [
+      "O47"
+    ],
+    "raw_names": [
+      "Violette"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-santal-33",
+    "note_id": "sandalwood",
+    "source_ids": [
+      "O47"
+    ],
+    "raw_names": [
+      "Bois de santal australien"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-santal-33",
+    "note_id": "cedar",
+    "source_ids": [
+      "O47"
+    ],
+    "raw_names": [
+      "Bois de cèdre"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-santal-33",
+    "note_id": "spicy_accord",
+    "source_ids": [
+      "O47"
+    ],
+    "raw_names": [
+      "Notes épicées"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-santal-33",
+    "note_id": "musk",
+    "source_ids": [
+      "O47"
+    ],
+    "raw_names": [
+      "Notes musquées"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-santal-33",
+    "note_id": "leather",
+    "source_ids": [
+      "O47"
+    ],
+    "raw_names": [
+      "Notes de cuir"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-lys-41",
+    "note_id": "jasmine",
+    "source_ids": [
+      "O48"
+    ],
+    "raw_names": [
+      "Jasmine"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-lys-41",
+    "note_id": "tuberose",
+    "source_ids": [
+      "O48"
+    ],
+    "raw_names": [
+      "Tuberose absolute"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-lys-41",
+    "note_id": "lily",
+    "source_ids": [
+      "O48"
+    ],
+    "raw_names": [
+      "Lily"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-lys-41",
+    "note_id": "woods",
+    "source_ids": [
+      "O48"
+    ],
+    "raw_names": [
+      "Woods"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-lys-41",
+    "note_id": "vanilla",
+    "source_ids": [
+      "O48"
+    ],
+    "raw_names": [
+      "Vanilla"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-lys-41",
+    "note_id": "musk",
+    "source_ids": [
+      "O48"
+    ],
+    "raw_names": [
+      "Musks"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-the-matcha-26",
+    "note_id": "matcha",
+    "source_ids": [
+      "O49"
+    ],
+    "raw_names": [
+      "Matcha tea accord"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-the-matcha-26",
+    "note_id": "fig",
+    "source_ids": [
+      "O49"
+    ],
+    "raw_names": [
+      "Fig"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-the-matcha-26",
+    "note_id": "vetiver",
+    "source_ids": [
+      "O49"
+    ],
+    "raw_names": [
+      "Vetiver"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-the-matcha-26",
+    "note_id": "cedar",
+    "source_ids": [
+      "O49"
+    ],
+    "raw_names": [
+      "Cedarwood"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-the-matcha-26",
+    "note_id": "bitter_orange",
+    "source_ids": [
+      "O49"
+    ],
+    "raw_names": [
+      "Bitter orange"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-the-noir-29",
+    "note_id": "bergamot",
+    "source_ids": [
+      "O50"
+    ],
+    "raw_names": [
+      "Bergamot"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-the-noir-29",
+    "note_id": "fig",
+    "source_ids": [
+      "O50"
+    ],
+    "raw_names": [
+      "Fig"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-the-noir-29",
+    "note_id": "bay_leaf",
+    "source_ids": [
+      "O50"
+    ],
+    "raw_names": [
+      "Bay leaves"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-the-noir-29",
+    "note_id": "cedar",
+    "source_ids": [
+      "O50"
+    ],
+    "raw_names": [
+      "Cedarwood"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-the-noir-29",
+    "note_id": "vetiver",
+    "source_ids": [
+      "O50"
+    ],
+    "raw_names": [
+      "Vetiver"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-the-noir-29",
+    "note_id": "musk",
+    "source_ids": [
+      "O50"
+    ],
+    "raw_names": [
+      "Musk"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  },
+  {
+    "perfume_id": "le-labo-the-noir-29",
+    "note_id": "black_tea",
+    "source_ids": [
+      "O50"
+    ],
+    "raw_names": [
+      "Black tea"
+    ],
+    "stages": [
+      "unspecified"
+    ],
+    "evidence_scopes": [
+      "primary_notes"
+    ],
+    "weight": 1
+  }
+]

@@ -1,0 +1,1429 @@
+{
+  "schema_version": "0.2.0",
+  "classification_basis": "project_authored_not_brand_official_taxonomy",
+  "translation_basis": "專案工作譯名；raw_aliases 是來源原始寫法，不宣稱全部為官方中文譯名。",
+  "normalization_rules": [
+    "大小寫、單複數、產地、萃取形式與修飾詞可歸併到同一常見香氣節點，但 notes.raw_name 完整保留原文。",
+    "例如 Cedar、Cedarwood、Cedar Heart 歸入 cedar，不是宣稱其萃取物或配方相同。",
+    "玫瑰品種、茉莉種類、白麝香、鳶尾根保留較細的 note_id；group_id 可供較寬的比較。",
+    "Ambrox、Ambroxan、Ambroxyde 各自保留；黃葵籽與麝香不合併。",
+    "官網香氣名稱混合植物、萃取物、香氣組合與抽象感受，皆為描述節點，不是配方原料鑑定。",
+    "category_id 是圖表用的主要香氣類別，屬人工判斷，不是天然植物分類，也不是香水的官方整體香調。",
+    "同一香水跨層或跨別名提到同一 note_id，計算出現次數時只算一款。"
+  ],
+  "categories": [
+    {
+      "id": "floral",
+      "name_zh": "花香"
+    },
+    {
+      "id": "fruity",
+      "name_zh": "果香"
+    },
+    {
+      "id": "citrus",
+      "name_zh": "柑橘"
+    },
+    {
+      "id": "herbal_green",
+      "name_zh": "草本與綠意"
+    },
+    {
+      "id": "woody",
+      "name_zh": "木質與根莖"
+    },
+    {
+      "id": "spicy",
+      "name_zh": "辛香"
+    },
+    {
+      "id": "resin",
+      "name_zh": "樹脂與焚香"
+    },
+    {
+      "id": "amber_musk",
+      "name_zh": "琥珀與麝香"
+    },
+    {
+      "id": "gourmand",
+      "name_zh": "香草、穀物與堅果"
+    },
+    {
+      "id": "tea",
+      "name_zh": "茶香"
+    },
+    {
+      "id": "beverage",
+      "name_zh": "酒香"
+    },
+    {
+      "id": "marine",
+      "name_zh": "海洋與鹽感"
+    },
+    {
+      "id": "leather",
+      "name_zh": "皮革"
+    },
+    {
+      "id": "abstract",
+      "name_zh": "其他抽象香氣"
+    }
+  ],
+  "notes": [
+    {
+      "id": "pear",
+      "name_en": "Pear",
+      "name_zh": "梨",
+      "group_id": "pear",
+      "category_id": "fruity",
+      "raw_aliases": [
+        "William Pear",
+        "Williams Pear",
+        "Pear"
+      ]
+    },
+    {
+      "id": "freesia",
+      "name_en": "Freesia",
+      "name_zh": "小蒼蘭",
+      "group_id": "freesia",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Freesia",
+        "Pink Freesia"
+      ]
+    },
+    {
+      "id": "patchouli",
+      "name_en": "Patchouli",
+      "name_zh": "廣藿香",
+      "group_id": "patchouli",
+      "category_id": "woody",
+      "raw_aliases": [
+        "Patchouli"
+      ]
+    },
+    {
+      "id": "rose",
+      "name_en": "Rose",
+      "name_zh": "玫瑰",
+      "group_id": "rose",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Rose",
+        "Rare Rose Bulgarian",
+        "Turkish Rose Petals",
+        "Turkish Rose Absolute"
+      ]
+    },
+    {
+      "id": "ambrette",
+      "name_en": "Ambrette",
+      "name_zh": "黃葵籽",
+      "group_id": "ambrette",
+      "category_id": "amber_musk",
+      "raw_aliases": [
+        "Ambrette",
+        "Ambrette Seeds"
+      ]
+    },
+    {
+      "id": "sea_salt",
+      "name_en": "Sea salt",
+      "name_zh": "海鹽香調",
+      "group_id": "sea_salt",
+      "category_id": "marine",
+      "raw_aliases": [
+        "Sea Salt"
+      ]
+    },
+    {
+      "id": "sage",
+      "name_en": "Sage",
+      "name_zh": "鼠尾草",
+      "group_id": "sage",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Sage"
+      ]
+    },
+    {
+      "id": "blackcurrant",
+      "name_en": "Blackcurrant",
+      "name_zh": "黑醋栗",
+      "group_id": "blackcurrant",
+      "category_id": "fruity",
+      "raw_aliases": [
+        "Blackcurrant"
+      ]
+    },
+    {
+      "id": "poppy",
+      "name_en": "Poppy",
+      "name_zh": "罌粟花香調",
+      "group_id": "poppy",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Poppy"
+      ]
+    },
+    {
+      "id": "barley",
+      "name_en": "Barley",
+      "name_zh": "大麥",
+      "group_id": "barley",
+      "category_id": "gourmand",
+      "raw_aliases": [
+        "Barley"
+      ]
+    },
+    {
+      "id": "violet",
+      "name_en": "Violet",
+      "name_zh": "紫羅蘭",
+      "group_id": "violet",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Violet",
+        "Violette"
+      ]
+    },
+    {
+      "id": "bran",
+      "name_en": "Bran",
+      "name_zh": "麩皮",
+      "group_id": "bran",
+      "category_id": "gourmand",
+      "raw_aliases": [
+        "Bran"
+      ]
+    },
+    {
+      "id": "sweet_pea",
+      "name_en": "Sweet pea",
+      "name_zh": "甜豌豆花",
+      "group_id": "sweet_pea",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Sweet Pea"
+      ]
+    },
+    {
+      "id": "white_musk",
+      "name_en": "White musk",
+      "name_zh": "白麝香",
+      "group_id": "musk",
+      "category_id": "amber_musk",
+      "raw_aliases": [
+        "White Musk",
+        "White musk"
+      ]
+    },
+    {
+      "id": "hazelnut",
+      "name_en": "Green hazelnut",
+      "name_zh": "青榛果",
+      "group_id": "hazelnut",
+      "category_id": "gourmand",
+      "raw_aliases": [
+        "Green Hazelnut"
+      ]
+    },
+    {
+      "id": "cedar",
+      "name_en": "Cedarwood",
+      "name_zh": "雪松",
+      "group_id": "cedar",
+      "category_id": "woody",
+      "raw_aliases": [
+        "Cedar",
+        "Cedarwood",
+        "Cedar Heart",
+        "Bois de cèdre"
+      ]
+    },
+    {
+      "id": "roasted_oak",
+      "name_en": "Roasted oak",
+      "name_zh": "烘烤橡木",
+      "group_id": "oak",
+      "category_id": "woody",
+      "raw_aliases": [
+        "Roasted Oak"
+      ]
+    },
+    {
+      "id": "vetiver",
+      "name_en": "Vetiver",
+      "name_zh": "岩蘭草",
+      "group_id": "vetiver",
+      "category_id": "woody",
+      "raw_aliases": [
+        "Vetiver"
+      ]
+    },
+    {
+      "id": "juniper_berry",
+      "name_en": "Juniper berry",
+      "name_zh": "杜松子",
+      "group_id": "juniper",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Juniper berry",
+        "Juniper Berries"
+      ]
+    },
+    {
+      "id": "tonka_bean",
+      "name_en": "Tonka bean",
+      "name_zh": "零陵香豆",
+      "group_id": "tonka_bean",
+      "category_id": "gourmand",
+      "raw_aliases": [
+        "Tonka bean",
+        "Tonka Bean Absolue"
+      ]
+    },
+    {
+      "id": "jasmine",
+      "name_en": "Jasmine",
+      "name_zh": "茉莉",
+      "group_id": "jasmine",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Jasmine",
+        "Jasmine Accord",
+        "Jasmine flowers",
+        "Jasmine Petals"
+      ]
+    },
+    {
+      "id": "musk",
+      "name_en": "Musk",
+      "name_zh": "麝香調",
+      "group_id": "musk",
+      "category_id": "amber_musk",
+      "raw_aliases": [
+        "Musk",
+        "Musks",
+        "Musky notes",
+        "Caressing musk",
+        "Skin Sensual Musk",
+        "Tibetan Musk",
+        "Notes musquées"
+      ]
+    },
+    {
+      "id": "iris",
+      "name_en": "Iris",
+      "name_zh": "鳶尾",
+      "group_id": "iris",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Iris",
+        "Powdery iris"
+      ]
+    },
+    {
+      "id": "pink_pepper",
+      "name_en": "Pink pepper",
+      "name_zh": "粉紅胡椒",
+      "group_id": "pink_pepper",
+      "category_id": "spicy",
+      "raw_aliases": [
+        "Pink peppercorn",
+        "Pink pepper",
+        "Pink Pepper"
+      ]
+    },
+    {
+      "id": "damask_rose",
+      "name_en": "Damask rose",
+      "name_zh": "大馬士革玫瑰",
+      "group_id": "rose",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Damascena rose",
+        "Damascus rose"
+      ]
+    },
+    {
+      "id": "centifolia_rose",
+      "name_en": "Centifolia rose",
+      "name_zh": "千葉玫瑰",
+      "group_id": "rose",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Centifolia rose",
+        "Rose centifolia",
+        "Rose Centifolia"
+      ]
+    },
+    {
+      "id": "chamomile",
+      "name_en": "Chamomile",
+      "name_zh": "洋甘菊",
+      "group_id": "chamomile",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Chamomile",
+        "Roman Chamomile"
+      ]
+    },
+    {
+      "id": "lychee",
+      "name_en": "Lychee",
+      "name_zh": "荔枝",
+      "group_id": "lychee",
+      "category_id": "fruity",
+      "raw_aliases": [
+        "Litchi"
+      ]
+    },
+    {
+      "id": "artichoke",
+      "name_en": "Artichoke",
+      "name_zh": "朝鮮薊",
+      "group_id": "artichoke",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Artichoke"
+      ]
+    },
+    {
+      "id": "geranium",
+      "name_en": "Geranium",
+      "name_zh": "天竺葵",
+      "group_id": "geranium",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Geranium"
+      ]
+    },
+    {
+      "id": "mint",
+      "name_en": "Mint",
+      "name_zh": "薄荷",
+      "group_id": "mint",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Mint"
+      ]
+    },
+    {
+      "id": "rose_oxide",
+      "name_en": "Rose oxide",
+      "name_zh": "玫瑰醚香調",
+      "group_id": "rose_oxide",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Rose oxide"
+      ]
+    },
+    {
+      "id": "cardamom",
+      "name_en": "Cardamom",
+      "name_zh": "小豆蔻",
+      "group_id": "cardamom",
+      "category_id": "spicy",
+      "raw_aliases": [
+        "Cardamom",
+        "Cardamome"
+      ]
+    },
+    {
+      "id": "violet_leaf",
+      "name_en": "Violet leaf",
+      "name_zh": "紫羅蘭葉",
+      "group_id": "violet_leaf",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Violet leaves"
+      ]
+    },
+    {
+      "id": "vanilla",
+      "name_en": "Vanilla",
+      "name_zh": "香草",
+      "group_id": "vanilla",
+      "category_id": "gourmand",
+      "raw_aliases": [
+        "Vanilla",
+        "Vanilla Bean"
+      ]
+    },
+    {
+      "id": "candied_ginger",
+      "name_en": "Candied ginger",
+      "name_zh": "糖漬薑",
+      "group_id": "ginger",
+      "category_id": "spicy",
+      "raw_aliases": [
+        "Candied ginger"
+      ]
+    },
+    {
+      "id": "peony",
+      "name_en": "Peony",
+      "name_zh": "牡丹",
+      "group_id": "peony",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Peony"
+      ]
+    },
+    {
+      "id": "jasmine_sambac",
+      "name_en": "Jasmine sambac",
+      "name_zh": "沙巴茉莉",
+      "group_id": "jasmine",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Sambac Jasmine",
+        "Jasmine sambac"
+      ]
+    },
+    {
+      "id": "kumquat",
+      "name_en": "Kumquat",
+      "name_zh": "金桔",
+      "group_id": "kumquat",
+      "category_id": "citrus",
+      "raw_aliases": [
+        "Kumquat"
+      ]
+    },
+    {
+      "id": "bergamot",
+      "name_en": "Bergamot",
+      "name_zh": "佛手柑",
+      "group_id": "bergamot",
+      "category_id": "citrus",
+      "raw_aliases": [
+        "Bergamot",
+        "Calabrian bergamot",
+        "Italian Bergamot"
+      ]
+    },
+    {
+      "id": "rhubarb",
+      "name_en": "Rhubarb",
+      "name_zh": "大黃",
+      "group_id": "rhubarb",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Rhubarb"
+      ]
+    },
+    {
+      "id": "osmanthus",
+      "name_en": "Osmanthus",
+      "name_zh": "桂花",
+      "group_id": "osmanthus",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Osmanthus"
+      ]
+    },
+    {
+      "id": "honeysuckle",
+      "name_en": "Honeysuckle",
+      "name_zh": "忍冬",
+      "group_id": "honeysuckle",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Honeysuckle"
+      ]
+    },
+    {
+      "id": "sandalwood",
+      "name_en": "Sandalwood",
+      "name_zh": "檀香",
+      "group_id": "sandalwood",
+      "category_id": "woody",
+      "raw_aliases": [
+        "Sandalwood",
+        "Indian Sandalwood",
+        "Bois de santal australien"
+      ]
+    },
+    {
+      "id": "mandarin",
+      "name_en": "Mandarin",
+      "name_zh": "柑橘",
+      "group_id": "mandarin",
+      "category_id": "citrus",
+      "raw_aliases": [
+        "Mandarin",
+        "Exotic Mandarin"
+      ]
+    },
+    {
+      "id": "woods",
+      "name_en": "Woody accord",
+      "name_zh": "木質香調",
+      "group_id": "woods",
+      "category_id": "woody",
+      "raw_aliases": [
+        "Woods",
+        "Creamy wood"
+      ]
+    },
+    {
+      "id": "gin",
+      "name_en": "Gin",
+      "name_zh": "琴酒香調",
+      "group_id": "gin",
+      "category_id": "beverage",
+      "raw_aliases": [
+        "Gin"
+      ]
+    },
+    {
+      "id": "leather",
+      "name_en": "Leather",
+      "name_zh": "皮革香調",
+      "group_id": "leather",
+      "category_id": "leather",
+      "raw_aliases": [
+        "Leather",
+        "Notes de cuir"
+      ]
+    },
+    {
+      "id": "fir_balsam",
+      "name_en": "Fir balsam",
+      "name_zh": "冷杉香脂",
+      "group_id": "fir",
+      "category_id": "resin",
+      "raw_aliases": [
+        "Fir balsam"
+      ]
+    },
+    {
+      "id": "orange",
+      "name_en": "Orange",
+      "name_zh": "甜橙",
+      "group_id": "orange",
+      "category_id": "citrus",
+      "raw_aliases": [
+        "Orange"
+      ]
+    },
+    {
+      "id": "peach",
+      "name_en": "Peach",
+      "name_zh": "桃",
+      "group_id": "peach",
+      "category_id": "fruity",
+      "raw_aliases": [
+        "Peach"
+      ]
+    },
+    {
+      "id": "blood_orange",
+      "name_en": "Blood orange",
+      "name_zh": "血橙",
+      "group_id": "orange",
+      "category_id": "citrus",
+      "raw_aliases": [
+        "Blood orange"
+      ]
+    },
+    {
+      "id": "ambrox",
+      "name_en": "Ambrox",
+      "name_zh": "Ambrox 香調",
+      "group_id": "ambrox",
+      "category_id": "amber_musk",
+      "raw_aliases": [
+        "Ambrox"
+      ]
+    },
+    {
+      "id": "rum",
+      "name_en": "Rum",
+      "name_zh": "蘭姆酒香調",
+      "group_id": "rum",
+      "category_id": "beverage",
+      "raw_aliases": [
+        "Rum"
+      ]
+    },
+    {
+      "id": "shaving_soap",
+      "name_en": "Shaving soap",
+      "name_zh": "刮鬍皂香調",
+      "group_id": "soap",
+      "category_id": "abstract",
+      "raw_aliases": [
+        "Shaving soap"
+      ]
+    },
+    {
+      "id": "ambroxan",
+      "name_en": "Ambroxan",
+      "name_zh": "Ambroxan 香調",
+      "group_id": "ambroxan",
+      "category_id": "amber_musk",
+      "raw_aliases": [
+        "Ambroxan",
+        "Ambroxan musk"
+      ]
+    },
+    {
+      "id": "elemi",
+      "name_en": "Elemi",
+      "name_zh": "欖香脂",
+      "group_id": "elemi",
+      "category_id": "resin",
+      "raw_aliases": [
+        "Elemi"
+      ]
+    },
+    {
+      "id": "ylang_ylang",
+      "name_en": "Ylang-ylang",
+      "name_zh": "依蘭",
+      "group_id": "ylang_ylang",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Ylang-ylang",
+        "Ylang-Yang"
+      ]
+    },
+    {
+      "id": "jasmine_grandiflorum",
+      "name_en": "Jasmine grandiflorum",
+      "name_zh": "大花茉莉",
+      "group_id": "jasmine",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Jasmine grandiflorum"
+      ]
+    },
+    {
+      "id": "citrus",
+      "name_en": "Citrus accord",
+      "name_zh": "柑橘香調",
+      "group_id": "citrus",
+      "category_id": "citrus",
+      "raw_aliases": [
+        "Citrus",
+        "Citrus coeur"
+      ]
+    },
+    {
+      "id": "oakmoss",
+      "name_en": "Oakmoss",
+      "name_zh": "橡木苔",
+      "group_id": "moss",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Oak moss",
+        "Oakmoss"
+      ]
+    },
+    {
+      "id": "lily_of_valley",
+      "name_en": "Lily-of-the-valley",
+      "name_zh": "鈴蘭",
+      "group_id": "lily_of_valley",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Lily-of-the-valley",
+        "Muguet"
+      ]
+    },
+    {
+      "id": "white_flowers",
+      "name_en": "White flowers",
+      "name_zh": "白花香調",
+      "group_id": "white_flowers",
+      "category_id": "floral",
+      "raw_aliases": [
+        "White flowers"
+      ]
+    },
+    {
+      "id": "green_leaves",
+      "name_en": "Green leaves",
+      "name_zh": "青綠葉香",
+      "group_id": "green_leaves",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Fresh leaves",
+        "Dewy Green Accord"
+      ]
+    },
+    {
+      "id": "aldehyde",
+      "name_en": "Aldehydic accord",
+      "name_zh": "醛香調",
+      "group_id": "aldehyde",
+      "category_id": "abstract",
+      "raw_aliases": [
+        "Aldehyde"
+      ]
+    },
+    {
+      "id": "lemon",
+      "name_en": "Lemon",
+      "name_zh": "檸檬",
+      "group_id": "lemon",
+      "category_id": "citrus",
+      "raw_aliases": [
+        "Lemon"
+      ]
+    },
+    {
+      "id": "pepper",
+      "name_en": "Pepper",
+      "name_zh": "胡椒",
+      "group_id": "pepper",
+      "category_id": "spicy",
+      "raw_aliases": [
+        "Pepper",
+        "Black Pepper"
+      ]
+    },
+    {
+      "id": "incense",
+      "name_en": "Incense",
+      "name_zh": "焚香香調",
+      "group_id": "incense",
+      "category_id": "resin",
+      "raw_aliases": [
+        "Incense"
+      ]
+    },
+    {
+      "id": "orris",
+      "name_en": "Orris",
+      "name_zh": "鳶尾根",
+      "group_id": "iris",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Orris"
+      ]
+    },
+    {
+      "id": "pine_needle",
+      "name_en": "Pine needle",
+      "name_zh": "松針",
+      "group_id": "pine",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Pine Needle"
+      ]
+    },
+    {
+      "id": "amber",
+      "name_en": "Amber accord",
+      "name_zh": "琥珀香調",
+      "group_id": "amber",
+      "category_id": "amber_musk",
+      "raw_aliases": [
+        "Amber",
+        "Amber accord",
+        "Red Amber"
+      ]
+    },
+    {
+      "id": "naseberry",
+      "name_en": "Naseberry",
+      "name_zh": "人心果",
+      "group_id": "naseberry",
+      "category_id": "fruity",
+      "raw_aliases": [
+        "Naseberry"
+      ]
+    },
+    {
+      "id": "magnolia",
+      "name_en": "Magnolia",
+      "name_zh": "木蘭花",
+      "group_id": "magnolia",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Magnolia",
+        "Dewy Magnolia"
+      ]
+    },
+    {
+      "id": "buchu",
+      "name_en": "Buchu",
+      "name_zh": "布枯葉",
+      "group_id": "buchu",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Buchu"
+      ]
+    },
+    {
+      "id": "african_marigold",
+      "name_en": "African marigold",
+      "name_zh": "非洲萬壽菊",
+      "group_id": "marigold",
+      "category_id": "floral",
+      "raw_aliases": [
+        "African Marigold"
+      ]
+    },
+    {
+      "id": "cyclamen",
+      "name_en": "Cyclamen",
+      "name_zh": "仙客來",
+      "group_id": "cyclamen",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Cyclamen"
+      ]
+    },
+    {
+      "id": "raspberry_blossom",
+      "name_en": "Raspberry blossom",
+      "name_zh": "覆盆子花",
+      "group_id": "raspberry_blossom",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Raspberry Blossom"
+      ]
+    },
+    {
+      "id": "papyrus",
+      "name_en": "Papyrus",
+      "name_zh": "紙莎草",
+      "group_id": "papyrus",
+      "category_id": "woody",
+      "raw_aliases": [
+        "Papyrus"
+      ]
+    },
+    {
+      "id": "ambroxyde",
+      "name_en": "Ambroxyde",
+      "name_zh": "Ambroxyde 香調",
+      "group_id": "ambroxyde",
+      "category_id": "amber_musk",
+      "raw_aliases": [
+        "Ambroxyde"
+      ]
+    },
+    {
+      "id": "moss",
+      "name_en": "Moss",
+      "name_zh": "苔蘚",
+      "group_id": "moss",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Moss"
+      ]
+    },
+    {
+      "id": "tuberose",
+      "name_en": "Tuberose",
+      "name_zh": "晚香玉",
+      "group_id": "tuberose",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Tuberose absolute",
+        "Indian Turberose"
+      ]
+    },
+    {
+      "id": "lily",
+      "name_en": "Lily",
+      "name_zh": "百合",
+      "group_id": "lily",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Lily",
+        "Rubrum Lily"
+      ]
+    },
+    {
+      "id": "matcha",
+      "name_en": "Matcha accord",
+      "name_zh": "抹茶香調",
+      "group_id": "tea",
+      "category_id": "tea",
+      "raw_aliases": [
+        "Matcha tea accord"
+      ]
+    },
+    {
+      "id": "fig",
+      "name_en": "Fig",
+      "name_zh": "無花果",
+      "group_id": "fig",
+      "category_id": "fruity",
+      "raw_aliases": [
+        "Fig"
+      ]
+    },
+    {
+      "id": "bitter_orange",
+      "name_en": "Bitter orange",
+      "name_zh": "苦橙",
+      "group_id": "orange",
+      "category_id": "citrus",
+      "raw_aliases": [
+        "Bitter orange"
+      ]
+    },
+    {
+      "id": "bay_leaf",
+      "name_en": "Bay leaf",
+      "name_zh": "月桂葉",
+      "group_id": "bay_leaf",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Bay leaves"
+      ]
+    },
+    {
+      "id": "black_tea",
+      "name_en": "Black tea",
+      "name_zh": "紅茶",
+      "group_id": "tea",
+      "category_id": "tea",
+      "raw_aliases": [
+        "Black tea"
+      ]
+    },
+    {
+      "id": "green_tea",
+      "name_en": "Green tea",
+      "name_zh": "綠茶",
+      "group_id": "tea",
+      "category_id": "tea",
+      "raw_aliases": [
+        "Green Tea Accord",
+        "Green Tea"
+      ]
+    },
+    {
+      "id": "celery_seed",
+      "name_en": "Celery seed",
+      "name_zh": "芹菜籽",
+      "group_id": "celery_seed",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Celery Seeds"
+      ]
+    },
+    {
+      "id": "melon",
+      "name_en": "Melon",
+      "name_zh": "甜瓜",
+      "group_id": "melon",
+      "category_id": "fruity",
+      "raw_aliases": [
+        "Melon"
+      ]
+    },
+    {
+      "id": "lilac",
+      "name_en": "Lilac",
+      "name_zh": "紫丁香",
+      "group_id": "lilac",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Lilac"
+      ]
+    },
+    {
+      "id": "linden_blossom",
+      "name_en": "Linden blossom",
+      "name_zh": "椴樹花",
+      "group_id": "linden_blossom",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Linden Blossom"
+      ]
+    },
+    {
+      "id": "clove",
+      "name_en": "Clove",
+      "name_zh": "丁香",
+      "group_id": "clove",
+      "category_id": "spicy",
+      "raw_aliases": [
+        "Clove"
+      ]
+    },
+    {
+      "id": "nutmeg",
+      "name_en": "Nutmeg",
+      "name_zh": "肉豆蔻",
+      "group_id": "nutmeg",
+      "category_id": "spicy",
+      "raw_aliases": [
+        "Nutmeg"
+      ]
+    },
+    {
+      "id": "rice_flower",
+      "name_en": "Rice flower accord",
+      "name_zh": "米花香調",
+      "group_id": "rice_flower",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Living Rice Flower"
+      ]
+    },
+    {
+      "id": "blue_lotus",
+      "name_en": "Blue lotus",
+      "name_zh": "藍蓮花",
+      "group_id": "lotus",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Blue Lotus Flower"
+      ]
+    },
+    {
+      "id": "ginger_lily",
+      "name_en": "Ginger lily",
+      "name_zh": "薑百合",
+      "group_id": "ginger_lily",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Living Gingerlily",
+        "Ginger Lily"
+      ]
+    },
+    {
+      "id": "orchid",
+      "name_en": "Orchid",
+      "name_zh": "蘭花",
+      "group_id": "orchid",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Golden Sunset Orchid",
+        "Midnight Orchid"
+      ]
+    },
+    {
+      "id": "white_amber",
+      "name_en": "White amber accord",
+      "name_zh": "白琥珀香調",
+      "group_id": "amber",
+      "category_id": "amber_musk",
+      "raw_aliases": [
+        "White Amber"
+      ]
+    },
+    {
+      "id": "quince",
+      "name_en": "Quince",
+      "name_zh": "榅桲",
+      "group_id": "quince",
+      "category_id": "fruity",
+      "raw_aliases": [
+        "Chilled Quince"
+      ]
+    },
+    {
+      "id": "water_lotus",
+      "name_en": "Water lotus",
+      "name_zh": "水蓮花",
+      "group_id": "lotus",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Water Lotus"
+      ]
+    },
+    {
+      "id": "papaya_blossom",
+      "name_en": "Papaya blossom",
+      "name_zh": "木瓜花",
+      "group_id": "papaya_blossom",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Papaya Blossom"
+      ]
+    },
+    {
+      "id": "white_sand",
+      "name_en": "White sand accord",
+      "name_zh": "白沙香調",
+      "group_id": "sand",
+      "category_id": "abstract",
+      "raw_aliases": [
+        "White Sand Accord"
+      ]
+    },
+    {
+      "id": "hinoki",
+      "name_en": "Hinoki wood",
+      "name_zh": "日本扁柏",
+      "group_id": "hinoki",
+      "category_id": "woody",
+      "raw_aliases": [
+        "Hinoki Wood"
+      ]
+    },
+    {
+      "id": "pineapple_sorbet",
+      "name_en": "Pineapple sorbet accord",
+      "name_zh": "鳳梨雪酪香調",
+      "group_id": "pineapple",
+      "category_id": "fruity",
+      "raw_aliases": [
+        "Pineapple sorbet"
+      ]
+    },
+    {
+      "id": "tea_rose",
+      "name_en": "Tea rose",
+      "name_zh": "茶香玫瑰",
+      "group_id": "rose",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Rose tea"
+      ]
+    },
+    {
+      "id": "gardenia",
+      "name_en": "Gardenia",
+      "name_zh": "梔子花",
+      "group_id": "gardenia",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Gardenia"
+      ]
+    },
+    {
+      "id": "cactus_flower",
+      "name_en": "Cactus flower",
+      "name_zh": "仙人掌花",
+      "group_id": "cactus_flower",
+      "category_id": "floral",
+      "raw_aliases": [
+        "Cactus flower"
+      ]
+    },
+    {
+      "id": "joshua_tree",
+      "name_en": "Joshua tree accord",
+      "name_zh": "約書亞樹香調",
+      "group_id": "joshua_tree",
+      "category_id": "woody",
+      "raw_aliases": [
+        "Joshua Tree"
+      ]
+    },
+    {
+      "id": "spicy_accord",
+      "name_en": "Spicy accord",
+      "name_zh": "辛香調",
+      "group_id": "spicy_accord",
+      "category_id": "spicy",
+      "raw_aliases": [
+        "Notes épicées"
+      ]
+    },
+    {
+      "id": "coriander",
+      "name_en": "Coriander",
+      "name_zh": "胡荽",
+      "group_id": "coriander",
+      "category_id": "spicy",
+      "raw_aliases": [
+        "Coriander"
+      ]
+    },
+    {
+      "id": "suede",
+      "name_en": "Suede accord",
+      "name_zh": "麂皮香調",
+      "group_id": "leather",
+      "category_id": "leather",
+      "raw_aliases": [
+        "Suede"
+      ]
+    },
+    {
+      "id": "ambergris",
+      "name_en": "Ambergris accord",
+      "name_zh": "龍涎香調",
+      "group_id": "ambergris",
+      "category_id": "amber_musk",
+      "raw_aliases": [
+        "Ambergris"
+      ]
+    },
+    {
+      "id": "red_apple",
+      "name_en": "Red apple",
+      "name_zh": "紅蘋果",
+      "group_id": "apple",
+      "category_id": "fruity",
+      "raw_aliases": [
+        "Red apple"
+      ]
+    },
+    {
+      "id": "sichuan_pepper",
+      "name_en": "Sichuan pepper",
+      "name_zh": "花椒",
+      "group_id": "sichuan_pepper",
+      "category_id": "spicy",
+      "raw_aliases": [
+        "Sichuan pepper"
+      ]
+    },
+    {
+      "id": "lavender",
+      "name_en": "Lavender",
+      "name_zh": "薰衣草",
+      "group_id": "lavender",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Lavender"
+      ]
+    },
+    {
+      "id": "petitgrain",
+      "name_en": "Petitgrain",
+      "name_zh": "苦橙葉",
+      "group_id": "petitgrain",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Petitgrain"
+      ]
+    },
+    {
+      "id": "frankincense",
+      "name_en": "Frankincense",
+      "name_zh": "乳香",
+      "group_id": "frankincense",
+      "category_id": "resin",
+      "raw_aliases": [
+        "Frankincense"
+      ]
+    },
+    {
+      "id": "cumin",
+      "name_en": "Cumin",
+      "name_zh": "孜然",
+      "group_id": "cumin",
+      "category_id": "spicy",
+      "raw_aliases": [
+        "Cumin"
+      ]
+    },
+    {
+      "id": "galbanum",
+      "name_en": "Galbanum",
+      "name_zh": "白松香",
+      "group_id": "galbanum",
+      "category_id": "resin",
+      "raw_aliases": [
+        "Galbanum"
+      ]
+    },
+    {
+      "id": "mastic",
+      "name_en": "Mastic",
+      "name_zh": "乳香黃連木樹脂",
+      "group_id": "mastic",
+      "category_id": "resin",
+      "raw_aliases": [
+        "Mastic"
+      ]
+    },
+    {
+      "id": "green_mate",
+      "name_en": "Green maté",
+      "name_zh": "綠馬黛茶",
+      "group_id": "tea",
+      "category_id": "tea",
+      "raw_aliases": [
+        "Green Maté"
+      ]
+    },
+    {
+      "id": "hay",
+      "name_en": "Hay",
+      "name_zh": "乾草",
+      "group_id": "hay",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Hay"
+      ]
+    },
+    {
+      "id": "labdanum",
+      "name_en": "Labdanum",
+      "name_zh": "岩薔薇脂",
+      "group_id": "labdanum",
+      "category_id": "resin",
+      "raw_aliases": [
+        "Labdanum"
+      ]
+    },
+    {
+      "id": "cypriol",
+      "name_en": "Cypriol",
+      "name_zh": "莎草香調",
+      "group_id": "cypriol",
+      "category_id": "woody",
+      "raw_aliases": [
+        "Cypriol Heart"
+      ]
+    },
+    {
+      "id": "cinnamon",
+      "name_en": "Cinnamon",
+      "name_zh": "肉桂",
+      "group_id": "cinnamon",
+      "category_id": "spicy",
+      "raw_aliases": [
+        "Cinnamon"
+      ]
+    },
+    {
+      "id": "magnolia_leaf",
+      "name_en": "Magnolia leaf",
+      "name_zh": "木蘭葉",
+      "group_id": "magnolia_leaf",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Magnolia Leaf"
+      ]
+    },
+    {
+      "id": "shiso",
+      "name_en": "Shiso",
+      "name_zh": "紫蘇",
+      "group_id": "shiso",
+      "category_id": "herbal_green",
+      "raw_aliases": [
+        "Shiso"
+      ]
+    },
+    {
+      "id": "guaiacwood",
+      "name_en": "Guaiacwood",
+      "name_zh": "癒創木",
+      "group_id": "guaiacwood",
+      "category_id": "woody",
+      "raw_aliases": [
+        "Guaiacwood"
+      ]
+    },
+    {
+      "id": "myrrh",
+      "name_en": "Myrrh",
+      "name_zh": "沒藥",
+      "group_id": "myrrh",
+      "category_id": "resin",
+      "raw_aliases": [
+        "Myrrh"
+      ]
+    }
+  ]
+}

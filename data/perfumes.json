@@ -1,0 +1,6399 @@
+[
+  {
+    "id": "jo-malone-english-pear-freesia",
+    "brand_id": "jo-malone",
+    "brand": "Jo Malone London",
+    "name": "English Pear & Freesia",
+    "name_zh": "英國梨與小蒼蘭",
+    "concentration": "Cologne",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R01"
+    ],
+    "official_source_ids": [
+      "O09"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "梨",
+        "小蒼蘭",
+        "廣藿香",
+        "玫瑰"
+      ],
+      "source_id": "O09",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "pear"
+      ],
+      "middle": [
+        "freesia"
+      ],
+      "base": [
+        "patchouli"
+      ]
+    },
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "官方三層重點香調和商品描述額外提到的香氣分開保存；extra 不自行指定層次。"
+    ],
+    "concentration_source_id": "O09",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "pear",
+        "raw_name": "William Pear",
+        "name_zh": "梨",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O09"
+      },
+      {
+        "note_id": "freesia",
+        "raw_name": "Freesia",
+        "name_zh": "小蒼蘭",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O09"
+      },
+      {
+        "note_id": "patchouli",
+        "raw_name": "Patchouli",
+        "name_zh": "廣藿香",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O09"
+      },
+      {
+        "note_id": "rose",
+        "raw_name": "Rose",
+        "name_zh": "玫瑰",
+        "stage": "unspecified",
+        "evidence_scope": "additional_description",
+        "source_id": "O09"
+      }
+    ],
+    "note_source_ids": [
+      "O09"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "pear",
+      "freesia",
+      "patchouli",
+      "rose"
+    ],
+    "primary_note_ids": [
+      "pear",
+      "freesia",
+      "patchouli"
+    ],
+    "note_category_ids": [
+      "fruity",
+      "floral",
+      "woody"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "jo-malone-wood-sage-sea-salt",
+    "brand_id": "jo-malone",
+    "brand": "Jo Malone London",
+    "name": "Wood Sage & Sea Salt",
+    "name_zh": "鼠尾草與海鹽",
+    "concentration": "Cologne",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R01"
+    ],
+    "official_source_ids": [
+      "O10"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "黃葵籽",
+        "海鹽香調",
+        "鼠尾草"
+      ],
+      "source_id": "O10",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "ambrette"
+      ],
+      "middle": [
+        "sea_salt"
+      ],
+      "base": [
+        "sage"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Woody",
+      "name_zh": "木質香調",
+      "source_id": "O10"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O10",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "ambrette",
+        "raw_name": "Ambrette Seeds",
+        "name_zh": "黃葵籽",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O10"
+      },
+      {
+        "note_id": "sea_salt",
+        "raw_name": "Sea Salt",
+        "name_zh": "海鹽香調",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O10"
+      },
+      {
+        "note_id": "sage",
+        "raw_name": "Sage",
+        "name_zh": "鼠尾草",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O10"
+      }
+    ],
+    "note_source_ids": [
+      "O10"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "ambrette",
+      "sea_salt",
+      "sage"
+    ],
+    "primary_note_ids": [
+      "ambrette",
+      "sea_salt",
+      "sage"
+    ],
+    "note_category_ids": [
+      "amber_musk",
+      "marine",
+      "herbal_green"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "jo-malone-poppy-barley",
+    "brand_id": "jo-malone",
+    "brand": "Jo Malone London",
+    "name": "Poppy & Barley",
+    "name_zh": "罌粟花與大麥",
+    "concentration": "Cologne",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R01"
+    ],
+    "official_source_ids": [
+      "O11"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "黑醋栗",
+        "罌粟花香調",
+        "大麥",
+        "玫瑰",
+        "紫羅蘭",
+        "麩皮"
+      ],
+      "source_id": "O11",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "blackcurrant"
+      ],
+      "middle": [
+        "poppy"
+      ],
+      "base": [
+        "barley"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Floral",
+      "name_zh": "花香調",
+      "source_id": "O11"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "官方三層重點香調和商品描述額外提到的香氣分開保存；extra 不自行指定層次。"
+    ],
+    "concentration_source_id": "O11",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "blackcurrant",
+        "raw_name": "Blackcurrant",
+        "name_zh": "黑醋栗",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O11"
+      },
+      {
+        "note_id": "poppy",
+        "raw_name": "Poppy",
+        "name_zh": "罌粟花香調",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O11"
+      },
+      {
+        "note_id": "barley",
+        "raw_name": "Barley",
+        "name_zh": "大麥",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O11"
+      },
+      {
+        "note_id": "rose",
+        "raw_name": "Rose",
+        "name_zh": "玫瑰",
+        "stage": "unspecified",
+        "evidence_scope": "additional_description",
+        "source_id": "O11"
+      },
+      {
+        "note_id": "violet",
+        "raw_name": "Violet",
+        "name_zh": "紫羅蘭",
+        "stage": "unspecified",
+        "evidence_scope": "additional_description",
+        "source_id": "O11"
+      },
+      {
+        "note_id": "bran",
+        "raw_name": "Bran",
+        "name_zh": "麩皮",
+        "stage": "unspecified",
+        "evidence_scope": "additional_description",
+        "source_id": "O11"
+      }
+    ],
+    "note_source_ids": [
+      "O11"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "blackcurrant",
+      "poppy",
+      "barley",
+      "rose",
+      "violet",
+      "bran"
+    ],
+    "primary_note_ids": [
+      "blackcurrant",
+      "poppy",
+      "barley"
+    ],
+    "note_category_ids": [
+      "fruity",
+      "floral",
+      "gourmand"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "jo-malone-english-pear-sweet-pea",
+    "brand_id": "jo-malone",
+    "brand": "Jo Malone London",
+    "name": "English Pear & Sweet Pea",
+    "name_zh": "英國梨與甜豌豆",
+    "concentration": "Cologne",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R01"
+    ],
+    "official_source_ids": [
+      "O12"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "梨",
+        "甜豌豆花",
+        "白麝香"
+      ],
+      "source_id": "O12",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "pear"
+      ],
+      "middle": [
+        "sweet_pea"
+      ],
+      "base": [
+        "white_musk"
+      ]
+    },
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O12",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "pear",
+        "raw_name": "Williams Pear",
+        "name_zh": "梨",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O12"
+      },
+      {
+        "note_id": "sweet_pea",
+        "raw_name": "Sweet Pea",
+        "name_zh": "甜豌豆花",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O12"
+      },
+      {
+        "note_id": "white_musk",
+        "raw_name": "White Musk",
+        "name_zh": "白麝香",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O12"
+      }
+    ],
+    "note_source_ids": [
+      "O12"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "pear",
+      "sweet_pea",
+      "white_musk"
+    ],
+    "primary_note_ids": [
+      "pear",
+      "sweet_pea",
+      "white_musk"
+    ],
+    "note_category_ids": [
+      "fruity",
+      "floral",
+      "amber_musk"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "jo-malone-english-oak-hazelnut",
+    "brand_id": "jo-malone",
+    "brand": "Jo Malone London",
+    "name": "English Oak & Hazelnut",
+    "name_zh": "英國橡樹與榛果",
+    "concentration": "Cologne",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R01"
+    ],
+    "official_source_ids": [
+      "O13"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "青榛果",
+        "雪松",
+        "烘烤橡木",
+        "岩蘭草"
+      ],
+      "source_id": "O13",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "hazelnut"
+      ],
+      "middle": [
+        "cedar"
+      ],
+      "base": [
+        "roasted_oak"
+      ]
+    },
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "官方三層重點香調和商品描述額外提到的香氣分開保存；extra 不自行指定層次。"
+    ],
+    "concentration_source_id": "O13",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "hazelnut",
+        "raw_name": "Green Hazelnut",
+        "name_zh": "青榛果",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O13"
+      },
+      {
+        "note_id": "cedar",
+        "raw_name": "Cedarwood",
+        "name_zh": "雪松",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O13"
+      },
+      {
+        "note_id": "roasted_oak",
+        "raw_name": "Roasted Oak",
+        "name_zh": "烘烤橡木",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O13"
+      },
+      {
+        "note_id": "vetiver",
+        "raw_name": "Vetiver",
+        "name_zh": "岩蘭草",
+        "stage": "unspecified",
+        "evidence_scope": "additional_description",
+        "source_id": "O13"
+      }
+    ],
+    "note_source_ids": [
+      "O13"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "hazelnut",
+      "cedar",
+      "roasted_oak",
+      "vetiver"
+    ],
+    "primary_note_ids": [
+      "hazelnut",
+      "cedar",
+      "roasted_oak"
+    ],
+    "note_category_ids": [
+      "gourmand",
+      "woody"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "diptyque-orpheon",
+    "brand_id": "diptyque",
+    "brand": "Diptyque",
+    "name": "Orphéon",
+    "name_zh": "爵夢",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R02"
+    ],
+    "official_source_ids": [
+      "O14"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "杜松子",
+        "雪松",
+        "零陵香豆",
+        "茉莉"
+      ],
+      "source_id": "O14",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O14",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "juniper_berry",
+        "raw_name": "Juniper berry",
+        "name_zh": "杜松子",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O14"
+      },
+      {
+        "note_id": "cedar",
+        "raw_name": "Cedar",
+        "name_zh": "雪松",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O14"
+      },
+      {
+        "note_id": "tonka_bean",
+        "raw_name": "Tonka bean",
+        "name_zh": "零陵香豆",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O14"
+      },
+      {
+        "note_id": "jasmine",
+        "raw_name": "Jasmine",
+        "name_zh": "茉莉",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O14"
+      }
+    ],
+    "note_source_ids": [
+      "O14"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "juniper_berry",
+      "cedar",
+      "tonka_bean",
+      "jasmine"
+    ],
+    "primary_note_ids": [
+      "juniper_berry",
+      "cedar",
+      "tonka_bean",
+      "jasmine"
+    ],
+    "note_category_ids": [
+      "herbal_green",
+      "woody",
+      "gourmand",
+      "floral"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "diptyque-fleur-de-peau",
+    "brand_id": "diptyque",
+    "brand": "Diptyque",
+    "name": "Fleur de Peau",
+    "name_zh": "肌膚之華",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R02"
+    ],
+    "official_source_ids": [
+      "O15"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "麝香調",
+        "鳶尾",
+        "黃葵籽",
+        "粉紅胡椒"
+      ],
+      "source_id": "O15",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O15",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "musk",
+        "raw_name": "Musk",
+        "name_zh": "麝香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O15"
+      },
+      {
+        "note_id": "iris",
+        "raw_name": "Iris",
+        "name_zh": "鳶尾",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O15"
+      },
+      {
+        "note_id": "ambrette",
+        "raw_name": "Ambrette",
+        "name_zh": "黃葵籽",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O15"
+      },
+      {
+        "note_id": "pink_pepper",
+        "raw_name": "Pink peppercorn",
+        "name_zh": "粉紅胡椒",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O15"
+      }
+    ],
+    "note_source_ids": [
+      "O15"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "musk",
+      "iris",
+      "ambrette",
+      "pink_pepper"
+    ],
+    "primary_note_ids": [
+      "musk",
+      "iris",
+      "ambrette",
+      "pink_pepper"
+    ],
+    "note_category_ids": [
+      "amber_musk",
+      "floral",
+      "spicy"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "diptyque-eau-rose",
+    "brand_id": "diptyque",
+    "brand": "Diptyque",
+    "name": "Eau Rose",
+    "name_zh": "玫瑰之水",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R02"
+    ],
+    "official_source_ids": [
+      "O16"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "大馬士革玫瑰",
+        "千葉玫瑰",
+        "洋甘菊",
+        "荔枝",
+        "朝鮮薊"
+      ],
+      "source_id": "O16",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "原文 Damascena and Centifolia roses 拆成兩種玫瑰，保留品種。"
+    ],
+    "concentration_source_id": "O16",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "damask_rose",
+        "raw_name": "Damascena rose",
+        "name_zh": "大馬士革玫瑰",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O16"
+      },
+      {
+        "note_id": "centifolia_rose",
+        "raw_name": "Centifolia rose",
+        "name_zh": "千葉玫瑰",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O16"
+      },
+      {
+        "note_id": "chamomile",
+        "raw_name": "Chamomile",
+        "name_zh": "洋甘菊",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O16"
+      },
+      {
+        "note_id": "lychee",
+        "raw_name": "Litchi",
+        "name_zh": "荔枝",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O16"
+      },
+      {
+        "note_id": "artichoke",
+        "raw_name": "Artichoke",
+        "name_zh": "朝鮮薊",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O16"
+      }
+    ],
+    "note_source_ids": [
+      "O16"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "damask_rose",
+      "centifolia_rose",
+      "chamomile",
+      "lychee",
+      "artichoke"
+    ],
+    "primary_note_ids": [
+      "damask_rose",
+      "centifolia_rose",
+      "chamomile",
+      "lychee",
+      "artichoke"
+    ],
+    "note_category_ids": [
+      "floral",
+      "herbal_green",
+      "fruity"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "diptyque-eau-de-minthe",
+    "brand_id": "diptyque",
+    "brand": "Diptyque",
+    "name": "Eau de Minthe",
+    "name_zh": "青蕨",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R02"
+    ],
+    "official_source_ids": [
+      "O17"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "廣藿香",
+        "天竺葵",
+        "薄荷",
+        "玫瑰醚香調"
+      ],
+      "source_id": "O17",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": {
+      "raw_name": "Fougère",
+      "name_zh": "馥奇香調",
+      "source_id": "O17"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O17",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "patchouli",
+        "raw_name": "Patchouli",
+        "name_zh": "廣藿香",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O17"
+      },
+      {
+        "note_id": "geranium",
+        "raw_name": "Geranium",
+        "name_zh": "天竺葵",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O17"
+      },
+      {
+        "note_id": "mint",
+        "raw_name": "Mint",
+        "name_zh": "薄荷",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O17"
+      },
+      {
+        "note_id": "rose_oxide",
+        "raw_name": "Rose oxide",
+        "name_zh": "玫瑰醚香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O17"
+      }
+    ],
+    "note_source_ids": [
+      "O17"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "patchouli",
+      "geranium",
+      "mint",
+      "rose_oxide"
+    ],
+    "primary_note_ids": [
+      "patchouli",
+      "geranium",
+      "mint",
+      "rose_oxide"
+    ],
+    "note_category_ids": [
+      "woody",
+      "floral",
+      "herbal_green"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "diptyque-lilyphea",
+    "brand_id": "diptyque",
+    "brand": "Diptyque",
+    "name": "Lilyphéa",
+    "name_zh": "睡蓮粼波",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R02"
+    ],
+    "official_source_ids": [
+      "O18"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "小豆蔻",
+        "紫羅蘭葉",
+        "香草"
+      ],
+      "source_id": "O18",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "睡蓮是創作意象，未作為官方清單香氣加入。"
+    ],
+    "concentration_source_id": "O18",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "cardamom",
+        "raw_name": "Cardamom",
+        "name_zh": "小豆蔻",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O18"
+      },
+      {
+        "note_id": "violet_leaf",
+        "raw_name": "Violet leaves",
+        "name_zh": "紫羅蘭葉",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O18"
+      },
+      {
+        "note_id": "vanilla",
+        "raw_name": "Vanilla",
+        "name_zh": "香草",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O18"
+      }
+    ],
+    "note_source_ids": [
+      "O18"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "cardamom",
+      "violet_leaf",
+      "vanilla"
+    ],
+    "primary_note_ids": [
+      "cardamom",
+      "violet_leaf",
+      "vanilla"
+    ],
+    "note_category_ids": [
+      "spicy",
+      "herbal_green",
+      "gourmand"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "hermes-rose-ikebana",
+    "brand_id": "hermes",
+    "brand": "Hermès",
+    "name": "Rose Ikebana",
+    "name_zh": "玫瑰花道",
+    "concentration": "EDT",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R03"
+    ],
+    "official_source_ids": [
+      "O19"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "玫瑰",
+        "大黃"
+      ],
+      "source_id": "O19",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "只取禮盒頁中 Rose Ikebana 自身資料，未混入其他香味。"
+    ],
+    "concentration_source_id": "O19",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "rose",
+        "raw_name": "Rose",
+        "name_zh": "玫瑰",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O19"
+      },
+      {
+        "note_id": "rhubarb",
+        "raw_name": "Rhubarb",
+        "name_zh": "大黃",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O19"
+      }
+    ],
+    "note_source_ids": [
+      "O19"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "rose",
+      "rhubarb"
+    ],
+    "primary_note_ids": [
+      "rose",
+      "rhubarb"
+    ],
+    "note_category_ids": [
+      "floral",
+      "herbal_green"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "hermes-musc-pallida",
+    "brand_id": "hermes",
+    "brand": "Hermès",
+    "name": "Musc Pallida",
+    "name_zh": "麝香鳶尾",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R03"
+    ],
+    "official_source_ids": [
+      "O05"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "鳶尾",
+        "麝香調"
+      ],
+      "source_id": "O05",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": {
+      "raw_name": "Musky",
+      "name_zh": "麝香調",
+      "source_id": "O05"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "推薦文寫淡香水；本資料依官方 O05 選取 EDP 版。",
+      "EDP 版本；原推薦文的 EDT 名稱以官網更正。"
+    ],
+    "concentration_source_id": "O05",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "iris",
+        "raw_name": "Powdery iris",
+        "name_zh": "鳶尾",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O05"
+      },
+      {
+        "note_id": "musk",
+        "raw_name": "Caressing musk",
+        "name_zh": "麝香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O05"
+      }
+    ],
+    "note_source_ids": [
+      "O05"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "iris",
+      "musk"
+    ],
+    "primary_note_ids": [
+      "iris",
+      "musk"
+    ],
+    "note_category_ids": [
+      "floral",
+      "amber_musk"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "hermes-cabriole",
+    "brand_id": "hermes",
+    "brand": "Hermès",
+    "name": "Cabriole",
+    "name_zh": "無酒精香氛水",
+    "concentration": "Alcohol-free scented water",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R03"
+    ],
+    "official_source_ids": [
+      "O20"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "桂花",
+        "忍冬",
+        "檀香"
+      ],
+      "source_id": "O20",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "屬無酒精香氛水，分析濃度時不得歸入 EDP 或 EDT。"
+    ],
+    "concentration_source_id": "O20",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "osmanthus",
+        "raw_name": "Osmanthus",
+        "name_zh": "桂花",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O20"
+      },
+      {
+        "note_id": "honeysuckle",
+        "raw_name": "Honeysuckle",
+        "name_zh": "忍冬",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O20"
+      },
+      {
+        "note_id": "sandalwood",
+        "raw_name": "Sandalwood",
+        "name_zh": "檀香",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O20"
+      }
+    ],
+    "note_source_ids": [
+      "O20"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "osmanthus",
+      "honeysuckle",
+      "sandalwood"
+    ],
+    "primary_note_ids": [
+      "osmanthus",
+      "honeysuckle",
+      "sandalwood"
+    ],
+    "note_category_ids": [
+      "floral",
+      "woody"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "hermes-twilly-eau-ginger",
+    "brand_id": "hermes",
+    "brand": "Hermès",
+    "name": "Twilly d’Hermès Eau Ginger",
+    "name_zh": "絲意薑香",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R03"
+    ],
+    "official_source_ids": [
+      "O21"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "糖漬薑",
+        "牡丹",
+        "雪松"
+      ],
+      "source_id": "O21",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": {
+      "raw_name": "Floral",
+      "name_zh": "花香調",
+      "source_id": "O21"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O21",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "candied_ginger",
+        "raw_name": "Candied ginger",
+        "name_zh": "糖漬薑",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O21"
+      },
+      {
+        "note_id": "peony",
+        "raw_name": "Peony",
+        "name_zh": "牡丹",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O21"
+      },
+      {
+        "note_id": "cedar",
+        "raw_name": "Cedar",
+        "name_zh": "雪松",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O21"
+      }
+    ],
+    "note_source_ids": [
+      "O21"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "candied_ginger",
+      "peony",
+      "cedar"
+    ],
+    "primary_note_ids": [
+      "candied_ginger",
+      "peony",
+      "cedar"
+    ],
+    "note_category_ids": [
+      "spicy",
+      "floral",
+      "woody"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "hermes-le-jardin-de-monsieur-li",
+    "brand_id": "hermes",
+    "brand": "Hermès",
+    "name": "Le Jardin de Monsieur Li",
+    "name_zh": "李先生的花園",
+    "concentration": "EDT",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R03"
+    ],
+    "official_source_ids": [
+      "O22"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "沙巴茉莉",
+        "金桔",
+        "佛手柑"
+      ],
+      "source_id": "O22",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O22",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "jasmine_sambac",
+        "raw_name": "Sambac Jasmine",
+        "name_zh": "沙巴茉莉",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O22"
+      },
+      {
+        "note_id": "kumquat",
+        "raw_name": "Kumquat",
+        "name_zh": "金桔",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O22"
+      },
+      {
+        "note_id": "bergamot",
+        "raw_name": "Bergamot",
+        "name_zh": "佛手柑",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O22"
+      }
+    ],
+    "note_source_ids": [
+      "O22"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "jasmine_sambac",
+      "kumquat",
+      "bergamot"
+    ],
+    "primary_note_ids": [
+      "jasmine_sambac",
+      "kumquat",
+      "bergamot"
+    ],
+    "note_category_ids": [
+      "floral",
+      "citrus"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "penhaligons-duchess-rose",
+    "brand_id": "penhaligons",
+    "brand": "Penhaligon’s",
+    "name": "The Coveted Duchess Rose",
+    "name_zh": "望眼欲穿的公爵夫人",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R04"
+    ],
+    "official_source_ids": [
+      "O23"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "柑橘",
+        "千葉玫瑰",
+        "香草",
+        "麝香調",
+        "木質香調"
+      ],
+      "source_id": "O23",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "原版 EDP，不使用 Intense 版資料。"
+    ],
+    "concentration_source_id": "O23",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "mandarin",
+        "raw_name": "Mandarin",
+        "name_zh": "柑橘",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O23"
+      },
+      {
+        "note_id": "centifolia_rose",
+        "raw_name": "Rose centifolia",
+        "name_zh": "千葉玫瑰",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O23"
+      },
+      {
+        "note_id": "vanilla",
+        "raw_name": "Vanilla",
+        "name_zh": "香草",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O23"
+      },
+      {
+        "note_id": "musk",
+        "raw_name": "Musk",
+        "name_zh": "麝香調",
+        "stage": "unspecified",
+        "evidence_scope": "additional_description",
+        "source_id": "O23"
+      },
+      {
+        "note_id": "woods",
+        "raw_name": "Woods",
+        "name_zh": "木質香調",
+        "stage": "unspecified",
+        "evidence_scope": "additional_description",
+        "source_id": "O23"
+      }
+    ],
+    "note_source_ids": [
+      "O23"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "mandarin",
+      "centifolia_rose",
+      "vanilla",
+      "musk",
+      "woods"
+    ],
+    "primary_note_ids": [
+      "mandarin",
+      "centifolia_rose",
+      "vanilla"
+    ],
+    "note_category_ids": [
+      "citrus",
+      "floral",
+      "gourmand",
+      "amber_musk",
+      "woody"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "penhaligons-duke",
+    "brand_id": "penhaligons",
+    "brand": "Penhaligon’s",
+    "name": "Much Ado About the Duke",
+    "name_zh": "喧囂紛擾的公爵",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R04"
+    ],
+    "official_source_ids": [
+      "O24"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "粉紅胡椒",
+        "琴酒香調",
+        "岩蘭草",
+        "玫瑰",
+        "皮革香調"
+      ],
+      "source_id": "O24",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O24",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "pink_pepper",
+        "raw_name": "Pink pepper",
+        "name_zh": "粉紅胡椒",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O24"
+      },
+      {
+        "note_id": "gin",
+        "raw_name": "Gin",
+        "name_zh": "琴酒香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O24"
+      },
+      {
+        "note_id": "vetiver",
+        "raw_name": "Vetiver",
+        "name_zh": "岩蘭草",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O24"
+      },
+      {
+        "note_id": "rose",
+        "raw_name": "Rose",
+        "name_zh": "玫瑰",
+        "stage": "unspecified",
+        "evidence_scope": "additional_description",
+        "source_id": "O24"
+      },
+      {
+        "note_id": "leather",
+        "raw_name": "Leather",
+        "name_zh": "皮革香調",
+        "stage": "unspecified",
+        "evidence_scope": "additional_description",
+        "source_id": "O24"
+      }
+    ],
+    "note_source_ids": [
+      "O24"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "pink_pepper",
+      "gin",
+      "vetiver",
+      "rose",
+      "leather"
+    ],
+    "primary_note_ids": [
+      "pink_pepper",
+      "gin",
+      "vetiver"
+    ],
+    "note_category_ids": [
+      "spicy",
+      "beverage",
+      "woody",
+      "floral",
+      "leather"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "penhaligons-lord-george",
+    "brand_id": "penhaligons",
+    "brand": "Penhaligon’s",
+    "name": "The Tragedy of Lord George",
+    "name_zh": "喬治勳爵的悲劇",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R04"
+    ],
+    "official_source_ids": [
+      "O25"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "Ambrox 香調",
+        "蘭姆酒香調",
+        "零陵香豆",
+        "刮鬍皂香調"
+      ],
+      "source_id": "O25",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": {
+      "raw_name": "Woody",
+      "name_zh": "木質香調",
+      "source_id": "O25"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "本次官方頁明載 Rum，保留其用詞，不與舊文章可能使用的 Brandy 合併。原版 EDP，不含 Intense 版。"
+    ],
+    "concentration_source_id": "O25",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "ambrox",
+        "raw_name": "Ambrox",
+        "name_zh": "Ambrox 香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O25"
+      },
+      {
+        "note_id": "rum",
+        "raw_name": "Rum",
+        "name_zh": "蘭姆酒香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O25"
+      },
+      {
+        "note_id": "tonka_bean",
+        "raw_name": "Tonka bean",
+        "name_zh": "零陵香豆",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O25"
+      },
+      {
+        "note_id": "shaving_soap",
+        "raw_name": "Shaving soap",
+        "name_zh": "刮鬍皂香調",
+        "stage": "unspecified",
+        "evidence_scope": "additional_description",
+        "source_id": "O25"
+      }
+    ],
+    "note_source_ids": [
+      "O25"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "ambrox",
+      "rum",
+      "tonka_bean",
+      "shaving_soap"
+    ],
+    "primary_note_ids": [
+      "ambrox",
+      "rum",
+      "tonka_bean"
+    ],
+    "note_category_ids": [
+      "amber_musk",
+      "beverage",
+      "gourmand",
+      "abstract"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "penhaligons-luna",
+    "brand_id": "penhaligons",
+    "brand": "Penhaligon’s",
+    "name": "Luna",
+    "name_zh": "月亮女神",
+    "concentration": "EDT",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R04"
+    ],
+    "official_source_ids": [
+      "O26"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "茉莉",
+        "冷杉香脂",
+        "佛手柑",
+        "甜橙",
+        "玫瑰"
+      ],
+      "source_id": "O26",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O26",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "jasmine",
+        "raw_name": "Jasmine",
+        "name_zh": "茉莉",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O26"
+      },
+      {
+        "note_id": "fir_balsam",
+        "raw_name": "Fir balsam",
+        "name_zh": "冷杉香脂",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O26"
+      },
+      {
+        "note_id": "bergamot",
+        "raw_name": "Bergamot",
+        "name_zh": "佛手柑",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O26"
+      },
+      {
+        "note_id": "orange",
+        "raw_name": "Orange",
+        "name_zh": "甜橙",
+        "stage": "unspecified",
+        "evidence_scope": "additional_description",
+        "source_id": "O26"
+      },
+      {
+        "note_id": "rose",
+        "raw_name": "Rose",
+        "name_zh": "玫瑰",
+        "stage": "unspecified",
+        "evidence_scope": "additional_description",
+        "source_id": "O26"
+      }
+    ],
+    "note_source_ids": [
+      "O26"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "jasmine",
+      "fir_balsam",
+      "bergamot",
+      "orange",
+      "rose"
+    ],
+    "primary_note_ids": [
+      "jasmine",
+      "fir_balsam",
+      "bergamot"
+    ],
+    "note_category_ids": [
+      "floral",
+      "resin",
+      "citrus"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "penhaligons-empressa",
+    "brand_id": "penhaligons",
+    "brand": "Penhaligon’s",
+    "name": "Empressa",
+    "name_zh": "廣霍之匣",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R04"
+    ],
+    "official_source_ids": [
+      "O27"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "廣藿香",
+        "佛手柑",
+        "桃",
+        "香草",
+        "血橙"
+      ],
+      "source_id": "O27",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "搜尋標題殘留 EDT 字樣，商品正文與瓶身標示為 EDP，本資料採正文版本。"
+    ],
+    "concentration_source_id": "O27",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "patchouli",
+        "raw_name": "Patchouli",
+        "name_zh": "廣藿香",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O27"
+      },
+      {
+        "note_id": "bergamot",
+        "raw_name": "Bergamot",
+        "name_zh": "佛手柑",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O27"
+      },
+      {
+        "note_id": "peach",
+        "raw_name": "Peach",
+        "name_zh": "桃",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O27"
+      },
+      {
+        "note_id": "vanilla",
+        "raw_name": "Vanilla",
+        "name_zh": "香草",
+        "stage": "unspecified",
+        "evidence_scope": "additional_description",
+        "source_id": "O27"
+      },
+      {
+        "note_id": "blood_orange",
+        "raw_name": "Blood orange",
+        "name_zh": "血橙",
+        "stage": "unspecified",
+        "evidence_scope": "additional_description",
+        "source_id": "O27"
+      }
+    ],
+    "note_source_ids": [
+      "O27"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "patchouli",
+      "bergamot",
+      "peach",
+      "vanilla",
+      "blood_orange"
+    ],
+    "primary_note_ids": [
+      "patchouli",
+      "bergamot",
+      "peach"
+    ],
+    "note_category_ids": [
+      "woody",
+      "citrus",
+      "fruity",
+      "gourmand"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "elizabeth-arden-green-tea",
+    "brand_id": "elizabeth-arden",
+    "brand": "Elizabeth Arden",
+    "name": "Green Tea",
+    "name_zh": "綠茶",
+    "concentration": "Scent Spray",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R05"
+    ],
+    "official_source_ids": [
+      "O06"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "佛手柑",
+        "檸檬",
+        "綠茶",
+        "茉莉",
+        "芹菜籽",
+        "琥珀香調",
+        "橡木苔",
+        "麝香調"
+      ],
+      "source_id": "O06",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "bergamot",
+        "lemon"
+      ],
+      "middle": [
+        "green_tea",
+        "jasmine",
+        "celery_seed"
+      ],
+      "base": [
+        "amber",
+        "oakmoss",
+        "musk"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Citrus Aromatic",
+      "name_zh": "柑橘芳香調",
+      "source_id": "O06"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "保留官網商品類型，不將 Eau Parfumée 自行等同 EDP。",
+      "官網商品名稱為 Scent Spray，未據此推定 EDT 或 EDP。"
+    ],
+    "concentration_source_id": "O06",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "bergamot",
+        "raw_name": "Bergamot",
+        "name_zh": "佛手柑",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O06"
+      },
+      {
+        "note_id": "lemon",
+        "raw_name": "Lemon",
+        "name_zh": "檸檬",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O06"
+      },
+      {
+        "note_id": "green_tea",
+        "raw_name": "Green Tea Accord",
+        "name_zh": "綠茶",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O06"
+      },
+      {
+        "note_id": "jasmine",
+        "raw_name": "Jasmine Accord",
+        "name_zh": "茉莉",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O06"
+      },
+      {
+        "note_id": "celery_seed",
+        "raw_name": "Celery Seeds",
+        "name_zh": "芹菜籽",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O06"
+      },
+      {
+        "note_id": "amber",
+        "raw_name": "Amber",
+        "name_zh": "琥珀香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O06"
+      },
+      {
+        "note_id": "oakmoss",
+        "raw_name": "Oakmoss",
+        "name_zh": "橡木苔",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O06"
+      },
+      {
+        "note_id": "musk",
+        "raw_name": "Musk",
+        "name_zh": "麝香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O06"
+      }
+    ],
+    "note_source_ids": [
+      "O06"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "bergamot",
+      "lemon",
+      "green_tea",
+      "jasmine",
+      "celery_seed",
+      "amber",
+      "oakmoss",
+      "musk"
+    ],
+    "primary_note_ids": [
+      "bergamot",
+      "lemon",
+      "green_tea",
+      "jasmine",
+      "celery_seed",
+      "amber",
+      "oakmoss",
+      "musk"
+    ],
+    "note_category_ids": [
+      "citrus",
+      "tea",
+      "floral",
+      "herbal_green",
+      "amber_musk"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "elizabeth-arden-sunflowers",
+    "brand_id": "elizabeth-arden",
+    "brand": "Elizabeth Arden",
+    "name": "Sunflowers",
+    "name_zh": "向日葵",
+    "concentration": "EDT",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R05"
+    ],
+    "official_source_ids": [
+      "O03"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "佛手柑",
+        "甜瓜",
+        "桃",
+        "桂花",
+        "茉莉",
+        "仙客來",
+        "玫瑰",
+        "檀香",
+        "苔蘚",
+        "麝香調"
+      ],
+      "source_id": "O03",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "bergamot",
+        "melon",
+        "peach",
+        "osmanthus"
+      ],
+      "middle": [
+        "jasmine",
+        "cyclamen",
+        "rose"
+      ],
+      "base": [
+        "sandalwood",
+        "moss",
+        "musk"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Fruity Fresh",
+      "name_zh": "清新果香調",
+      "source_id": "O03"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "Description 的簡表省略玫瑰與麝香；採用 Key Ingredients 的完整三層清單。"
+    ],
+    "concentration_source_id": "O03",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "bergamot",
+        "raw_name": "Bergamot",
+        "name_zh": "佛手柑",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O03"
+      },
+      {
+        "note_id": "melon",
+        "raw_name": "Melon",
+        "name_zh": "甜瓜",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O03"
+      },
+      {
+        "note_id": "peach",
+        "raw_name": "Peach",
+        "name_zh": "桃",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O03"
+      },
+      {
+        "note_id": "osmanthus",
+        "raw_name": "Osmanthus",
+        "name_zh": "桂花",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O03"
+      },
+      {
+        "note_id": "jasmine",
+        "raw_name": "Jasmine",
+        "name_zh": "茉莉",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O03"
+      },
+      {
+        "note_id": "cyclamen",
+        "raw_name": "Cyclamen",
+        "name_zh": "仙客來",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O03"
+      },
+      {
+        "note_id": "rose",
+        "raw_name": "Rose",
+        "name_zh": "玫瑰",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O03"
+      },
+      {
+        "note_id": "sandalwood",
+        "raw_name": "Sandalwood",
+        "name_zh": "檀香",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O03"
+      },
+      {
+        "note_id": "moss",
+        "raw_name": "Moss",
+        "name_zh": "苔蘚",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O03"
+      },
+      {
+        "note_id": "musk",
+        "raw_name": "Musks",
+        "name_zh": "麝香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O03"
+      }
+    ],
+    "note_source_ids": [
+      "O03"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "bergamot",
+      "melon",
+      "peach",
+      "osmanthus",
+      "jasmine",
+      "cyclamen",
+      "rose",
+      "sandalwood",
+      "moss",
+      "musk"
+    ],
+    "primary_note_ids": [
+      "bergamot",
+      "melon",
+      "peach",
+      "osmanthus",
+      "jasmine",
+      "cyclamen",
+      "rose",
+      "sandalwood",
+      "moss",
+      "musk"
+    ],
+    "note_category_ids": [
+      "citrus",
+      "fruity",
+      "floral",
+      "woody",
+      "herbal_green",
+      "amber_musk"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "elizabeth-arden-5th-avenue",
+    "brand_id": "elizabeth-arden",
+    "brand": "Elizabeth Arden",
+    "name": "5th Avenue",
+    "name_zh": "第五大道",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R05"
+    ],
+    "official_source_ids": [
+      "O07"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "木蘭花",
+        "紫丁香",
+        "椴樹花",
+        "鈴蘭",
+        "柑橘",
+        "佛手柑",
+        "紫羅蘭",
+        "玫瑰",
+        "依蘭",
+        "茉莉",
+        "晚香玉",
+        "桃",
+        "丁香",
+        "肉豆蔻",
+        "琥珀香調",
+        "麝香調",
+        "檀香",
+        "鳶尾",
+        "香草"
+      ],
+      "source_id": "O07",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "magnolia",
+        "lilac",
+        "linden_blossom",
+        "lily_of_valley",
+        "mandarin",
+        "bergamot"
+      ],
+      "middle": [
+        "violet",
+        "rose",
+        "ylang_ylang",
+        "jasmine",
+        "tuberose",
+        "peach",
+        "clove",
+        "nutmeg"
+      ],
+      "base": [
+        "amber",
+        "musk",
+        "sandalwood",
+        "iris",
+        "vanilla"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Floral",
+      "name_zh": "花香調",
+      "source_id": "O07"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "保留官網 Ylang-Yang、Indian Turberose 原字串；正規化分別對應依蘭、晚香玉。"
+    ],
+    "concentration_source_id": "O07",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "magnolia",
+        "raw_name": "Dewy Magnolia",
+        "name_zh": "木蘭花",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "lilac",
+        "raw_name": "Lilac",
+        "name_zh": "紫丁香",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "linden_blossom",
+        "raw_name": "Linden Blossom",
+        "name_zh": "椴樹花",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "lily_of_valley",
+        "raw_name": "Muguet",
+        "name_zh": "鈴蘭",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "mandarin",
+        "raw_name": "Exotic Mandarin",
+        "name_zh": "柑橘",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "bergamot",
+        "raw_name": "Bergamot",
+        "name_zh": "佛手柑",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "violet",
+        "raw_name": "Violet",
+        "name_zh": "紫羅蘭",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "rose",
+        "raw_name": "Rare Rose Bulgarian",
+        "name_zh": "玫瑰",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "ylang_ylang",
+        "raw_name": "Ylang-Yang",
+        "name_zh": "依蘭",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "jasmine",
+        "raw_name": "Jasmine",
+        "name_zh": "茉莉",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "tuberose",
+        "raw_name": "Indian Turberose",
+        "name_zh": "晚香玉",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "peach",
+        "raw_name": "Peach",
+        "name_zh": "桃",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "clove",
+        "raw_name": "Clove",
+        "name_zh": "丁香",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "nutmeg",
+        "raw_name": "Nutmeg",
+        "name_zh": "肉豆蔻",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "amber",
+        "raw_name": "Amber",
+        "name_zh": "琥珀香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "musk",
+        "raw_name": "Tibetan Musk",
+        "name_zh": "麝香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "sandalwood",
+        "raw_name": "Sandalwood",
+        "name_zh": "檀香",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "iris",
+        "raw_name": "Iris",
+        "name_zh": "鳶尾",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      },
+      {
+        "note_id": "vanilla",
+        "raw_name": "Vanilla",
+        "name_zh": "香草",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O07"
+      }
+    ],
+    "note_source_ids": [
+      "O07"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "magnolia",
+      "lilac",
+      "linden_blossom",
+      "lily_of_valley",
+      "mandarin",
+      "bergamot",
+      "violet",
+      "rose",
+      "ylang_ylang",
+      "jasmine",
+      "tuberose",
+      "peach",
+      "clove",
+      "nutmeg",
+      "amber",
+      "musk",
+      "sandalwood",
+      "iris",
+      "vanilla"
+    ],
+    "primary_note_ids": [
+      "magnolia",
+      "lilac",
+      "linden_blossom",
+      "lily_of_valley",
+      "mandarin",
+      "bergamot",
+      "violet",
+      "rose",
+      "ylang_ylang",
+      "jasmine",
+      "tuberose",
+      "peach",
+      "clove",
+      "nutmeg",
+      "amber",
+      "musk",
+      "sandalwood",
+      "iris",
+      "vanilla"
+    ],
+    "note_category_ids": [
+      "floral",
+      "citrus",
+      "fruity",
+      "spicy",
+      "amber_musk",
+      "woody",
+      "gourmand"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "elizabeth-arden-arden-beauty",
+    "brand_id": "elizabeth-arden",
+    "brand": "Elizabeth Arden",
+    "name": "Arden Beauty",
+    "name_zh": null,
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R05"
+    ],
+    "official_source_ids": [
+      "O02"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "佛手柑",
+        "米花香調",
+        "青綠葉香",
+        "藍蓮花",
+        "薑百合",
+        "百合",
+        "蘭花",
+        "檀香",
+        "白琥珀香調",
+        "麝香調"
+      ],
+      "source_id": "O02",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "bergamot",
+        "rice_flower",
+        "green_leaves"
+      ],
+      "middle": [
+        "blue_lotus",
+        "ginger_lily",
+        "lily",
+        "orchid"
+      ],
+      "base": [
+        "sandalwood",
+        "white_amber",
+        "musk"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Floral, Green",
+      "name_zh": "綠意花香調",
+      "source_id": "O02"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "同頁 Description 與 Key Ingredients 部分內容不一致；固定採用明確標示 Top/Middle/Base 的 Key Ingredients，不混合兩份清單。"
+    ],
+    "concentration_source_id": "O02",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "bergamot",
+        "raw_name": "Italian Bergamot",
+        "name_zh": "佛手柑",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O02"
+      },
+      {
+        "note_id": "rice_flower",
+        "raw_name": "Living Rice Flower",
+        "name_zh": "米花香調",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O02"
+      },
+      {
+        "note_id": "green_leaves",
+        "raw_name": "Dewy Green Accord",
+        "name_zh": "青綠葉香",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O02"
+      },
+      {
+        "note_id": "blue_lotus",
+        "raw_name": "Blue Lotus Flower",
+        "name_zh": "藍蓮花",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O02"
+      },
+      {
+        "note_id": "ginger_lily",
+        "raw_name": "Living Gingerlily",
+        "name_zh": "薑百合",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O02"
+      },
+      {
+        "note_id": "lily",
+        "raw_name": "Rubrum Lily",
+        "name_zh": "百合",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O02"
+      },
+      {
+        "note_id": "orchid",
+        "raw_name": "Golden Sunset Orchid",
+        "name_zh": "蘭花",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O02"
+      },
+      {
+        "note_id": "sandalwood",
+        "raw_name": "Indian Sandalwood",
+        "name_zh": "檀香",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O02"
+      },
+      {
+        "note_id": "white_amber",
+        "raw_name": "White Amber",
+        "name_zh": "白琥珀香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O02"
+      },
+      {
+        "note_id": "musk",
+        "raw_name": "Skin Sensual Musk",
+        "name_zh": "麝香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O02"
+      }
+    ],
+    "note_source_ids": [
+      "O02"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "bergamot",
+      "rice_flower",
+      "green_leaves",
+      "blue_lotus",
+      "ginger_lily",
+      "lily",
+      "orchid",
+      "sandalwood",
+      "white_amber",
+      "musk"
+    ],
+    "primary_note_ids": [
+      "bergamot",
+      "rice_flower",
+      "green_leaves",
+      "blue_lotus",
+      "ginger_lily",
+      "lily",
+      "orchid",
+      "sandalwood",
+      "white_amber",
+      "musk"
+    ],
+    "note_category_ids": [
+      "citrus",
+      "floral",
+      "herbal_green",
+      "woody",
+      "amber_musk"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "elizabeth-arden-provocative-woman",
+    "brand_id": "elizabeth-arden",
+    "brand": "Elizabeth Arden",
+    "name": "Provocative Woman",
+    "name_zh": null,
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R05"
+    ],
+    "official_source_ids": [
+      "O04"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "薑百合",
+        "榅桲",
+        "水蓮花",
+        "小蒼蘭",
+        "蘭花",
+        "木瓜花",
+        "琥珀香調",
+        "白沙香調",
+        "日本扁柏"
+      ],
+      "source_id": "O04",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "ginger_lily",
+        "quince",
+        "water_lotus"
+      ],
+      "middle": [
+        "freesia",
+        "orchid",
+        "papaya_blossom"
+      ],
+      "base": [
+        "amber",
+        "white_sand",
+        "hinoki"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Floral Amber",
+      "name_zh": "琥珀花香調",
+      "source_id": "O04"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "同頁 Description 使用薑、木瓜葉，Key Ingredients 使用薑百合、木瓜花；本資料採 Key Ingredients，不宣稱已判定配方。"
+    ],
+    "concentration_source_id": "O04",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "ginger_lily",
+        "raw_name": "Ginger Lily",
+        "name_zh": "薑百合",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O04"
+      },
+      {
+        "note_id": "quince",
+        "raw_name": "Chilled Quince",
+        "name_zh": "榅桲",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O04"
+      },
+      {
+        "note_id": "water_lotus",
+        "raw_name": "Water Lotus",
+        "name_zh": "水蓮花",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O04"
+      },
+      {
+        "note_id": "freesia",
+        "raw_name": "Pink Freesia",
+        "name_zh": "小蒼蘭",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O04"
+      },
+      {
+        "note_id": "orchid",
+        "raw_name": "Midnight Orchid",
+        "name_zh": "蘭花",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O04"
+      },
+      {
+        "note_id": "papaya_blossom",
+        "raw_name": "Papaya Blossom",
+        "name_zh": "木瓜花",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O04"
+      },
+      {
+        "note_id": "amber",
+        "raw_name": "Red Amber",
+        "name_zh": "琥珀香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O04"
+      },
+      {
+        "note_id": "white_sand",
+        "raw_name": "White Sand Accord",
+        "name_zh": "白沙香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O04"
+      },
+      {
+        "note_id": "hinoki",
+        "raw_name": "Hinoki Wood",
+        "name_zh": "日本扁柏",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O04"
+      }
+    ],
+    "note_source_ids": [
+      "O04"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "ginger_lily",
+      "quince",
+      "water_lotus",
+      "freesia",
+      "orchid",
+      "papaya_blossom",
+      "amber",
+      "white_sand",
+      "hinoki"
+    ],
+    "primary_note_ids": [
+      "ginger_lily",
+      "quince",
+      "water_lotus",
+      "freesia",
+      "orchid",
+      "papaya_blossom",
+      "amber",
+      "white_sand",
+      "hinoki"
+    ],
+    "note_category_ids": [
+      "floral",
+      "fruity",
+      "amber_musk",
+      "abstract",
+      "woody"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "byredo-rose-of-no-mans-land",
+    "brand_id": "byredo",
+    "brand": "BYREDO",
+    "name": "Rose of No Man’s Land",
+    "name_zh": "無人之境",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R06"
+    ],
+    "official_source_ids": [
+      "O28"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "粉紅胡椒",
+        "玫瑰",
+        "覆盆子花",
+        "琥珀香調",
+        "紙莎草"
+      ],
+      "source_id": "O28",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "pink_pepper",
+        "rose"
+      ],
+      "middle": [
+        "raspberry_blossom",
+        "rose"
+      ],
+      "base": [
+        "amber",
+        "papyrus"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Floral",
+      "name_zh": "花香調",
+      "source_id": "O28"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O28",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "pink_pepper",
+        "raw_name": "Pink Pepper",
+        "name_zh": "粉紅胡椒",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O28"
+      },
+      {
+        "note_id": "rose",
+        "raw_name": "Turkish Rose Petals",
+        "name_zh": "玫瑰",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O28"
+      },
+      {
+        "note_id": "raspberry_blossom",
+        "raw_name": "Raspberry Blossom",
+        "name_zh": "覆盆子花",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O28"
+      },
+      {
+        "note_id": "rose",
+        "raw_name": "Turkish Rose Absolute",
+        "name_zh": "玫瑰",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O28"
+      },
+      {
+        "note_id": "amber",
+        "raw_name": "Amber",
+        "name_zh": "琥珀香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O28"
+      },
+      {
+        "note_id": "papyrus",
+        "raw_name": "Papyrus",
+        "name_zh": "紙莎草",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O28"
+      }
+    ],
+    "note_source_ids": [
+      "O28"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "pink_pepper",
+      "rose",
+      "raspberry_blossom",
+      "amber",
+      "papyrus"
+    ],
+    "primary_note_ids": [
+      "pink_pepper",
+      "rose",
+      "raspberry_blossom",
+      "amber",
+      "papyrus"
+    ],
+    "note_category_ids": [
+      "spicy",
+      "floral",
+      "amber_musk",
+      "woody"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "byredo-blanche",
+    "brand_id": "byredo",
+    "brand": "BYREDO",
+    "name": "Blanche",
+    "name_zh": "返璞歸真",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R06"
+    ],
+    "official_source_ids": [
+      "O29"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "醛香調",
+        "千葉玫瑰",
+        "牡丹",
+        "紫羅蘭",
+        "麝香調",
+        "檀香"
+      ],
+      "source_id": "O29",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "aldehyde",
+        "centifolia_rose"
+      ],
+      "middle": [
+        "peony",
+        "violet"
+      ],
+      "base": [
+        "musk",
+        "sandalwood"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Floral",
+      "name_zh": "花香調",
+      "source_id": "O29"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O29",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "aldehyde",
+        "raw_name": "Aldehyde",
+        "name_zh": "醛香調",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O29"
+      },
+      {
+        "note_id": "centifolia_rose",
+        "raw_name": "Rose Centifolia",
+        "name_zh": "千葉玫瑰",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O29"
+      },
+      {
+        "note_id": "peony",
+        "raw_name": "Peony",
+        "name_zh": "牡丹",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O29"
+      },
+      {
+        "note_id": "violet",
+        "raw_name": "Violet",
+        "name_zh": "紫羅蘭",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O29"
+      },
+      {
+        "note_id": "musk",
+        "raw_name": "Musks",
+        "name_zh": "麝香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O29"
+      },
+      {
+        "note_id": "sandalwood",
+        "raw_name": "Sandalwood",
+        "name_zh": "檀香",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O29"
+      }
+    ],
+    "note_source_ids": [
+      "O29"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "aldehyde",
+      "centifolia_rose",
+      "peony",
+      "violet",
+      "musk",
+      "sandalwood"
+    ],
+    "primary_note_ids": [
+      "aldehyde",
+      "centifolia_rose",
+      "peony",
+      "violet",
+      "musk",
+      "sandalwood"
+    ],
+    "note_category_ids": [
+      "abstract",
+      "floral",
+      "amber_musk",
+      "woody"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "byredo-gypsy-water",
+    "brand_id": "byredo",
+    "brand": "BYREDO",
+    "name": "Gypsy Water",
+    "name_zh": "吉普賽之水",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R06"
+    ],
+    "official_source_ids": [
+      "O30"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "佛手柑",
+        "杜松子",
+        "檸檬",
+        "胡椒",
+        "焚香香調",
+        "鳶尾根",
+        "松針",
+        "琥珀香調",
+        "檀香",
+        "香草"
+      ],
+      "source_id": "O30",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "bergamot",
+        "juniper_berry",
+        "lemon",
+        "pepper"
+      ],
+      "middle": [
+        "incense",
+        "orris",
+        "pine_needle"
+      ],
+      "base": [
+        "amber",
+        "sandalwood",
+        "vanilla"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Woody",
+      "name_zh": "木質香調",
+      "source_id": "O30"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O30",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "bergamot",
+        "raw_name": "Bergamot",
+        "name_zh": "佛手柑",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O30"
+      },
+      {
+        "note_id": "juniper_berry",
+        "raw_name": "Juniper Berries",
+        "name_zh": "杜松子",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O30"
+      },
+      {
+        "note_id": "lemon",
+        "raw_name": "Lemon",
+        "name_zh": "檸檬",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O30"
+      },
+      {
+        "note_id": "pepper",
+        "raw_name": "Pepper",
+        "name_zh": "胡椒",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O30"
+      },
+      {
+        "note_id": "incense",
+        "raw_name": "Incense",
+        "name_zh": "焚香香調",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O30"
+      },
+      {
+        "note_id": "orris",
+        "raw_name": "Orris",
+        "name_zh": "鳶尾根",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O30"
+      },
+      {
+        "note_id": "pine_needle",
+        "raw_name": "Pine Needle",
+        "name_zh": "松針",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O30"
+      },
+      {
+        "note_id": "amber",
+        "raw_name": "Amber",
+        "name_zh": "琥珀香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O30"
+      },
+      {
+        "note_id": "sandalwood",
+        "raw_name": "Sandalwood",
+        "name_zh": "檀香",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O30"
+      },
+      {
+        "note_id": "vanilla",
+        "raw_name": "Vanilla",
+        "name_zh": "香草",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O30"
+      }
+    ],
+    "note_source_ids": [
+      "O30"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "bergamot",
+      "juniper_berry",
+      "lemon",
+      "pepper",
+      "incense",
+      "orris",
+      "pine_needle",
+      "amber",
+      "sandalwood",
+      "vanilla"
+    ],
+    "primary_note_ids": [
+      "bergamot",
+      "juniper_berry",
+      "lemon",
+      "pepper",
+      "incense",
+      "orris",
+      "pine_needle",
+      "amber",
+      "sandalwood",
+      "vanilla"
+    ],
+    "note_category_ids": [
+      "citrus",
+      "herbal_green",
+      "spicy",
+      "resin",
+      "floral",
+      "amber_musk",
+      "woody",
+      "gourmand"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "byredo-mojave-ghost",
+    "brand_id": "byredo",
+    "brand": "BYREDO",
+    "name": "Mojave Ghost",
+    "name_zh": "莫哈維之影",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R06"
+    ],
+    "official_source_ids": [
+      "O31"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "黃葵籽",
+        "人心果",
+        "木蘭花",
+        "檀香",
+        "紫羅蘭",
+        "雪松",
+        "麝香調",
+        "岩蘭草"
+      ],
+      "source_id": "O31",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "ambrette",
+        "naseberry"
+      ],
+      "middle": [
+        "magnolia",
+        "sandalwood",
+        "violet"
+      ],
+      "base": [
+        "cedar",
+        "musk",
+        "vetiver"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Woody",
+      "name_zh": "木質香調",
+      "source_id": "O31"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "描述段落的先後順序與表格不同，層次採明確標示的 Notes & Accords。"
+    ],
+    "concentration_source_id": "O31",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "ambrette",
+        "raw_name": "Ambrette",
+        "name_zh": "黃葵籽",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O31"
+      },
+      {
+        "note_id": "naseberry",
+        "raw_name": "Naseberry",
+        "name_zh": "人心果",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O31"
+      },
+      {
+        "note_id": "magnolia",
+        "raw_name": "Magnolia",
+        "name_zh": "木蘭花",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O31"
+      },
+      {
+        "note_id": "sandalwood",
+        "raw_name": "Sandalwood",
+        "name_zh": "檀香",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O31"
+      },
+      {
+        "note_id": "violet",
+        "raw_name": "Violet",
+        "name_zh": "紫羅蘭",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O31"
+      },
+      {
+        "note_id": "cedar",
+        "raw_name": "Cedarwood",
+        "name_zh": "雪松",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O31"
+      },
+      {
+        "note_id": "musk",
+        "raw_name": "Musks",
+        "name_zh": "麝香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O31"
+      },
+      {
+        "note_id": "vetiver",
+        "raw_name": "Vetiver",
+        "name_zh": "岩蘭草",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O31"
+      }
+    ],
+    "note_source_ids": [
+      "O31"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "ambrette",
+      "naseberry",
+      "magnolia",
+      "sandalwood",
+      "violet",
+      "cedar",
+      "musk",
+      "vetiver"
+    ],
+    "primary_note_ids": [
+      "ambrette",
+      "naseberry",
+      "magnolia",
+      "sandalwood",
+      "violet",
+      "cedar",
+      "musk",
+      "vetiver"
+    ],
+    "note_category_ids": [
+      "amber_musk",
+      "fruity",
+      "floral",
+      "woody"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "byredo-bal-dafrique",
+    "brand_id": "byredo",
+    "brand": "BYREDO",
+    "name": "Bal d’Afrique",
+    "name_zh": "熱帶爵士",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R06"
+    ],
+    "official_source_ids": [
+      "O32"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "布枯葉",
+        "非洲萬壽菊",
+        "佛手柑",
+        "黑醋栗",
+        "仙客來",
+        "茉莉",
+        "紫羅蘭",
+        "零陵香豆",
+        "雪松",
+        "麝香調",
+        "岩蘭草"
+      ],
+      "source_id": "O32",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "buchu",
+        "african_marigold",
+        "bergamot",
+        "blackcurrant"
+      ],
+      "middle": [
+        "cyclamen",
+        "jasmine",
+        "violet"
+      ],
+      "base": [
+        "tonka_bean",
+        "cedar",
+        "musk",
+        "vetiver"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Floral",
+      "name_zh": "花香調",
+      "source_id": "O32"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O32",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "buchu",
+        "raw_name": "Buchu",
+        "name_zh": "布枯葉",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O32"
+      },
+      {
+        "note_id": "african_marigold",
+        "raw_name": "African Marigold",
+        "name_zh": "非洲萬壽菊",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O32"
+      },
+      {
+        "note_id": "bergamot",
+        "raw_name": "Bergamot",
+        "name_zh": "佛手柑",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O32"
+      },
+      {
+        "note_id": "blackcurrant",
+        "raw_name": "Blackcurrant",
+        "name_zh": "黑醋栗",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O32"
+      },
+      {
+        "note_id": "cyclamen",
+        "raw_name": "Cyclamen",
+        "name_zh": "仙客來",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O32"
+      },
+      {
+        "note_id": "jasmine",
+        "raw_name": "Jasmine Petals",
+        "name_zh": "茉莉",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O32"
+      },
+      {
+        "note_id": "violet",
+        "raw_name": "Violet",
+        "name_zh": "紫羅蘭",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O32"
+      },
+      {
+        "note_id": "tonka_bean",
+        "raw_name": "Tonka Bean Absolue",
+        "name_zh": "零陵香豆",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O32"
+      },
+      {
+        "note_id": "cedar",
+        "raw_name": "Cedarwood",
+        "name_zh": "雪松",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O32"
+      },
+      {
+        "note_id": "musk",
+        "raw_name": "Musks",
+        "name_zh": "麝香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O32"
+      },
+      {
+        "note_id": "vetiver",
+        "raw_name": "Vetiver",
+        "name_zh": "岩蘭草",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O32"
+      }
+    ],
+    "note_source_ids": [
+      "O32"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "buchu",
+      "african_marigold",
+      "bergamot",
+      "blackcurrant",
+      "cyclamen",
+      "jasmine",
+      "violet",
+      "tonka_bean",
+      "cedar",
+      "musk",
+      "vetiver"
+    ],
+    "primary_note_ids": [
+      "buchu",
+      "african_marigold",
+      "bergamot",
+      "blackcurrant",
+      "cyclamen",
+      "jasmine",
+      "violet",
+      "tonka_bean",
+      "cedar",
+      "musk",
+      "vetiver"
+    ],
+    "note_category_ids": [
+      "herbal_green",
+      "floral",
+      "citrus",
+      "fruity",
+      "gourmand",
+      "woody",
+      "amber_musk"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "coach-floral",
+    "brand_id": "coach",
+    "brand": "COACH",
+    "name": "Floral",
+    "name_zh": "芙洛麗",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R07"
+    ],
+    "official_source_ids": [
+      "O33"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "柑橘香調",
+        "粉紅胡椒",
+        "鳳梨雪酪香調",
+        "茶香玫瑰",
+        "沙巴茉莉",
+        "梔子花",
+        "木質香調",
+        "廣藿香",
+        "麝香調"
+      ],
+      "source_id": "O33",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "citrus",
+        "pink_pepper",
+        "pineapple_sorbet"
+      ],
+      "middle": [
+        "tea_rose",
+        "jasmine_sambac",
+        "gardenia"
+      ],
+      "base": [
+        "woods",
+        "patchouli",
+        "musk"
+      ]
+    },
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "Rose tea 依花束語境歸為茶香玫瑰，保留原文字串，不另計為茶葉。"
+    ],
+    "concentration_source_id": "O33",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "citrus",
+        "raw_name": "Citrus coeur",
+        "name_zh": "柑橘香調",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O33"
+      },
+      {
+        "note_id": "pink_pepper",
+        "raw_name": "Pink peppercorn",
+        "name_zh": "粉紅胡椒",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O33"
+      },
+      {
+        "note_id": "pineapple_sorbet",
+        "raw_name": "Pineapple sorbet",
+        "name_zh": "鳳梨雪酪香調",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O33"
+      },
+      {
+        "note_id": "tea_rose",
+        "raw_name": "Rose tea",
+        "name_zh": "茶香玫瑰",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O33"
+      },
+      {
+        "note_id": "jasmine_sambac",
+        "raw_name": "Jasmine sambac",
+        "name_zh": "沙巴茉莉",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O33"
+      },
+      {
+        "note_id": "gardenia",
+        "raw_name": "Gardenia",
+        "name_zh": "梔子花",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O33"
+      },
+      {
+        "note_id": "woods",
+        "raw_name": "Creamy wood",
+        "name_zh": "木質香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O33"
+      },
+      {
+        "note_id": "patchouli",
+        "raw_name": "Patchouli",
+        "name_zh": "廣藿香",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O33"
+      },
+      {
+        "note_id": "musk",
+        "raw_name": "Musky notes",
+        "name_zh": "麝香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O33"
+      }
+    ],
+    "note_source_ids": [
+      "O33"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "citrus",
+      "pink_pepper",
+      "pineapple_sorbet",
+      "tea_rose",
+      "jasmine_sambac",
+      "gardenia",
+      "woods",
+      "patchouli",
+      "musk"
+    ],
+    "primary_note_ids": [
+      "citrus",
+      "pink_pepper",
+      "pineapple_sorbet",
+      "tea_rose",
+      "jasmine_sambac",
+      "gardenia",
+      "woods",
+      "patchouli",
+      "musk"
+    ],
+    "note_category_ids": [
+      "citrus",
+      "spicy",
+      "fruity",
+      "floral",
+      "woody",
+      "amber_musk"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "coach-dreams-sunset",
+    "brand_id": "coach",
+    "brand": "COACH",
+    "name": "Dreams Sunset",
+    "name_zh": null,
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R07"
+    ],
+    "official_source_ids": [
+      "O34"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "梨",
+        "佛手柑",
+        "茉莉",
+        "零陵香豆",
+        "香草"
+      ],
+      "source_id": "O34",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "pear",
+        "bergamot"
+      ],
+      "middle": [
+        "jasmine"
+      ],
+      "base": [
+        "tonka_bean",
+        "vanilla"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Floral and woody",
+      "name_zh": "木質花香調",
+      "source_id": "O34"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O34",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "pear",
+        "raw_name": "Pear",
+        "name_zh": "梨",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O34"
+      },
+      {
+        "note_id": "bergamot",
+        "raw_name": "Bergamot",
+        "name_zh": "佛手柑",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O34"
+      },
+      {
+        "note_id": "jasmine",
+        "raw_name": "Jasmine flowers",
+        "name_zh": "茉莉",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O34"
+      },
+      {
+        "note_id": "tonka_bean",
+        "raw_name": "Tonka bean",
+        "name_zh": "零陵香豆",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O34"
+      },
+      {
+        "note_id": "vanilla",
+        "raw_name": "Vanilla",
+        "name_zh": "香草",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O34"
+      }
+    ],
+    "note_source_ids": [
+      "O34"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "pear",
+      "bergamot",
+      "jasmine",
+      "tonka_bean",
+      "vanilla"
+    ],
+    "primary_note_ids": [
+      "pear",
+      "bergamot",
+      "jasmine",
+      "tonka_bean",
+      "vanilla"
+    ],
+    "note_category_ids": [
+      "fruity",
+      "citrus",
+      "floral",
+      "gourmand"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "coach-for-men",
+    "brand_id": "coach",
+    "brand": "COACH",
+    "name": "Coach for Men",
+    "name_zh": "時尚經典男性",
+    "concentration": "EDT",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R07"
+    ],
+    "official_source_ids": [
+      "O35"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "柑橘香調",
+        "梨",
+        "小豆蔻",
+        "胡荽",
+        "岩蘭草",
+        "麂皮香調",
+        "龍涎香調"
+      ],
+      "source_id": "O35",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "citrus",
+        "pear"
+      ],
+      "middle": [
+        "cardamom",
+        "coriander"
+      ],
+      "base": [
+        "vetiver",
+        "suede",
+        "ambergris"
+      ]
+    },
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "採明確標為 EDT 的 B2017 商品頁，不混用同名 EDP 商品。"
+    ],
+    "concentration_source_id": "O35",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "citrus",
+        "raw_name": "Citrus",
+        "name_zh": "柑橘香調",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O35"
+      },
+      {
+        "note_id": "pear",
+        "raw_name": "Pear",
+        "name_zh": "梨",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O35"
+      },
+      {
+        "note_id": "cardamom",
+        "raw_name": "Cardamom",
+        "name_zh": "小豆蔻",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O35"
+      },
+      {
+        "note_id": "coriander",
+        "raw_name": "Coriander",
+        "name_zh": "胡荽",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O35"
+      },
+      {
+        "note_id": "vetiver",
+        "raw_name": "Vetiver",
+        "name_zh": "岩蘭草",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O35"
+      },
+      {
+        "note_id": "suede",
+        "raw_name": "Suede",
+        "name_zh": "麂皮香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O35"
+      },
+      {
+        "note_id": "ambergris",
+        "raw_name": "Ambergris",
+        "name_zh": "龍涎香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O35"
+      }
+    ],
+    "note_source_ids": [
+      "O35"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "citrus",
+      "pear",
+      "cardamom",
+      "coriander",
+      "vetiver",
+      "suede",
+      "ambergris"
+    ],
+    "primary_note_ids": [
+      "citrus",
+      "pear",
+      "cardamom",
+      "coriander",
+      "vetiver",
+      "suede",
+      "ambergris"
+    ],
+    "note_category_ids": [
+      "citrus",
+      "fruity",
+      "spicy",
+      "woody",
+      "leather",
+      "amber_musk"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "coach-open-road",
+    "brand_id": "coach",
+    "brand": "COACH",
+    "name": "Open Road",
+    "name_zh": "加州公路",
+    "concentration": "EDT",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R07"
+    ],
+    "official_source_ids": [
+      "O36"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "紅蘋果",
+        "檸檬",
+        "花椒",
+        "薰衣草",
+        "鼠尾草",
+        "岩蘭草",
+        "廣藿香",
+        "雪松"
+      ],
+      "source_id": "O36",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "red_apple",
+        "lemon",
+        "sichuan_pepper"
+      ],
+      "middle": [
+        "lavender",
+        "sage"
+      ],
+      "base": [
+        "vetiver",
+        "patchouli",
+        "cedar"
+      ]
+    },
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O36",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "red_apple",
+        "raw_name": "Red apple",
+        "name_zh": "紅蘋果",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O36"
+      },
+      {
+        "note_id": "lemon",
+        "raw_name": "Lemon",
+        "name_zh": "檸檬",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O36"
+      },
+      {
+        "note_id": "sichuan_pepper",
+        "raw_name": "Sichuan pepper",
+        "name_zh": "花椒",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O36"
+      },
+      {
+        "note_id": "lavender",
+        "raw_name": "Lavender",
+        "name_zh": "薰衣草",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O36"
+      },
+      {
+        "note_id": "sage",
+        "raw_name": "Sage",
+        "name_zh": "鼠尾草",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O36"
+      },
+      {
+        "note_id": "vetiver",
+        "raw_name": "Vetiver",
+        "name_zh": "岩蘭草",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O36"
+      },
+      {
+        "note_id": "patchouli",
+        "raw_name": "Patchouli",
+        "name_zh": "廣藿香",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O36"
+      },
+      {
+        "note_id": "cedar",
+        "raw_name": "Cedarwood",
+        "name_zh": "雪松",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O36"
+      }
+    ],
+    "note_source_ids": [
+      "O36"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "red_apple",
+      "lemon",
+      "sichuan_pepper",
+      "lavender",
+      "sage",
+      "vetiver",
+      "patchouli",
+      "cedar"
+    ],
+    "primary_note_ids": [
+      "red_apple",
+      "lemon",
+      "sichuan_pepper",
+      "lavender",
+      "sage",
+      "vetiver",
+      "patchouli",
+      "cedar"
+    ],
+    "note_category_ids": [
+      "fruity",
+      "citrus",
+      "spicy",
+      "herbal_green",
+      "woody"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "coach-dreams",
+    "brand_id": "coach",
+    "brand": "COACH",
+    "name": "Dreams",
+    "name_zh": "逐夢",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R08"
+    ],
+    "official_source_ids": [
+      "O01"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "苦橙",
+        "梨",
+        "梔子花",
+        "仙人掌花",
+        "約書亞樹香調",
+        "Ambroxan 香調"
+      ],
+      "source_id": "O01",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "bitter_orange",
+        "pear"
+      ],
+      "middle": [
+        "gardenia",
+        "cactus_flower"
+      ],
+      "base": [
+        "joshua_tree",
+        "ambroxan"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Woody",
+      "name_zh": "木質香調",
+      "source_id": "O01"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "用 R08 的 Dreams EDP 補足五款；排除 R07 第 3 款版本歧義項目。"
+    ],
+    "concentration_source_id": "O01",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "bitter_orange",
+        "raw_name": "Bitter orange",
+        "name_zh": "苦橙",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O01"
+      },
+      {
+        "note_id": "pear",
+        "raw_name": "Pear",
+        "name_zh": "梨",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O01"
+      },
+      {
+        "note_id": "gardenia",
+        "raw_name": "Gardenia",
+        "name_zh": "梔子花",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O01"
+      },
+      {
+        "note_id": "cactus_flower",
+        "raw_name": "Cactus flower",
+        "name_zh": "仙人掌花",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O01"
+      },
+      {
+        "note_id": "joshua_tree",
+        "raw_name": "Joshua Tree",
+        "name_zh": "約書亞樹香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O01"
+      },
+      {
+        "note_id": "ambroxan",
+        "raw_name": "Ambroxan musk",
+        "name_zh": "Ambroxan 香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O01"
+      }
+    ],
+    "note_source_ids": [
+      "O01"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "bitter_orange",
+      "pear",
+      "gardenia",
+      "cactus_flower",
+      "joshua_tree",
+      "ambroxan"
+    ],
+    "primary_note_ids": [
+      "bitter_orange",
+      "pear",
+      "gardenia",
+      "cactus_flower",
+      "joshua_tree",
+      "ambroxan"
+    ],
+    "note_category_ids": [
+      "citrus",
+      "fruity",
+      "floral",
+      "woody",
+      "amber_musk"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "dior-miss-dior-blooming-bouquet",
+    "brand_id": "dior",
+    "brand": "Dior",
+    "name": "Miss Dior Blooming Bouquet",
+    "name_zh": "花漾迪奧",
+    "concentration": "EDT",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R09"
+    ],
+    "official_source_ids": [
+      "O37"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "牡丹",
+        "大馬士革玫瑰",
+        "白麝香"
+      ],
+      "source_id": "O37",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": {
+      "raw_name": "Floral",
+      "name_zh": "花香調",
+      "source_id": "O37"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "採正文具名香氣，未把同頁其他 Miss Dior 版本 FAQ 的廣藿香混入。"
+    ],
+    "concentration_source_id": "O37",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "peony",
+        "raw_name": "Peony",
+        "name_zh": "牡丹",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O37"
+      },
+      {
+        "note_id": "damask_rose",
+        "raw_name": "Damascus rose",
+        "name_zh": "大馬士革玫瑰",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O37"
+      },
+      {
+        "note_id": "white_musk",
+        "raw_name": "White musk",
+        "name_zh": "白麝香",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O37"
+      }
+    ],
+    "note_source_ids": [
+      "O37"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "peony",
+      "damask_rose",
+      "white_musk"
+    ],
+    "primary_note_ids": [
+      "peony",
+      "damask_rose",
+      "white_musk"
+    ],
+    "note_category_ids": [
+      "floral",
+      "amber_musk"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "dior-sauvage",
+    "brand_id": "dior",
+    "brand": "Dior",
+    "name": "Sauvage",
+    "name_zh": "曠野之心",
+    "concentration": "EDT",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R09"
+    ],
+    "official_source_ids": [
+      "O38"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "佛手柑",
+        "Ambroxan 香調",
+        "欖香脂",
+        "木質香調"
+      ],
+      "source_id": "O38",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "沒有納入同頁比較 EDP 時提到的香草。官方未完整區分三層。"
+    ],
+    "concentration_source_id": "O38",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "bergamot",
+        "raw_name": "Calabrian bergamot",
+        "name_zh": "佛手柑",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O38"
+      },
+      {
+        "note_id": "ambroxan",
+        "raw_name": "Ambroxan",
+        "name_zh": "Ambroxan 香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O38"
+      },
+      {
+        "note_id": "elemi",
+        "raw_name": "Elemi",
+        "name_zh": "欖香脂",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O38"
+      },
+      {
+        "note_id": "woods",
+        "raw_name": "Woods",
+        "name_zh": "木質香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O38"
+      }
+    ],
+    "note_source_ids": [
+      "O38"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "bergamot",
+      "ambroxan",
+      "elemi",
+      "woods"
+    ],
+    "primary_note_ids": [
+      "bergamot",
+      "ambroxan",
+      "elemi",
+      "woods"
+    ],
+    "note_category_ids": [
+      "citrus",
+      "amber_musk",
+      "resin",
+      "woody"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "dior-jadore",
+    "brand_id": "dior",
+    "brand": "Dior",
+    "name": "J’adore",
+    "name_zh": null,
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R09"
+    ],
+    "official_source_ids": [
+      "O39"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "依蘭",
+        "大馬士革玫瑰",
+        "大花茉莉",
+        "沙巴茉莉"
+      ],
+      "source_id": "O39",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": {
+      "raw_name": "Floral",
+      "name_zh": "花香調",
+      "source_id": "O39"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "採原版 EDP；不混入 L’Or、Parfum d’Eau 等版本。"
+    ],
+    "concentration_source_id": "O39",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "ylang_ylang",
+        "raw_name": "Ylang-ylang",
+        "name_zh": "依蘭",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O39"
+      },
+      {
+        "note_id": "damask_rose",
+        "raw_name": "Damascus rose",
+        "name_zh": "大馬士革玫瑰",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O39"
+      },
+      {
+        "note_id": "jasmine_grandiflorum",
+        "raw_name": "Jasmine grandiflorum",
+        "name_zh": "大花茉莉",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O39"
+      },
+      {
+        "note_id": "jasmine_sambac",
+        "raw_name": "Jasmine sambac",
+        "name_zh": "沙巴茉莉",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O39"
+      }
+    ],
+    "note_source_ids": [
+      "O39"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "ylang_ylang",
+      "damask_rose",
+      "jasmine_grandiflorum",
+      "jasmine_sambac"
+    ],
+    "primary_note_ids": [
+      "ylang_ylang",
+      "damask_rose",
+      "jasmine_grandiflorum",
+      "jasmine_sambac"
+    ],
+    "note_category_ids": [
+      "floral"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "dior-gris-dior",
+    "brand_id": "dior",
+    "brand": "Dior",
+    "name": "Gris Dior",
+    "name_zh": "蒙田大道",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R09"
+    ],
+    "official_source_ids": [
+      "O40"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "柑橘香調",
+        "玫瑰",
+        "紫羅蘭",
+        "橡木苔"
+      ],
+      "source_id": "O40",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": {
+      "raw_name": "Chypre",
+      "name_zh": "西普香調",
+      "source_id": "O40"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "同頁 FAQ 另有鳶尾、岩蘭草、岩薔薇等敘述；為避免混用區段，主要資料採商品 Description，差異已記錄。未採 Esprit de Parfum 版。"
+    ],
+    "concentration_source_id": "O40",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "citrus",
+        "raw_name": "Citrus",
+        "name_zh": "柑橘香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O40"
+      },
+      {
+        "note_id": "rose",
+        "raw_name": "Rose",
+        "name_zh": "玫瑰",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O40"
+      },
+      {
+        "note_id": "violet",
+        "raw_name": "Violet",
+        "name_zh": "紫羅蘭",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O40"
+      },
+      {
+        "note_id": "oakmoss",
+        "raw_name": "Oak moss",
+        "name_zh": "橡木苔",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O40"
+      }
+    ],
+    "note_source_ids": [
+      "O40"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "citrus",
+      "rose",
+      "violet",
+      "oakmoss"
+    ],
+    "primary_note_ids": [
+      "citrus",
+      "rose",
+      "violet",
+      "oakmoss"
+    ],
+    "note_category_ids": [
+      "citrus",
+      "floral",
+      "herbal_green"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "dior-lucky",
+    "brand_id": "dior",
+    "brand": "Dior",
+    "name": "Lucky",
+    "name_zh": "幸運時刻",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R09"
+    ],
+    "official_source_ids": [
+      "O41"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "鈴蘭",
+        "白花香調",
+        "青綠葉香"
+      ],
+      "source_id": "O41",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": {
+      "raw_name": "Floral green",
+      "name_zh": "綠意花香調",
+      "source_id": "O41"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O41",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "lily_of_valley",
+        "raw_name": "Lily-of-the-valley",
+        "name_zh": "鈴蘭",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O41"
+      },
+      {
+        "note_id": "white_flowers",
+        "raw_name": "White flowers",
+        "name_zh": "白花香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O41"
+      },
+      {
+        "note_id": "green_leaves",
+        "raw_name": "Fresh leaves",
+        "name_zh": "青綠葉香",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O41"
+      }
+    ],
+    "note_source_ids": [
+      "O41"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "lily_of_valley",
+      "white_flowers",
+      "green_leaves"
+    ],
+    "primary_note_ids": [
+      "lily_of_valley",
+      "white_flowers",
+      "green_leaves"
+    ],
+    "note_category_ids": [
+      "floral",
+      "herbal_green"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "aesop-eidesis",
+    "brand_id": "aesop",
+    "brand": "Aesop",
+    "name": "Eidesis",
+    "name_zh": "艾底希思",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R10"
+    ],
+    "official_source_ids": [
+      "O42"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "苦橙葉",
+        "胡椒",
+        "乳香",
+        "孜然",
+        "雪松",
+        "檀香",
+        "岩蘭草"
+      ],
+      "source_id": "O42",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "petitgrain",
+        "pepper",
+        "frankincense"
+      ],
+      "middle": [
+        "cumin",
+        "cedar",
+        "frankincense"
+      ],
+      "base": [
+        "sandalwood",
+        "cedar",
+        "vetiver"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Woody, spicy, ambery",
+      "name_zh": "木質、辛香、琥珀",
+      "source_id": "O42"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "保留推薦文章的 Eidesis 名稱，採仍以原名稱呈現的官方地區頁；未把 Evoking Eidesis 的新版敘述合併進來。"
+    ],
+    "concentration_source_id": "O42",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "petitgrain",
+        "raw_name": "Petitgrain",
+        "name_zh": "苦橙葉",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O42"
+      },
+      {
+        "note_id": "pepper",
+        "raw_name": "Black Pepper",
+        "name_zh": "胡椒",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O42"
+      },
+      {
+        "note_id": "frankincense",
+        "raw_name": "Frankincense",
+        "name_zh": "乳香",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O42"
+      },
+      {
+        "note_id": "cumin",
+        "raw_name": "Cumin",
+        "name_zh": "孜然",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O42"
+      },
+      {
+        "note_id": "cedar",
+        "raw_name": "Cedar",
+        "name_zh": "雪松",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O42"
+      },
+      {
+        "note_id": "frankincense",
+        "raw_name": "Frankincense",
+        "name_zh": "乳香",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O42"
+      },
+      {
+        "note_id": "sandalwood",
+        "raw_name": "Sandalwood",
+        "name_zh": "檀香",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O42"
+      },
+      {
+        "note_id": "cedar",
+        "raw_name": "Cedar",
+        "name_zh": "雪松",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O42"
+      },
+      {
+        "note_id": "vetiver",
+        "raw_name": "Vetiver",
+        "name_zh": "岩蘭草",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O42"
+      }
+    ],
+    "note_source_ids": [
+      "O42"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "petitgrain",
+      "pepper",
+      "frankincense",
+      "cumin",
+      "cedar",
+      "sandalwood",
+      "vetiver"
+    ],
+    "primary_note_ids": [
+      "petitgrain",
+      "pepper",
+      "frankincense",
+      "cumin",
+      "cedar",
+      "sandalwood",
+      "vetiver"
+    ],
+    "note_category_ids": [
+      "herbal_green",
+      "spicy",
+      "resin",
+      "woody"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "aesop-virere",
+    "brand_id": "aesop",
+    "brand": "Aesop",
+    "name": "Virere",
+    "name_zh": "蔚",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R10"
+    ],
+    "official_source_ids": [
+      "O43"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "佛手柑",
+        "白松香",
+        "苦橙葉",
+        "綠茶",
+        "乳香黃連木樹脂",
+        "粉紅胡椒",
+        "雪松",
+        "綠馬黛茶",
+        "乾草",
+        "無花果"
+      ],
+      "source_id": "O43",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "bergamot",
+        "galbanum",
+        "petitgrain"
+      ],
+      "middle": [
+        "green_tea",
+        "mastic",
+        "pink_pepper"
+      ],
+      "base": [
+        "cedar",
+        "green_mate",
+        "hay"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Citrus, green, woody",
+      "name_zh": "柑橘、綠意、木質",
+      "source_id": "O43"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "Fig 來自同頁 Key Ingredients，官網三層表未將它分層，另列為未分層補充。"
+    ],
+    "concentration_source_id": "O43",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "bergamot",
+        "raw_name": "Bergamot",
+        "name_zh": "佛手柑",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O43"
+      },
+      {
+        "note_id": "galbanum",
+        "raw_name": "Galbanum",
+        "name_zh": "白松香",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O43"
+      },
+      {
+        "note_id": "petitgrain",
+        "raw_name": "Petitgrain",
+        "name_zh": "苦橙葉",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O43"
+      },
+      {
+        "note_id": "green_tea",
+        "raw_name": "Green Tea",
+        "name_zh": "綠茶",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O43"
+      },
+      {
+        "note_id": "mastic",
+        "raw_name": "Mastic",
+        "name_zh": "乳香黃連木樹脂",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O43"
+      },
+      {
+        "note_id": "pink_pepper",
+        "raw_name": "Pink Pepper",
+        "name_zh": "粉紅胡椒",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O43"
+      },
+      {
+        "note_id": "cedar",
+        "raw_name": "Cedar",
+        "name_zh": "雪松",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O43"
+      },
+      {
+        "note_id": "green_mate",
+        "raw_name": "Green Maté",
+        "name_zh": "綠馬黛茶",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O43"
+      },
+      {
+        "note_id": "hay",
+        "raw_name": "Hay",
+        "name_zh": "乾草",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O43"
+      },
+      {
+        "note_id": "fig",
+        "raw_name": "Fig",
+        "name_zh": "無花果",
+        "stage": "unspecified",
+        "evidence_scope": "additional_description",
+        "source_id": "O43"
+      }
+    ],
+    "note_source_ids": [
+      "O43"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "bergamot",
+      "galbanum",
+      "petitgrain",
+      "green_tea",
+      "mastic",
+      "pink_pepper",
+      "cedar",
+      "green_mate",
+      "hay",
+      "fig"
+    ],
+    "primary_note_ids": [
+      "bergamot",
+      "galbanum",
+      "petitgrain",
+      "green_tea",
+      "mastic",
+      "pink_pepper",
+      "cedar",
+      "green_mate",
+      "hay"
+    ],
+    "note_category_ids": [
+      "citrus",
+      "resin",
+      "herbal_green",
+      "tea",
+      "spicy",
+      "woody",
+      "fruity"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "aesop-above-us-steorra",
+    "brand_id": "aesop",
+    "brand": "Aesop",
+    "name": "Above Us, Steorra",
+    "name_zh": "蒼穹之上・引",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R10"
+    ],
+    "official_source_ids": [
+      "O44"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "小豆蔻",
+        "佛手柑",
+        "欖香脂",
+        "乳香",
+        "岩薔薇脂",
+        "莎草香調",
+        "香草",
+        "肉桂",
+        "琥珀香調"
+      ],
+      "source_id": "O44",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "cardamom",
+        "bergamot",
+        "elemi"
+      ],
+      "middle": [
+        "frankincense",
+        "labdanum",
+        "cypriol"
+      ],
+      "base": [
+        "vanilla",
+        "cinnamon",
+        "cypriol"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Ambery, woody, spicy",
+      "name_zh": "琥珀、木質、辛香",
+      "source_id": "O44"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "原 FR32 與現行 FR34 官方頁列出的三層香調相同；本筆採可讀取的 FR34 頁。Amber 為官網明述的想像香氣組合，不是可嗅聞的琥珀礦石。"
+    ],
+    "concentration_source_id": "O44",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "cardamom",
+        "raw_name": "Cardamom",
+        "name_zh": "小豆蔻",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O44"
+      },
+      {
+        "note_id": "bergamot",
+        "raw_name": "Bergamot",
+        "name_zh": "佛手柑",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O44"
+      },
+      {
+        "note_id": "elemi",
+        "raw_name": "Elemi",
+        "name_zh": "欖香脂",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O44"
+      },
+      {
+        "note_id": "frankincense",
+        "raw_name": "Frankincense",
+        "name_zh": "乳香",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O44"
+      },
+      {
+        "note_id": "labdanum",
+        "raw_name": "Labdanum",
+        "name_zh": "岩薔薇脂",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O44"
+      },
+      {
+        "note_id": "cypriol",
+        "raw_name": "Cypriol Heart",
+        "name_zh": "莎草香調",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O44"
+      },
+      {
+        "note_id": "vanilla",
+        "raw_name": "Vanilla Bean",
+        "name_zh": "香草",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O44"
+      },
+      {
+        "note_id": "cinnamon",
+        "raw_name": "Cinnamon",
+        "name_zh": "肉桂",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O44"
+      },
+      {
+        "note_id": "cypriol",
+        "raw_name": "Cypriol Heart",
+        "name_zh": "莎草香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O44"
+      },
+      {
+        "note_id": "amber",
+        "raw_name": "Amber accord",
+        "name_zh": "琥珀香調",
+        "stage": "unspecified",
+        "evidence_scope": "additional_description",
+        "source_id": "O44"
+      }
+    ],
+    "note_source_ids": [
+      "O44"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "cardamom",
+      "bergamot",
+      "elemi",
+      "frankincense",
+      "labdanum",
+      "cypriol",
+      "vanilla",
+      "cinnamon",
+      "amber"
+    ],
+    "primary_note_ids": [
+      "cardamom",
+      "bergamot",
+      "elemi",
+      "frankincense",
+      "labdanum",
+      "cypriol",
+      "vanilla",
+      "cinnamon"
+    ],
+    "note_category_ids": [
+      "spicy",
+      "citrus",
+      "resin",
+      "woody",
+      "gourmand",
+      "amber_musk"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "aesop-aurner",
+    "brand_id": "aesop",
+    "brand": "Aesop",
+    "name": "Aurner",
+    "name_zh": "詠",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R10"
+    ],
+    "official_source_ids": [
+      "O08"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "洋甘菊",
+        "小豆蔻",
+        "粉紅胡椒",
+        "木蘭葉",
+        "天竺葵",
+        "檀香",
+        "雪松",
+        "莎草香調"
+      ],
+      "source_id": "O08",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "chamomile",
+        "cardamom",
+        "pink_pepper"
+      ],
+      "middle": [
+        "magnolia_leaf",
+        "geranium",
+        "cardamom"
+      ],
+      "base": [
+        "sandalwood",
+        "cedar",
+        "cypriol"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Floral, herbaceous, fresh",
+      "name_zh": "花香、草本、清新",
+      "source_id": "O08"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "原推薦文 Auener 拼字依官方名稱修正為 Aurner。",
+      "鎖定 Aurner FR31 商品頁；不把 Entirely Aurner FR38 自動視為同一版本。"
+    ],
+    "concentration_source_id": "O08",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "chamomile",
+        "raw_name": "Roman Chamomile",
+        "name_zh": "洋甘菊",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O08"
+      },
+      {
+        "note_id": "cardamom",
+        "raw_name": "Cardamom",
+        "name_zh": "小豆蔻",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O08"
+      },
+      {
+        "note_id": "pink_pepper",
+        "raw_name": "Pink Pepper",
+        "name_zh": "粉紅胡椒",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O08"
+      },
+      {
+        "note_id": "magnolia_leaf",
+        "raw_name": "Magnolia Leaf",
+        "name_zh": "木蘭葉",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O08"
+      },
+      {
+        "note_id": "geranium",
+        "raw_name": "Geranium",
+        "name_zh": "天竺葵",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O08"
+      },
+      {
+        "note_id": "cardamom",
+        "raw_name": "Cardamom",
+        "name_zh": "小豆蔻",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O08"
+      },
+      {
+        "note_id": "sandalwood",
+        "raw_name": "Sandalwood",
+        "name_zh": "檀香",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O08"
+      },
+      {
+        "note_id": "cedar",
+        "raw_name": "Cedar Heart",
+        "name_zh": "雪松",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O08"
+      },
+      {
+        "note_id": "cypriol",
+        "raw_name": "Cypriol Heart",
+        "name_zh": "莎草香調",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O08"
+      }
+    ],
+    "note_source_ids": [
+      "O08"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "chamomile",
+      "cardamom",
+      "pink_pepper",
+      "magnolia_leaf",
+      "geranium",
+      "sandalwood",
+      "cedar",
+      "cypriol"
+    ],
+    "primary_note_ids": [
+      "chamomile",
+      "cardamom",
+      "pink_pepper",
+      "magnolia_leaf",
+      "geranium",
+      "sandalwood",
+      "cedar",
+      "cypriol"
+    ],
+    "note_category_ids": [
+      "herbal_green",
+      "spicy",
+      "floral",
+      "woody"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "aesop-rozu",
+    "brand_id": "aesop",
+    "brand": "Aesop",
+    "name": "Rōzu",
+    "name_zh": "馥",
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R10"
+    ],
+    "official_source_ids": [
+      "O45"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "玫瑰",
+        "粉紅胡椒",
+        "紫蘇",
+        "癒創木",
+        "茉莉",
+        "岩蘭草",
+        "廣藿香",
+        "沒藥"
+      ],
+      "source_id": "O45",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": {
+      "top": [
+        "rose",
+        "pink_pepper",
+        "shiso"
+      ],
+      "middle": [
+        "rose",
+        "guaiacwood",
+        "jasmine"
+      ],
+      "base": [
+        "vetiver",
+        "patchouli",
+        "myrrh"
+      ]
+    },
+    "fragrance_family": {
+      "raw_name": "Floral, green, woody",
+      "name_zh": "花香、綠意、木質",
+      "source_id": "O45"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O45",
+    "note_pyramid_status": "published_in_selected_source",
+    "notes": [
+      {
+        "note_id": "rose",
+        "raw_name": "Rose",
+        "name_zh": "玫瑰",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O45"
+      },
+      {
+        "note_id": "pink_pepper",
+        "raw_name": "Pink Pepper",
+        "name_zh": "粉紅胡椒",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O45"
+      },
+      {
+        "note_id": "shiso",
+        "raw_name": "Shiso",
+        "name_zh": "紫蘇",
+        "stage": "top",
+        "evidence_scope": "primary_notes",
+        "source_id": "O45"
+      },
+      {
+        "note_id": "rose",
+        "raw_name": "Rose",
+        "name_zh": "玫瑰",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O45"
+      },
+      {
+        "note_id": "guaiacwood",
+        "raw_name": "Guaiacwood",
+        "name_zh": "癒創木",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O45"
+      },
+      {
+        "note_id": "jasmine",
+        "raw_name": "Jasmine",
+        "name_zh": "茉莉",
+        "stage": "middle",
+        "evidence_scope": "primary_notes",
+        "source_id": "O45"
+      },
+      {
+        "note_id": "vetiver",
+        "raw_name": "Vetiver",
+        "name_zh": "岩蘭草",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O45"
+      },
+      {
+        "note_id": "patchouli",
+        "raw_name": "Patchouli",
+        "name_zh": "廣藿香",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O45"
+      },
+      {
+        "note_id": "myrrh",
+        "raw_name": "Myrrh",
+        "name_zh": "沒藥",
+        "stage": "base",
+        "evidence_scope": "primary_notes",
+        "source_id": "O45"
+      }
+    ],
+    "note_source_ids": [
+      "O45"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "rose",
+      "pink_pepper",
+      "shiso",
+      "guaiacwood",
+      "jasmine",
+      "vetiver",
+      "patchouli",
+      "myrrh"
+    ],
+    "primary_note_ids": [
+      "rose",
+      "pink_pepper",
+      "shiso",
+      "guaiacwood",
+      "jasmine",
+      "vetiver",
+      "patchouli",
+      "myrrh"
+    ],
+    "note_category_ids": [
+      "floral",
+      "spicy",
+      "herbal_green",
+      "woody",
+      "resin"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "le-labo-another-13",
+    "brand_id": "le-labo",
+    "brand": "Le Labo",
+    "name": "ANOTHER 13",
+    "name_zh": null,
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R11"
+    ],
+    "official_source_ids": [
+      "O46"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "Ambroxyde 香調",
+        "茉莉",
+        "苔蘚"
+      ],
+      "source_id": "O46",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "Ambroxyde 依官方描述為合成香氣分子，不代表使用天然動物麝香。"
+    ],
+    "concentration_source_id": "O46",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "ambroxyde",
+        "raw_name": "Ambroxyde",
+        "name_zh": "Ambroxyde 香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O46"
+      },
+      {
+        "note_id": "jasmine",
+        "raw_name": "Jasmine",
+        "name_zh": "茉莉",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O46"
+      },
+      {
+        "note_id": "moss",
+        "raw_name": "Moss",
+        "name_zh": "苔蘚",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O46"
+      }
+    ],
+    "note_source_ids": [
+      "O46"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "ambroxyde",
+      "jasmine",
+      "moss"
+    ],
+    "primary_note_ids": [
+      "ambroxyde",
+      "jasmine",
+      "moss"
+    ],
+    "note_category_ids": [
+      "amber_musk",
+      "floral",
+      "herbal_green"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "le-labo-santal-33",
+    "brand_id": "le-labo",
+    "brand": "Le Labo",
+    "name": "SANTAL 33",
+    "name_zh": null,
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R11"
+    ],
+    "official_source_ids": [
+      "O47"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "小豆蔻",
+        "鳶尾",
+        "紫羅蘭",
+        "檀香",
+        "雪松",
+        "辛香調",
+        "麝香調",
+        "皮革香調"
+      ],
+      "source_id": "O47",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "保存法文官方香氣用語；皮革、麝香及辛香為香氣描述，不等同實際原料來源。",
+      "本筆 raw_name 保留法文，其餘香氣主要使用英文原文。"
+    ],
+    "concentration_source_id": "O47",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "cardamom",
+        "raw_name": "Cardamome",
+        "name_zh": "小豆蔻",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O47"
+      },
+      {
+        "note_id": "iris",
+        "raw_name": "Iris",
+        "name_zh": "鳶尾",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O47"
+      },
+      {
+        "note_id": "violet",
+        "raw_name": "Violette",
+        "name_zh": "紫羅蘭",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O47"
+      },
+      {
+        "note_id": "sandalwood",
+        "raw_name": "Bois de santal australien",
+        "name_zh": "檀香",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O47"
+      },
+      {
+        "note_id": "cedar",
+        "raw_name": "Bois de cèdre",
+        "name_zh": "雪松",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O47"
+      },
+      {
+        "note_id": "spicy_accord",
+        "raw_name": "Notes épicées",
+        "name_zh": "辛香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O47"
+      },
+      {
+        "note_id": "musk",
+        "raw_name": "Notes musquées",
+        "name_zh": "麝香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O47"
+      },
+      {
+        "note_id": "leather",
+        "raw_name": "Notes de cuir",
+        "name_zh": "皮革香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O47"
+      }
+    ],
+    "note_source_ids": [
+      "O47"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "cardamom",
+      "iris",
+      "violet",
+      "sandalwood",
+      "cedar",
+      "spicy_accord",
+      "musk",
+      "leather"
+    ],
+    "primary_note_ids": [
+      "cardamom",
+      "iris",
+      "violet",
+      "sandalwood",
+      "cedar",
+      "spicy_accord",
+      "musk",
+      "leather"
+    ],
+    "note_category_ids": [
+      "spicy",
+      "floral",
+      "woody",
+      "amber_musk",
+      "leather"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "le-labo-lys-41",
+    "brand_id": "le-labo",
+    "brand": "Le Labo",
+    "name": "LYS 41",
+    "name_zh": null,
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R11"
+    ],
+    "official_source_ids": [
+      "O48"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "茉莉",
+        "晚香玉",
+        "百合",
+        "木質香調",
+        "香草",
+        "麝香調"
+      ],
+      "source_id": "O48",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": {
+      "raw_name": "White floral",
+      "name_zh": "白花香調",
+      "source_id": "O48"
+    },
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O48",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "jasmine",
+        "raw_name": "Jasmine",
+        "name_zh": "茉莉",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O48"
+      },
+      {
+        "note_id": "tuberose",
+        "raw_name": "Tuberose absolute",
+        "name_zh": "晚香玉",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O48"
+      },
+      {
+        "note_id": "lily",
+        "raw_name": "Lily",
+        "name_zh": "百合",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O48"
+      },
+      {
+        "note_id": "woods",
+        "raw_name": "Woods",
+        "name_zh": "木質香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O48"
+      },
+      {
+        "note_id": "vanilla",
+        "raw_name": "Vanilla",
+        "name_zh": "香草",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O48"
+      },
+      {
+        "note_id": "musk",
+        "raw_name": "Musks",
+        "name_zh": "麝香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O48"
+      }
+    ],
+    "note_source_ids": [
+      "O48"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "jasmine",
+      "tuberose",
+      "lily",
+      "woods",
+      "vanilla",
+      "musk"
+    ],
+    "primary_note_ids": [
+      "jasmine",
+      "tuberose",
+      "lily",
+      "woods",
+      "vanilla",
+      "musk"
+    ],
+    "note_category_ids": [
+      "floral",
+      "woody",
+      "gourmand",
+      "amber_musk"
+    ],
+    "fragrance_family_status": "official_label_collected",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "le-labo-the-matcha-26",
+    "brand_id": "le-labo",
+    "brand": "Le Labo",
+    "name": "THÉ MATCHA 26",
+    "name_zh": null,
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R11"
+    ],
+    "official_source_ids": [
+      "O49"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "抹茶香調",
+        "無花果",
+        "岩蘭草",
+        "雪松",
+        "苦橙"
+      ],
+      "source_id": "O49",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [],
+    "concentration_source_id": "O49",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "matcha",
+        "raw_name": "Matcha tea accord",
+        "name_zh": "抹茶香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O49"
+      },
+      {
+        "note_id": "fig",
+        "raw_name": "Fig",
+        "name_zh": "無花果",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O49"
+      },
+      {
+        "note_id": "vetiver",
+        "raw_name": "Vetiver",
+        "name_zh": "岩蘭草",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O49"
+      },
+      {
+        "note_id": "cedar",
+        "raw_name": "Cedarwood",
+        "name_zh": "雪松",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O49"
+      },
+      {
+        "note_id": "bitter_orange",
+        "raw_name": "Bitter orange",
+        "name_zh": "苦橙",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O49"
+      }
+    ],
+    "note_source_ids": [
+      "O49"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "matcha",
+      "fig",
+      "vetiver",
+      "cedar",
+      "bitter_orange"
+    ],
+    "primary_note_ids": [
+      "matcha",
+      "fig",
+      "vetiver",
+      "cedar",
+      "bitter_orange"
+    ],
+    "note_category_ids": [
+      "tea",
+      "fruity",
+      "woody",
+      "citrus"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  },
+  {
+    "id": "le-labo-the-noir-29",
+    "brand_id": "le-labo",
+    "brand": "Le Labo",
+    "name": "THÉ NOIR 29",
+    "name_zh": null,
+    "concentration": "EDP",
+    "concentration_status": "checked_official_product_name",
+    "brand_selection_source_id": "B01",
+    "recommendation_source_ids": [
+      "R11"
+    ],
+    "official_source_ids": [
+      "O50"
+    ],
+    "recommendation_status": "confirmed_2026_public_recommendation",
+    "notes_summary": {
+      "elements_zh": [
+        "佛手柑",
+        "無花果",
+        "月桂葉",
+        "雪松",
+        "岩蘭草",
+        "麝香調",
+        "紅茶"
+      ],
+      "source_id": "O50",
+      "scope": "all_named_notes_in_selected_sections",
+      "translation_status": "project_translation_with_original_terms_preserved"
+    },
+    "notes_status": "official_notes_collected",
+    "note_pyramid": null,
+    "fragrance_family": null,
+    "taiwan_availability_status": "not_checked",
+    "accessed_at": "2026-10-03",
+    "remarks": [
+      "乾草與菸草用於描述紅茶帶來的感受，未另外算作獨立原料。"
+    ],
+    "concentration_source_id": "O50",
+    "note_pyramid_status": "not_disclosed_in_selected_source",
+    "notes": [
+      {
+        "note_id": "bergamot",
+        "raw_name": "Bergamot",
+        "name_zh": "佛手柑",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O50"
+      },
+      {
+        "note_id": "fig",
+        "raw_name": "Fig",
+        "name_zh": "無花果",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O50"
+      },
+      {
+        "note_id": "bay_leaf",
+        "raw_name": "Bay leaves",
+        "name_zh": "月桂葉",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O50"
+      },
+      {
+        "note_id": "cedar",
+        "raw_name": "Cedarwood",
+        "name_zh": "雪松",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O50"
+      },
+      {
+        "note_id": "vetiver",
+        "raw_name": "Vetiver",
+        "name_zh": "岩蘭草",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O50"
+      },
+      {
+        "note_id": "musk",
+        "raw_name": "Musk",
+        "name_zh": "麝香調",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O50"
+      },
+      {
+        "note_id": "black_tea",
+        "raw_name": "Black tea",
+        "name_zh": "紅茶",
+        "stage": "unspecified",
+        "evidence_scope": "primary_notes",
+        "source_id": "O50"
+      }
+    ],
+    "note_source_ids": [
+      "O50"
+    ],
+    "notes_scope": "named_notes_in_selected_official_sections_not_full_formula",
+    "note_ids": [
+      "bergamot",
+      "fig",
+      "bay_leaf",
+      "cedar",
+      "vetiver",
+      "musk",
+      "black_tea"
+    ],
+    "primary_note_ids": [
+      "bergamot",
+      "fig",
+      "bay_leaf",
+      "cedar",
+      "vetiver",
+      "musk",
+      "black_tea"
+    ],
+    "note_category_ids": [
+      "citrus",
+      "fruity",
+      "herbal_green",
+      "woody",
+      "amber_musk",
+      "tea"
+    ],
+    "fragrance_family_status": "not_disclosed_in_selected_section",
+    "note_category_basis": "project_classification_see_note_vocabulary",
+    "notes_accessed_at": "2026-10-03"
+  }
+]
