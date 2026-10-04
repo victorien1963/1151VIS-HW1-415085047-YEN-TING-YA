@@ -1,0 +1,693 @@
+{
+  "scope": "primary_note_ids",
+  "perBrand": 5,
+  "perfumeCount": 50,
+  "snapshotDate": "2026-10-03",
+  "categories": [
+    {
+      "id": "floral",
+      "name_zh": "花香"
+    },
+    {
+      "id": "fruity",
+      "name_zh": "果香"
+    },
+    {
+      "id": "citrus",
+      "name_zh": "柑橘"
+    },
+    {
+      "id": "herbal_green",
+      "name_zh": "草本與綠意"
+    },
+    {
+      "id": "woody",
+      "name_zh": "木質與根莖"
+    },
+    {
+      "id": "spicy",
+      "name_zh": "辛香"
+    },
+    {
+      "id": "resin",
+      "name_zh": "樹脂與焚香"
+    },
+    {
+      "id": "amber_musk",
+      "name_zh": "琥珀與麝香"
+    },
+    {
+      "id": "gourmand",
+      "name_zh": "香草、穀物與堅果"
+    },
+    {
+      "id": "tea",
+      "name_zh": "茶香"
+    },
+    {
+      "id": "beverage",
+      "name_zh": "酒香"
+    },
+    {
+      "id": "marine",
+      "name_zh": "海洋與鹽感"
+    },
+    {
+      "id": "leather",
+      "name_zh": "皮革"
+    },
+    {
+      "id": "abstract",
+      "name_zh": "其他抽象香氣"
+    }
+  ],
+  "brands": [
+    {
+      "brand": "Jo Malone London",
+      "counts": {
+        "floral": 3,
+        "fruity": 3,
+        "citrus": 0,
+        "herbal_green": 1,
+        "woody": 2,
+        "spicy": 0,
+        "resin": 0,
+        "amber_musk": 2,
+        "gourmand": 2,
+        "tea": 0,
+        "beverage": 0,
+        "marine": 1,
+        "leather": 0,
+        "abstract": 0
+      },
+      "members": {
+        "floral": [
+          "jo-malone-english-pear-freesia",
+          "jo-malone-poppy-barley",
+          "jo-malone-english-pear-sweet-pea"
+        ],
+        "fruity": [
+          "jo-malone-english-pear-freesia",
+          "jo-malone-poppy-barley",
+          "jo-malone-english-pear-sweet-pea"
+        ],
+        "citrus": [],
+        "herbal_green": [
+          "jo-malone-wood-sage-sea-salt"
+        ],
+        "woody": [
+          "jo-malone-english-pear-freesia",
+          "jo-malone-english-oak-hazelnut"
+        ],
+        "spicy": [],
+        "resin": [],
+        "amber_musk": [
+          "jo-malone-wood-sage-sea-salt",
+          "jo-malone-english-pear-sweet-pea"
+        ],
+        "gourmand": [
+          "jo-malone-poppy-barley",
+          "jo-malone-english-oak-hazelnut"
+        ],
+        "tea": [],
+        "beverage": [],
+        "marine": [
+          "jo-malone-wood-sage-sea-salt"
+        ],
+        "leather": [],
+        "abstract": []
+      }
+    },
+    {
+      "brand": "Diptyque",
+      "counts": {
+        "floral": 4,
+        "fruity": 1,
+        "citrus": 0,
+        "herbal_green": 4,
+        "woody": 2,
+        "spicy": 2,
+        "resin": 0,
+        "amber_musk": 1,
+        "gourmand": 2,
+        "tea": 0,
+        "beverage": 0,
+        "marine": 0,
+        "leather": 0,
+        "abstract": 0
+      },
+      "members": {
+        "floral": [
+          "diptyque-orpheon",
+          "diptyque-fleur-de-peau",
+          "diptyque-eau-rose",
+          "diptyque-eau-de-minthe"
+        ],
+        "fruity": [
+          "diptyque-eau-rose"
+        ],
+        "citrus": [],
+        "herbal_green": [
+          "diptyque-orpheon",
+          "diptyque-eau-rose",
+          "diptyque-eau-de-minthe",
+          "diptyque-lilyphea"
+        ],
+        "woody": [
+          "diptyque-orpheon",
+          "diptyque-eau-de-minthe"
+        ],
+        "spicy": [
+          "diptyque-fleur-de-peau",
+          "diptyque-lilyphea"
+        ],
+        "resin": [],
+        "amber_musk": [
+          "diptyque-fleur-de-peau"
+        ],
+        "gourmand": [
+          "diptyque-orpheon",
+          "diptyque-lilyphea"
+        ],
+        "tea": [],
+        "beverage": [],
+        "marine": [],
+        "leather": [],
+        "abstract": []
+      }
+    },
+    {
+      "brand": "Hermès",
+      "counts": {
+        "floral": 5,
+        "fruity": 0,
+        "citrus": 1,
+        "herbal_green": 1,
+        "woody": 2,
+        "spicy": 1,
+        "resin": 0,
+        "amber_musk": 1,
+        "gourmand": 0,
+        "tea": 0,
+        "beverage": 0,
+        "marine": 0,
+        "leather": 0,
+        "abstract": 0
+      },
+      "members": {
+        "floral": [
+          "hermes-rose-ikebana",
+          "hermes-musc-pallida",
+          "hermes-cabriole",
+          "hermes-twilly-eau-ginger",
+          "hermes-le-jardin-de-monsieur-li"
+        ],
+        "fruity": [],
+        "citrus": [
+          "hermes-le-jardin-de-monsieur-li"
+        ],
+        "herbal_green": [
+          "hermes-rose-ikebana"
+        ],
+        "woody": [
+          "hermes-cabriole",
+          "hermes-twilly-eau-ginger"
+        ],
+        "spicy": [
+          "hermes-twilly-eau-ginger"
+        ],
+        "resin": [],
+        "amber_musk": [
+          "hermes-musc-pallida"
+        ],
+        "gourmand": [],
+        "tea": [],
+        "beverage": [],
+        "marine": [],
+        "leather": [],
+        "abstract": []
+      }
+    },
+    {
+      "brand": "Penhaligon’s",
+      "counts": {
+        "floral": 2,
+        "fruity": 1,
+        "citrus": 3,
+        "herbal_green": 0,
+        "woody": 2,
+        "spicy": 1,
+        "resin": 1,
+        "amber_musk": 1,
+        "gourmand": 2,
+        "tea": 0,
+        "beverage": 2,
+        "marine": 0,
+        "leather": 0,
+        "abstract": 0
+      },
+      "members": {
+        "floral": [
+          "penhaligons-duchess-rose",
+          "penhaligons-luna"
+        ],
+        "fruity": [
+          "penhaligons-empressa"
+        ],
+        "citrus": [
+          "penhaligons-duchess-rose",
+          "penhaligons-luna",
+          "penhaligons-empressa"
+        ],
+        "herbal_green": [],
+        "woody": [
+          "penhaligons-duke",
+          "penhaligons-empressa"
+        ],
+        "spicy": [
+          "penhaligons-duke"
+        ],
+        "resin": [
+          "penhaligons-luna"
+        ],
+        "amber_musk": [
+          "penhaligons-lord-george"
+        ],
+        "gourmand": [
+          "penhaligons-duchess-rose",
+          "penhaligons-lord-george"
+        ],
+        "tea": [],
+        "beverage": [
+          "penhaligons-duke",
+          "penhaligons-lord-george"
+        ],
+        "marine": [],
+        "leather": [],
+        "abstract": []
+      }
+    },
+    {
+      "brand": "Elizabeth Arden",
+      "counts": {
+        "floral": 5,
+        "fruity": 3,
+        "citrus": 4,
+        "herbal_green": 3,
+        "woody": 4,
+        "spicy": 1,
+        "resin": 0,
+        "amber_musk": 5,
+        "gourmand": 1,
+        "tea": 1,
+        "beverage": 0,
+        "marine": 0,
+        "leather": 0,
+        "abstract": 1
+      },
+      "members": {
+        "floral": [
+          "elizabeth-arden-green-tea",
+          "elizabeth-arden-sunflowers",
+          "elizabeth-arden-5th-avenue",
+          "elizabeth-arden-arden-beauty",
+          "elizabeth-arden-provocative-woman"
+        ],
+        "fruity": [
+          "elizabeth-arden-sunflowers",
+          "elizabeth-arden-5th-avenue",
+          "elizabeth-arden-provocative-woman"
+        ],
+        "citrus": [
+          "elizabeth-arden-green-tea",
+          "elizabeth-arden-sunflowers",
+          "elizabeth-arden-5th-avenue",
+          "elizabeth-arden-arden-beauty"
+        ],
+        "herbal_green": [
+          "elizabeth-arden-green-tea",
+          "elizabeth-arden-sunflowers",
+          "elizabeth-arden-arden-beauty"
+        ],
+        "woody": [
+          "elizabeth-arden-sunflowers",
+          "elizabeth-arden-5th-avenue",
+          "elizabeth-arden-arden-beauty",
+          "elizabeth-arden-provocative-woman"
+        ],
+        "spicy": [
+          "elizabeth-arden-5th-avenue"
+        ],
+        "resin": [],
+        "amber_musk": [
+          "elizabeth-arden-green-tea",
+          "elizabeth-arden-sunflowers",
+          "elizabeth-arden-5th-avenue",
+          "elizabeth-arden-arden-beauty",
+          "elizabeth-arden-provocative-woman"
+        ],
+        "gourmand": [
+          "elizabeth-arden-5th-avenue"
+        ],
+        "tea": [
+          "elizabeth-arden-green-tea"
+        ],
+        "beverage": [],
+        "marine": [],
+        "leather": [],
+        "abstract": [
+          "elizabeth-arden-provocative-woman"
+        ]
+      }
+    },
+    {
+      "brand": "BYREDO",
+      "counts": {
+        "floral": 5,
+        "fruity": 2,
+        "citrus": 2,
+        "herbal_green": 2,
+        "woody": 5,
+        "spicy": 2,
+        "resin": 1,
+        "amber_musk": 5,
+        "gourmand": 2,
+        "tea": 0,
+        "beverage": 0,
+        "marine": 0,
+        "leather": 0,
+        "abstract": 1
+      },
+      "members": {
+        "floral": [
+          "byredo-rose-of-no-mans-land",
+          "byredo-blanche",
+          "byredo-gypsy-water",
+          "byredo-mojave-ghost",
+          "byredo-bal-dafrique"
+        ],
+        "fruity": [
+          "byredo-mojave-ghost",
+          "byredo-bal-dafrique"
+        ],
+        "citrus": [
+          "byredo-gypsy-water",
+          "byredo-bal-dafrique"
+        ],
+        "herbal_green": [
+          "byredo-gypsy-water",
+          "byredo-bal-dafrique"
+        ],
+        "woody": [
+          "byredo-rose-of-no-mans-land",
+          "byredo-blanche",
+          "byredo-gypsy-water",
+          "byredo-mojave-ghost",
+          "byredo-bal-dafrique"
+        ],
+        "spicy": [
+          "byredo-rose-of-no-mans-land",
+          "byredo-gypsy-water"
+        ],
+        "resin": [
+          "byredo-gypsy-water"
+        ],
+        "amber_musk": [
+          "byredo-rose-of-no-mans-land",
+          "byredo-blanche",
+          "byredo-gypsy-water",
+          "byredo-mojave-ghost",
+          "byredo-bal-dafrique"
+        ],
+        "gourmand": [
+          "byredo-gypsy-water",
+          "byredo-bal-dafrique"
+        ],
+        "tea": [],
+        "beverage": [],
+        "marine": [],
+        "leather": [],
+        "abstract": [
+          "byredo-blanche"
+        ]
+      }
+    },
+    {
+      "brand": "COACH",
+      "counts": {
+        "floral": 3,
+        "fruity": 5,
+        "citrus": 5,
+        "herbal_green": 1,
+        "woody": 4,
+        "spicy": 3,
+        "resin": 0,
+        "amber_musk": 3,
+        "gourmand": 1,
+        "tea": 0,
+        "beverage": 0,
+        "marine": 0,
+        "leather": 1,
+        "abstract": 0
+      },
+      "members": {
+        "floral": [
+          "coach-floral",
+          "coach-dreams-sunset",
+          "coach-dreams"
+        ],
+        "fruity": [
+          "coach-floral",
+          "coach-dreams-sunset",
+          "coach-for-men",
+          "coach-open-road",
+          "coach-dreams"
+        ],
+        "citrus": [
+          "coach-floral",
+          "coach-dreams-sunset",
+          "coach-for-men",
+          "coach-open-road",
+          "coach-dreams"
+        ],
+        "herbal_green": [
+          "coach-open-road"
+        ],
+        "woody": [
+          "coach-floral",
+          "coach-for-men",
+          "coach-open-road",
+          "coach-dreams"
+        ],
+        "spicy": [
+          "coach-floral",
+          "coach-for-men",
+          "coach-open-road"
+        ],
+        "resin": [],
+        "amber_musk": [
+          "coach-floral",
+          "coach-for-men",
+          "coach-dreams"
+        ],
+        "gourmand": [
+          "coach-dreams-sunset"
+        ],
+        "tea": [],
+        "beverage": [],
+        "marine": [],
+        "leather": [
+          "coach-for-men"
+        ],
+        "abstract": []
+      }
+    },
+    {
+      "brand": "Dior",
+      "counts": {
+        "floral": 4,
+        "fruity": 0,
+        "citrus": 2,
+        "herbal_green": 2,
+        "woody": 1,
+        "spicy": 0,
+        "resin": 1,
+        "amber_musk": 2,
+        "gourmand": 0,
+        "tea": 0,
+        "beverage": 0,
+        "marine": 0,
+        "leather": 0,
+        "abstract": 0
+      },
+      "members": {
+        "floral": [
+          "dior-miss-dior-blooming-bouquet",
+          "dior-jadore",
+          "dior-gris-dior",
+          "dior-lucky"
+        ],
+        "fruity": [],
+        "citrus": [
+          "dior-sauvage",
+          "dior-gris-dior"
+        ],
+        "herbal_green": [
+          "dior-gris-dior",
+          "dior-lucky"
+        ],
+        "woody": [
+          "dior-sauvage"
+        ],
+        "spicy": [],
+        "resin": [
+          "dior-sauvage"
+        ],
+        "amber_musk": [
+          "dior-miss-dior-blooming-bouquet",
+          "dior-sauvage"
+        ],
+        "gourmand": [],
+        "tea": [],
+        "beverage": [],
+        "marine": [],
+        "leather": [],
+        "abstract": []
+      }
+    },
+    {
+      "brand": "Aesop",
+      "counts": {
+        "floral": 2,
+        "fruity": 0,
+        "citrus": 2,
+        "herbal_green": 4,
+        "woody": 5,
+        "spicy": 5,
+        "resin": 4,
+        "amber_musk": 0,
+        "gourmand": 1,
+        "tea": 1,
+        "beverage": 0,
+        "marine": 0,
+        "leather": 0,
+        "abstract": 0
+      },
+      "members": {
+        "floral": [
+          "aesop-aurner",
+          "aesop-rozu"
+        ],
+        "fruity": [],
+        "citrus": [
+          "aesop-virere",
+          "aesop-above-us-steorra"
+        ],
+        "herbal_green": [
+          "aesop-eidesis",
+          "aesop-virere",
+          "aesop-aurner",
+          "aesop-rozu"
+        ],
+        "woody": [
+          "aesop-eidesis",
+          "aesop-virere",
+          "aesop-above-us-steorra",
+          "aesop-aurner",
+          "aesop-rozu"
+        ],
+        "spicy": [
+          "aesop-eidesis",
+          "aesop-virere",
+          "aesop-above-us-steorra",
+          "aesop-aurner",
+          "aesop-rozu"
+        ],
+        "resin": [
+          "aesop-eidesis",
+          "aesop-virere",
+          "aesop-above-us-steorra",
+          "aesop-rozu"
+        ],
+        "amber_musk": [],
+        "gourmand": [
+          "aesop-above-us-steorra"
+        ],
+        "tea": [
+          "aesop-virere"
+        ],
+        "beverage": [],
+        "marine": [],
+        "leather": [],
+        "abstract": []
+      }
+    },
+    {
+      "brand": "Le Labo",
+      "counts": {
+        "floral": 3,
+        "fruity": 2,
+        "citrus": 2,
+        "herbal_green": 2,
+        "woody": 4,
+        "spicy": 1,
+        "resin": 0,
+        "amber_musk": 4,
+        "gourmand": 1,
+        "tea": 2,
+        "beverage": 0,
+        "marine": 0,
+        "leather": 1,
+        "abstract": 0
+      },
+      "members": {
+        "floral": [
+          "le-labo-another-13",
+          "le-labo-santal-33",
+          "le-labo-lys-41"
+        ],
+        "fruity": [
+          "le-labo-the-matcha-26",
+          "le-labo-the-noir-29"
+        ],
+        "citrus": [
+          "le-labo-the-matcha-26",
+          "le-labo-the-noir-29"
+        ],
+        "herbal_green": [
+          "le-labo-another-13",
+          "le-labo-the-noir-29"
+        ],
+        "woody": [
+          "le-labo-santal-33",
+          "le-labo-lys-41",
+          "le-labo-the-matcha-26",
+          "le-labo-the-noir-29"
+        ],
+        "spicy": [
+          "le-labo-santal-33"
+        ],
+        "resin": [],
+        "amber_musk": [
+          "le-labo-another-13",
+          "le-labo-santal-33",
+          "le-labo-lys-41",
+          "le-labo-the-noir-29"
+        ],
+        "gourmand": [
+          "le-labo-lys-41"
+        ],
+        "tea": [
+          "le-labo-the-matcha-26",
+          "le-labo-the-noir-29"
+        ],
+        "beverage": [],
+        "marine": [],
+        "leather": [
+          "le-labo-santal-33"
+        ],
+        "abstract": []
+      }
+    }
+  ]
+}

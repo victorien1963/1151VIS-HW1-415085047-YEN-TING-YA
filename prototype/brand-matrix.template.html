@@ -1,0 +1,77 @@
+<link rel="stylesheet" href="./style.css">
+<div id="perfume-matrix-prototype" lang="zh-Hant">
+  <header class="pm-masthead">
+    <span class="pm-wordmark">SCENT ATLAS / 香氣圖譜</span>
+    <span>2026 公開推薦樣本</span>
+  </header>
+  <section class="pm-intro" aria-labelledby="pm-heading">
+    <h1 id="pm-heading">品牌的香氣輪廓</h1>
+    <p class="pm-subtitle">10 個熱門品牌，各取 5 款香水。從官方主要香氣描述，看見 14 類香氣元素的分布。</p>
+    <img class="pm-bottle" src="__BOTTLE_IMAGE__" width="312" height="400" alt="" aria-hidden="true" draggable="false">
+  </section>
+  <div class="pm-chart-toolbar">
+  <p class="pm-interaction-hint">點選圓點，查看對應香水與每瓶的官方香氣清單。</p>
+  <div class="pm-key" aria-label="圖例：圓面積與數字代表五款樣本中的提及款數">
+    <span class="pm-key-label">圓面積與數字＝提及款數</span>
+    <svg class="pm-size-legend" viewBox="0 0 244 64" role="img" aria-label="圓面積依序代表一到五款"></svg>
+    <span class="pm-key-note">0＝主要香氣清單未提及</span>
+  </div>
+  </div>
+  <div class="pm-plots" aria-label="品牌與香氣類別點陣圖"></div>
+  <section id="pm-selection" class="pm-selection" aria-labelledby="pm-selection-heading" hidden>
+    <div class="pm-selection-head">
+      <h2 id="pm-selection-heading"></h2>
+      <button class="pm-close cursor-interaction" type="button">收起明細</button>
+    </div>
+    <p class="pm-selection-caption">底線標出本次計數的香氣。以下為官方公布的香氣描述，並非完整配方；補充描述未納入圓點計數。</p>
+    <ol class="pm-perfumes"></ol>
+  </section>
+  <p class="pm-sr-only pm-selection-status" role="status" aria-live="polite"></p>
+  <p class="pm-error" role="alert" hidden></p>
+  <div class="pm-sr-only pm-data-table"></div>
+  <footer class="pm-footer">
+    <p>計數：同款香水在同一類別只計一次，可同時出現在不同類別；0 不代表配方中不含該香氣。</p>
+    <p>分類：14 類是本專案的香氣元素分組，並非整瓶香水的香調家族。「琥珀與麝香」為合併類別，不能解讀成白麝香的款數。品牌維持資料原順序。</p>
+    <p>範圍：依 2026 推薦文章選樣，香氣採品牌官方主要清單。這是 50 款樣本的描述比較，不代表市場銷量、香氣強度或品牌全部產品。</p>
+    <div class="pm-credit"><span>1 筆品牌依據 · 11 篇推薦文章 · 50 筆官方香氣來源</span><span>資料快照 2026.10.03 · D3.js</span></div>
+    <details class="pm-sources">
+      <summary>資料來源與採用說明<span class="pm-source-count"></span></summary>
+      <div class="pm-source-body">
+        <p>依用途列出原始標題、發布者、作者（有提供者）、日期、連結與採用說明。官方資料按品牌收起，可逐一展開查閱。</p>
+        <p>推薦文章用於選樣；香氣以相應版本的品牌官方描述為準。官方頁未標示發布日期時保留缺值，查閱日期不代表發布或索引更新日期。以搜尋擷取取得的官方資料，可能反映較早的頁面內容。</p>
+        <section aria-labelledby="pm-brand-sources-heading">
+          <h2 id="pm-brand-sources-heading">品牌選樣依據 · 1 筆</h2>
+          <ol class="pm-source-list pm-brand-sources"></ol>
+        </section>
+        <section aria-labelledby="pm-recommendation-sources-heading">
+          <h2 id="pm-recommendation-sources-heading">款式推薦文章 · 11 篇</h2>
+          <ol class="pm-source-list pm-recommendation-sources"></ol>
+        </section>
+        <section aria-labelledby="pm-official-sources-heading">
+          <h2 id="pm-official-sources-heading">官方香氣資料 · 50 筆</h2>
+          <div class="pm-official-sources"></div>
+        </section>
+        <section aria-labelledby="pm-image-sources-heading">
+          <h2 id="pm-image-sources-heading">官方商品圖片</h2>
+          <p>50 款瓶身原圖取自品牌官網或官方香水製造商：15 張沿用官方透明圖，35 張經 AI 去背，逐款保留商品頁、原圖連結與處理說明。AI 處理可能改動細小字樣或反光，外觀細節以官方原圖為準。瓶身按等高呈現，圖中大小不代表容量。圖片查閱日期為 2026-10-04。</p>
+          <div class="pm-image-sources"></div>
+        </section>
+        <section aria-labelledby="pm-icon-sources-heading">
+          <h2 id="pm-icon-sources-heading">香氣類別圖示 · 14 枚</h2>
+          <p>採用 <a href="https://react-icons.github.io/react-icons/icons/gi/" target="_blank" rel="noopener noreferrer">React Icons 的 Game Icons</a>（react-icons 5.5.0），作者為 Lorc 與 Delapouite，依 <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener noreferrer">CC BY 3.0</a> 授權使用。保留原始 SVG 路徑，依分類重新配色並等比縮放。</p>
+          <p>圖示僅協助辨認分類，不代表每款香水都含有該香料；「琥珀與麝香」的棉花圖案借用柔軟意象。</p>
+          <details class="pm-source-brand">
+            <summary>逐項圖示、作者與原始連結</summary>
+            <ol class="pm-source-list pm-icon-sources"></ol>
+          </details>
+        </section>
+      </div>
+    </details>
+  </footer>
+  <script type="application/json" id="pm-matrix-data">__MATRIX_DATA__</script>
+  <script type="application/json" id="pm-source-data">__SOURCE_DATA__</script>
+  <script type="application/json" id="pm-perfume-data">__PERFUME_DATA__</script>
+  <script type="application/json" id="pm-icon-data">__ICON_DATA__</script>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<script src="./chart.js"></script>
