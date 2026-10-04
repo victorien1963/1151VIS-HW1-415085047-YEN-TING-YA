@@ -1,0 +1,21 @@
+# Static HTML / CSS / JavaScript project.
+# GitHub currently has no HTML-specific gitignore template.
+# Keep HTML, CSS, JavaScript, JSON, SVG and project images tracked.
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+._*
+
+# Python caches and local virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment configuration and tooling caches
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
